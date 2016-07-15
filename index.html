@@ -1,129 +1,162 @@
 <!DOCTYPE html>
-<title>Repokémon - Showcase of GitHub repos with Pokémon names</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#DD2120">
-<link rel="shortcut icon" sizes="32x32" href="pokeball.png">
-<style>
-body{
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  text-align: center;
-  cursor: default;
-}
-h1{
-  font-weight: normal;
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-h1 + p{
-  margin-top: 0;
-  padding-top: .2em;
-}
-#share > *{
-  vertical-align: top;
-  margin-bottom: 3px;
-}
-#list{
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  text-align: center;
-  display: flex;
-  flex-wrap: wrap;
-}
-#list li{
-  display: inline-flex;
-  text-align: center;
-  width: 120px;
-  vertical-align: top;
-  flex-grow: 1;
-  flex-direction: column;
-  align-items: center;
-}
-#list li.unavailable{
-  opacity: .35;
-}
-#list li a{
-  display: block;
-  color: inherit;
-  text-decoration: none;
-  border-radius: 5px;
-  transition: background-color .3s;
-  padding: 10px 15px;
-}
-#list li a:hover{
-  background-color: #FAFCA9;
-}
-#list li h2{
-  font-size: 1em;
-  margin: 0;
-  padding: 0;
-}
-#list li img{
-  transform: scale(.9, .9);
-  transition: transform .3s;
-}
-#list li a:hover img{
-  transform: scale(1, 1);
-}
-#list li a .metadata{
-  opacity: .4;
-  font-size: .7em;
-}
-#list li a:hover .metadata{
-  opacity: .9;
-}
-</style>
-<h1>Repokémon</h1>
-<p>Showcase of GitHub repos with Pokémon&nbsp;names</p>
-<div id="share">
-  <a class="github-button" href="https://github.com/cheeaun/repokemon" data-icon="octicon-star" data-count-href="/cheeaun/repokemon/stargazers" data-count-api="/repos/cheeaun/repokemon#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star cheeaun/repokemon on GitHub">Star</a>
-  <a class="github-button" href="https://github.com/cheeaun/repokemon/fork" data-icon="octicon-repo-forked" data-count-href="/cheeaun/repokemon/network" data-count-api="/repos/cheeaun/repokemon#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork cheeaun/repokemon on GitHub">Fork</a>
-  <a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="repokemon" data-related="cheeaun" data-show-count="false">Tweet</a>
-  <div class="fb-like" data-href="https://cheeaun.github.io/repokemon" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
-</div>
-<ul id="list"></ul>
-<footer>
-  <p><b>Note</b>: Faded-out pokémon means the name has not been used as a GitHub repository name yet.</p>
-  <p>Pokémon data and images are extracted from the <a href="http://www.pokemon.com/us/pokedex/">official Pokédex web site</a>. All Pokémon content is © Nintendo, Game Freak, and The Pokémon Company.</p>
-  <p>Repokémon is not affiliated with GitHub, Nintendo, Game Freak, or The Pokémon Company in any way.</p>
-</footer>
-<script>
-var $list = document.getElementById('list');
-var xhr = new XMLHttpRequest();
-xhr.onload = function(){
-  var data = JSON.parse(this.responseText);
-  $list.innerHTML = data.map(function(d){
-    var repo = d.repo;
-    if (!repo) return '<li class="unavailable">'
-      + '<img src="http://assets.pokemon.com/assets/cms2/img/pokedex/detail/' + d.id + '.png" width="100" height="100" alt="">'
-      + '<h2>' + d.name + '</h2>'
-    + '</li>';
-    var longDesc = repo.desc || '';
-    var descLimit = 70;
-    var veryLongDesc = longDesc.length > descLimit;
-    var desc = veryLongDesc ? longDesc.slice(0, descLimit-1) + '&hellip;' : longDesc;
-    return '<li class="available">'
-        + '<a href="https://github.com/' + repo.full_name + '" title="' + (veryLongDesc ? longDesc : '') + '">'
-        + '<img src="http://assets.pokemon.com/assets/cms2/img/pokedex/detail/' + d.id + '.png" width="100" height="100" alt="">'
-        + '<h2>' + d.name + '</h2>'
-        + '<div class="metadata">' + desc + '</div>'
-        + '<div class="metadata">⭐️ ' + repo.stars + ' 🍴' + repo.forks + '</div>'
-        + '</a>'
-      + '</li>';
-  }).join('');
-};
-xhr.open('GET', 'data/repokemon.json');
-xhr.send();
-</script>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=245731922139910";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<html>
+
+<head>
+    <title>Repokémon - Showcase of GitHub repos with Pokémon names</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#DD2120">
+    <link rel="shortcut icon" sizes="32x32" href="pokeball.png">
+    <link rel="import" href="elements/repokemon-app.html">
+    <style>
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        text-align: center;
+        cursor: default;
+    }
+    
+    h1 {
+        font-weight: normal;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+    
+    h1 + p {
+        margin-top: 0;
+        padding-top: .2em;
+    }
+    
+    #share > * {
+        vertical-align: top;
+        margin-bottom: 3px;
+    }
+    
+    #list {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    #list li {
+        display: inline-flex;
+        text-align: center;
+        width: 120px;
+        vertical-align: top;
+        flex-grow: 1;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    #list li.unavailable {
+        opacity: .35;
+    }
+    
+    #list li a {
+        display: block;
+        color: inherit;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color .3s;
+        padding: 10px 15px;
+    }
+    
+    #list li a:hover {
+        background-color: #FAFCA9;
+    }
+    
+    #list li h2 {
+        font-size: 1em;
+        margin: 0;
+        padding: 0;
+    }
+    
+    #list li img {
+        transform: scale(.9, .9);
+        transition: transform .3s;
+    }
+    
+    #list li a:hover img {
+        transform: scale(1, 1);
+    }
+    
+    #list li a .metadata {
+        opacity: .4;
+        font-size: .7em;
+    }
+    
+    #list li a:hover .metadata {
+        opacity: .9;
+    }
+    </style>
+</head>
+
+<body>
+    <h1>Repokémon</h1>
+    <p>Showcase of GitHub repos with Pokémon&nbsp;names</p>
+    <div id="share">
+        <a class="github-button" href="https://github.com/cheeaun/repokemon" data-icon="octicon-star" data-count-href="/cheeaun/repokemon/stargazers" data-count-api="/repos/cheeaun/repokemon#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star cheeaun/repokemon on GitHub">Star</a>
+        <a class="github-button" href="https://github.com/cheeaun/repokemon/fork" data-icon="octicon-repo-forked" data-count-href="/cheeaun/repokemon/network" data-count-api="/repos/cheeaun/repokemon#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork cheeaun/repokemon on GitHub">Fork</a>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="repokemon" data-related="cheeaun" data-show-count="false">Tweet</a>
+        <div class="fb-like" data-href="https://cheeaun.github.io/repokemon" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    <repokemon-app></repokemon-app>
+
+    <footer>
+        <p><b>Note</b>: Faded-out pokémon means the name has not been used as a GitHub repository name yet.</p>
+        <p>Pokémon data and images are extracted from the <a href="http://www.pokemon.com/us/pokedex/">official Pokédex web site</a>. All Pokémon content is © Nintendo, Game Freak, and The Pokémon Company.</p>
+        <p>Repokémon is not affiliated with GitHub, Nintendo, Game Freak, or The Pokémon Company in any way.</p>
+    </footer>
+
+    <script async>
+    // Load webcomponentsjs polyfill if browser does not support native Web Components
+    (function() {
+        'use strict';
+        var onload = function() {
+            // For native Imports, manually fire WebComponentsReady so user code
+            // can use the same code path for native and polyfill'd imports.
+            if (!window.HTMLImports) {
+                document.dispatchEvent(
+                    new CustomEvent('WebComponentsReady', {
+                        bubbles: true
+                    })
+                );
+            }
+        };
+        var webComponentsSupported = (
+            'registerElement' in document && 'import' in document.createElement('link') && 'content' in document.createElement('template')
+        );
+        if (!webComponentsSupported) {
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '/bower_components/webcomponentsjs/webcomponents-lite.min.js';
+            script.onload = onload;
+            document.head.appendChild(script);
+        } else {
+            onload();
+        }
+    })();
+    </script>
+
+
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <div id="fb-root"></div>
+
+    <script>
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=245731922139910";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+</body>
+
+</html>
