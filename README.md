@@ -3,7 +3,7 @@ Repokémon
 
 Showcase of GitHub repos with Pokémon names.
 
-![Screenshot](screenshot.png)
+[![Screenshot](screenshot.png)](https://cheeaun.github.io/repokemon/)
 
 How?
 ---
