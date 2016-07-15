@@ -10,7 +10,7 @@
         "sizes": "600x600",
         "type": "image/svg"
       }],
-  "start_url": "/repokemon/?utm_source=homescreen",
+  "start_url": "/repokemon/",
   "display": "standalone",
   "theme_color": "#DD2120",
   "background_color": "#DD2120"
