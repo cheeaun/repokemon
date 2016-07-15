@@ -2,11 +2,11 @@
   "name": "Repokémon",
   "short_name": "Repokémon",
   "icons": [{
-        "src": "pokeball.png",
+        "src": "/repokemon/pokeball.png",
         "sizes": "600x600",
         "type": "image/png"
       },{
-        "src": "pokeball.svg",
+        "src": "/repokemon/pokeball.svg",
         "sizes": "600x600",
         "type": "image/svg"
       }],
