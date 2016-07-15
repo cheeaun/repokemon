@@ -3,7 +3,7 @@ Repokémon
 
 Showcase of GitHub repos with Pokémon names.
 
-![Screenshot](screenshot.png)
+[![Screenshot](screenshot.png)](https://cheeaun.github.io/repokemon/)
 
 How?
 ---
@@ -12,6 +12,14 @@ How?
 2. Use GitHub API and search for every pokémon name.
 3. Get a matching repository name with highest number of stars.
 4. 💥💥💥
+
+Dev
+---
+
+- `npm run pokemon` - grab the pokémons
+- `npm run repokemon` - grab the Github repos
+  - Copy `config.sample.json` to `config.json`, configure it with `client_id` and `client_secret` from GitHub
+  - Takes about 30 minutes to prevent API rate limit issues
 
 Credits
 ---
