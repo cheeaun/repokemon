@@ -27,3 +27,5 @@ Credits
 Pokémon data and images are extracted from the [official Pokédex web site](http://www.pokemon.com/us/pokedex/). All Pokémon content is © Nintendo, Game Freak, and The Pokémon Company.
 
 Repokémon is not affiliated with GitHub, Nintendo, Game Freak, or The Pokémon Company in any way.
+
+The logo is created by [@limhenry](https://github.com/limhenry). Available on [Codepen](http://codepen.io/limhenry/full/rLYkWY/).
