@@ -1,0 +1,18 @@
+{
+  "name": "repokemon",
+  "version": "1.0.0",
+  "description": "Showcase of GitHub repos with Pokémon names",
+  "keywords": [
+    "pokemon",
+    "github",
+    "repositories",
+    "repository",
+    "repo"
+  ],
+  "author": "Lim Chee Aun",
+  "license": "ISC",
+  "scripts": {
+    "pokemon": "curl -o data/pokemon-list.json http://www.pokemon.com/us/api/pokedex/kalos",
+    "repokemon": "node scripts/repokemon.js"
+  }
+}
