@@ -71,6 +71,10 @@ h1 + p{
 #list li a:hover .metadata{
   opacity: .9;
 }
+li.available small {
+  color: #919191;
+  font-size: 80%;
+}
 </style>
 <h1>Repokémon</h1>
 <p>Showcase of GitHub repos with Pokémon&nbsp;names</p>
@@ -95,6 +99,7 @@ xhr.onload = function(){
     var repo = d.repo;
     if (!repo) return '<li class="unavailable">'
       + '<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/' + d.id + '.png" width="100" height="100" alt="">'
+      + '<small>' + '#' + d.id + '</small>'
       + '<h2>' + d.name + '</h2>'
     + '</li>';
     var longDesc = repo.desc || '';
@@ -104,6 +109,7 @@ xhr.onload = function(){
     return '<li class="available">'
         + '<a href="https://github.com/' + repo.full_name + '" title="' + (veryLongDesc ? longDesc : '') + '">'
         + '<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/' + d.id + '.png" width="100" height="100" alt="">'
+        + '<small>' + '#' + d.id + '</small>'
         + '<h2>' + d.name + '</h2>'
         + '<div class="metadata">' + desc + '</div>'
         + '<div class="metadata">⭐️ ' + repo.stars + ' 🍴' + repo.forks + '</div>'
