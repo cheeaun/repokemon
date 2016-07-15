@@ -1,0 +1,13 @@
+{
+  "name": "Repokémon",
+  "short_name": "Repokémon",
+  "icons": [{
+        "src": "/pokeball.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#DD2120",
+  "background_color": "#DD2120"
+}
