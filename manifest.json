@@ -3,10 +3,14 @@
   "short_name": "Repokémon",
   "icons": [{
         "src": "/pokeball.png",
-        "sizes": "512x512",
+        "sizes": "600x600",
         "type": "image/png"
+      },{
+        "src": "/pokeball.svg",
+        "sizes": "600x600",
+        "type": "image/svg"
       }],
-  "start_url": "/",
+  "start_url": "/repokemon/?utm_source=homescreen",
   "display": "standalone",
   "theme_color": "#DD2120",
   "background_color": "#DD2120"

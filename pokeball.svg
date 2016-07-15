@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<svg width="600.0000000000001" height="600.0000000000001" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <desc>Created by HiQPdf</desc>
+
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#ffffff" id="svg_24" height="608.000007" width="663.111108" y="-2.666664" x="-0.444451" stroke-width="0" fill="#dd2120"/>
+  <g id="svg_1" stroke-linejoin="bevel" stroke-linecap="square" fill-rule="evenodd" fill="none">
+   <g id="svg_2" stroke-miterlimit="2" stroke-linecap="square" stroke="#000000" fill="#000000"/>
+   <g id="svg_3" stroke-miterlimit="2" stroke-linecap="square" stroke="#000000" fill="#000000"/>
+   <g id="svg_4" stroke-miterlimit="2" stroke-linecap="square" stroke="#000000" fill="#000000"/>
+   <g id="svg_5" fill="#dd2120">
+    <path id="svg_6" d="m50,50l500,0l0,500l-500,0l0,-500" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_7" fill="#ffffff">
+    <path id="svg_8" d="m200,300l200,0l0,10c0,49.706 -40.294,90 -90,90l-20,0c-49.706,0 -90,-40.294 -90,-90l0,-10" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_9" fill="#1d1d1b">
+    <path id="svg_10" d="m200,280l200,0l0,40l-200,0l0,-40" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_11" fill="#ffffff">
+    <path id="svg_12" d="m300,261c21.539,0 39,17.461 39,39c0,21.539 -17.461,39 -39,39c-21.539,0 -39,-17.461 -39,-39c0,-21.539 17.461,-39 39,-39" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_13" fill="#1d1d1b">
+    <path id="svg_14" d="m300,260c22.091,0 40,17.909 40,40c0,22.091 -17.909,40 -40,40c-22.091,0 -40,-17.909 -40,-40c0,-22.091 17.909,-40 40,-40m0,10c16.569,0 30,13.431 30,30c0,16.569 -13.431,30 -30,30c-16.569,0 -30,-13.431 -30,-30c0,-16.569 13.431,-30 30,-30" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_15" fill="#ffffff">
+    <path id="svg_16" d="m300,276c13.255,0 24,10.745 24,24c0,13.255 -10.745,24 -24,24c-13.255,0 -24,-10.745 -24,-24c0,-13.255 10.745,-24 24,-24" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_17" fill="#1d1d1b">
+    <path id="svg_18" d="m300,275c13.807,0 25,11.193 25,25c0,13.807 -11.193,25 -25,25c-13.807,0 -25,-11.193 -25,-25c0,-13.807 11.193,-25 25,-25m0,6c10.493,0 19,8.507 19,19c0,10.493 -8.507,19 -19,19c-10.493,0 -19,-8.507 -19,-19c0,-10.493 8.507,-19 19,-19" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_19" fill="#1d1d1b">
+    <path id="svg_20" d="m300,190c60.751,0 110,49.249 110,110c0,60.751 -49.249,110 -110,110c-60.751,0 -110,-49.249 -110,-110c0,-60.751 49.249,-110 110,-110m0,10c55.229,0 100,44.771 100,100c0,55.229 -44.771,100 -100,100c-55.229,0 -100,-44.771 -100,-100c0,-55.229 44.771,-100 100,-100" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_21" stroke-miterlimit="2" stroke-linecap="square" stroke="#000000" fill="#000000"/>
+   <g id="svg_22" stroke-miterlimit="2" stroke-linecap="square" stroke="#000000" fill="#000000"/>
+   <g id="svg_23" stroke-miterlimit="2" stroke-linecap="square" stroke="#000000" fill="#000000"/>
+  </g>
+ </g>
+</svg>
