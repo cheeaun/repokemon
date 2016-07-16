@@ -47,6 +47,9 @@ h1 + p{
   opacity: .35;
   padding: 10px 15px;
 }
+#list li.unavailable *{
+  pointer-events: none;
+}
 #list li a{
   display: block;
   color: inherit;
@@ -57,6 +60,9 @@ h1 + p{
 }
 #list li a:hover{
   background-color: #FAFCA9;
+}
+#list li a *{
+  pointer-events: none;
 }
 #list li h2{
   font-size: 1em;
