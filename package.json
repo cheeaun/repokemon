@@ -13,6 +13,7 @@
   "license": "ISC",
   "scripts": {
     "pokemon": "curl -o data/pokemon-list.json http://www.pokemon.com/us/api/pokedex/kalos",
-    "repokemon": "node scripts/repokemon.js"
+    "repokemon": "node scripts/repokemon.js",
+    "stats": "node scripts/stats.js"
   }
 }
