@@ -5,6 +5,7 @@
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#DD2120">
 <link rel="shortcut icon" href="favicon.png">
+<link rel="stylesheet" href="pokemon.css">
 <style>
 body{
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -58,9 +59,6 @@ h1 + p{
   transition: background-color .3s;
   padding: 10px 15px;
 }
-#list li a:hover{
-  background-color: #FAFCA9;
-}
 #list li a *{
   pointer-events: none;
 }
@@ -69,11 +67,17 @@ h1 + p{
   margin: 0;
   padding: 0;
 }
-#list li img{
+#list li .img{
+  background-image: url(data/pokemon.jpg);
+  background-repeat: no-repeat;
+  background-size: 2700px 2700px;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
   transform: scale(.9, .9);
-  transition: transform .3s;
+  transition: transform .2s;
 }
-#list li a:hover img{
+#list li a:hover .img{
   transform: scale(1, 1);
 }
 #list li a .metadata{
@@ -106,7 +110,7 @@ xhr.onload = function(){
   $list.innerHTML = data.map(function(d){
     var repo = d.repo;
     if (!repo) return '<li class="unavailable">'
-      + '<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/' + d.id + '.png" width="100" height="100" alt="">'
+      + '<div class="img img-' + d.id + '"></div>'
       + '<h2>' + d.name + '</h2>'
     + '</li>';
     var longDesc = repo.desc || '';
@@ -115,7 +119,7 @@ xhr.onload = function(){
     var desc = veryLongDesc ? longDesc.slice(0, descLimit-1) + '&hellip;' : longDesc;
     return '<li class="available">'
         + '<a href="https://github.com/' + repo.full_name + '" title="' + (veryLongDesc ? longDesc : '') + '">'
-        + '<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/' + d.id + '.png" width="100" height="100" alt="">'
+        + '<div class="img img-' + d.id + '"></div>'
         + '<h2>' + d.name + '</h2>'
         + '<div class="metadata">' + desc + '</div>'
         + '<div class="metadata">⭐️ ' + repo.stars + ' 🍴' + repo.forks + '</div>'
