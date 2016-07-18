@@ -13,7 +13,7 @@ Spritesmith.run({
   src: sprites,
   padding: 0,
 }, function handleResult (err, result) {
-  fs.writeFileSync('data/pokemon-test.png', result.image);
+  fs.writeFileSync('data/pokemon.png', result.image);
   const width = result.properties.width;
   const height = result.properties.height;
   const css = Object.keys(result.coordinates).map(function(path){
