@@ -77,6 +77,9 @@ h1 + p{
   transform: scale(.9, .9);
   transition: transform .2s;
 }
+.support-webp #list li .img{
+  background-image: url(data/pokemon.webp);
+}
 #list li a:hover .img{
   transform: scale(1, 1);
 }
@@ -129,6 +132,14 @@ xhr.onload = function(){
 };
 xhr.open('GET', 'data/repokemon.json');
 xhr.send();
+
+var img = new Image();
+img.onload = function(){
+  if (img.width > 0 && img.height > 0){
+    document.body.className = 'support-webp';
+  }
+};
+img.src = 'data:image/webp;base64,UklGRiIAAABXRUJQVlA4IBYAAAAwAQCdASoBAAEADsD+JaQAA3AAAAAA';
 </script>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
