@@ -16,7 +16,7 @@
     "repokemon": "node scripts/repokemon.js",
     "stats": "node scripts/stats.js",
     "images": "node scripts/images.js",
-    "sprite": "node scripts/sprite.js",
+    "sprite": "node scripts/sprite.js"
   },
   "devDependencies": {
     "spritesmith": "~3.1.0"
