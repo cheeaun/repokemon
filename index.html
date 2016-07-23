@@ -11,6 +11,7 @@ body{
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
   cursor: default;
+  padding-bottom: 2em;
 }
 h1{
   font-weight: normal;
@@ -90,6 +91,21 @@ h1 + p{
 #list li a:hover .metadata{
   opacity: .9;
 }
+#controls{
+  border-top: 1px solid #eee;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, .5);
+  vertical-align: middle;
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+}
+#controls input{
+  vertical-align: middle;
+}
 </style>
 <h1>Repokémon</h1>
 <p>Showcase of GitHub repos with Pokémon&nbsp;names</p>
@@ -100,6 +116,10 @@ h1 + p{
   <div class="fb-like" data-href="https://cheeaun.github.io/repokemon" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
 </div>
 <ul id="list"></ul>
+<div id="controls">
+  <label><input type="radio" name="sort" value="number" checked> Pokédex number</label>
+  <label><input type="radio" name="sort" value="stars"> Most stars</label>
+</div>
 <footer>
   <p><b>Note</b>: Faded-out pokémon means the name has not been used as a GitHub repository name yet.</p>
   <p>Pokémon data and images are extracted from the <a href="http://www.pokemon.com/us/pokedex/">official Pokédex web site</a>. All Pokémon content is © Nintendo, Game Freak, and The Pokémon Company.</p>
@@ -108,9 +128,26 @@ h1 + p{
 <script>
 var $list = document.getElementById('list');
 var xhr = new XMLHttpRequest();
+var data;
 xhr.onload = function(){
-  var data = JSON.parse(this.responseText);
-  $list.innerHTML = data.map(function(d){
+  data = JSON.parse(this.responseText);
+  renderList();
+};
+xhr.open('GET', 'data/repokemon.json');
+xhr.send();
+
+var sortFuncs = {
+  number: function(a, b){
+    return parseInt(a.id, 10) - parseInt(b.id, 10);
+  },
+  stars: function(a, b){
+    return (b.repo ? b.repo.stars : 0) - (a.repo ? a.repo.stars : 0);
+  },
+};
+function renderList(sort){
+  if (!data) return;
+  if (!sort) sort = 'number';
+  $list.innerHTML = data.sort(sortFuncs[sort]).map(function(d){
     var repo = d.repo;
     if (!repo) return '<li class="unavailable">'
       + '<div class="img img-' + d.id + '"></div>'
@@ -130,8 +167,11 @@ xhr.onload = function(){
       + '</li>';
   }).join('');
 };
-xhr.open('GET', 'data/repokemon.json');
-xhr.send();
+
+var $controls = document.getElementById('controls');
+$controls.addEventListener('change', function(e){
+  renderList(e.target.value);
+}, true);
 
 var img = new Image();
 img.onload = function(){
