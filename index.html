@@ -121,7 +121,7 @@ xhr.onload = function(){
     var veryLongDesc = longDesc.length > descLimit;
     var desc = veryLongDesc ? longDesc.slice(0, descLimit-1) + '&hellip;' : longDesc;
     return '<li class="available">'
-        + '<a href="https://github.com/' + repo.full_name + '" title="' + (veryLongDesc ? longDesc : '') + '">'
+        + '<a href="https://github.com/' + repo.full_name + '" title="' + (veryLongDesc ? longDesc : '') + '" target="_blank" ontouchstart>'
         + '<div class="img img-' + d.id + '"></div>'
         + '<h2>' + d.name + '</h2>'
         + '<div class="metadata">' + desc + '</div>'
