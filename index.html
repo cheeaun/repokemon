@@ -37,21 +37,22 @@ h1 + p{
 #list li{
   display: inline-flex;
   text-align: center;
-  width: 120px;
   vertical-align: top;
   flex-grow: 1;
-  flex-direction: column;
-  align-items: center;
+  flex-shrink: 1;
+  flex-basis: 120px;
+  align-items: stretch;
   box-sizing: border-box;
 }
 #list li.unavailable{
+  flex-direction: column;
+  align-items: center;
   opacity: .35;
   padding: 10px 15px;
-}
-#list li.unavailable *{
   pointer-events: none;
 }
 #list li a{
+  width: 100%;
   display: block;
   color: inherit;
   text-decoration: none;
@@ -75,7 +76,6 @@ h1 + p{
   height: 100px;
   display: inline-block;
   transform: scale(.9);
-  transition: transform .2s;
 }
 .support-webp #list li .img{
   background-image: url(data/pokemon.webp);
