@@ -17,8 +17,10 @@
     "stats": "node scripts/stats.js",
     "images": "node scripts/images.js",
     "sprite": "node scripts/sprite.js"
+    "server": "hs -c-1 -p 1337"
   },
   "devDependencies": {
+    "http-server": "~0.9.0",
     "spritesmith": "~3.1.0"
   }
 }
