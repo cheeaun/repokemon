@@ -70,16 +70,11 @@ h1 + p{
   padding: 0;
 }
 #list li .img{
-  background-image: url(data/pokemon.jpg);
   background-repeat: no-repeat;
-  background-size: 2700px 2700px;
   width: 100px;
   height: 100px;
   display: inline-block;
   transform: scale(.9);
-}
-.support-webp #list li .img{
-  background-image: url(data/pokemon.webp);
 }
 #list li a:hover .img{
   transform: scale(1);
@@ -150,7 +145,7 @@ function renderList(sort){
   $list.innerHTML = data.sort(sortFuncs[sort]).map(function(d){
     var repo = d.repo;
     if (!repo) return '<li class="unavailable">'
-      + '<div class="img img-' + d.id + '"></div>'
+      + '<div class="img i' + d.id + '"></div>'
       + '<h2>' + d.name + '</h2>'
     + '</li>';
     var longDesc = repo.desc || '';
@@ -159,10 +154,10 @@ function renderList(sort){
     var desc = veryLongDesc ? longDesc.slice(0, descLimit-1) + '&hellip;' : longDesc;
     return '<li class="available">'
         + '<a href="https://github.com/' + repo.full_name + '" title="' + (veryLongDesc ? longDesc : '') + '" target="_blank" ontouchstart>'
-        + '<div class="img img-' + d.id + '"></div>'
-        + '<h2>' + d.name + '</h2>'
-        + '<div class="metadata">' + desc + '</div>'
-        + '<div class="metadata">⭐️ ' + repo.stars + ' 🍴' + repo.forks + '</div>'
+          + '<div class="img i' + d.id + '"></div>'
+          + '<h2>' + d.name + '</h2>'
+          + '<div class="metadata">' + desc + '</div>'
+          + '<div class="metadata">⭐️ ' + repo.stars + ' 🍴' + repo.forks + '</div>'
         + '</a>'
       + '</li>';
   }).join('');
@@ -173,13 +168,7 @@ $controls.addEventListener('change', function(e){
   renderList(e.target.value);
 }, true);
 
-var img = new Image();
-img.onload = function(){
-  if (img.width > 0 && img.height > 0){
-    document.body.className = 'support-webp';
-  }
 };
-img.src = 'data:image/webp;base64,UklGRiIAAABXRUJQVlA4IBYAAAAwAQCdASoBAAEADsD+JaQAA3AAAAAA';
 </script>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
