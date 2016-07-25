@@ -13,6 +13,21 @@ How?
 3. Get a matching repository name with highest number of stars.
 4. 💥💥💥
 
+Criteria
+---
+
+The showcase only list repositories with these criteria:
+
+- **Repository name** matches exactly the same as Pokémon name.
+  - ✅ `name/pikachu`
+  - ✅ `name/mr-mime`
+  - ✅ `name/mr_mime`
+  - ⛔️ `name/pikachu-awesome`
+  - ⛔️ `name/pikachuuuu`
+- **Most stars**. If there are few repositories with the same name, the one with most stars will be listed.
+- **Contains description**, because... it has to be descriptive.
+- **Contains `lang`**, the repository language determined by GitHub.
+
 Dev
 ---
 
