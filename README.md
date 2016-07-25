@@ -23,7 +23,7 @@ Dev
   - Takes about 30 minutes to prevent API rate limit issues
 - `npm run stats` - show stats of the collected data
 - `npm run images` - download all pokémon images to `data/images` (not included in this repo)
-- `npm run sprite` - generate a sprite image `data/pokemon.png` (not included in this repo), which I manually convert to `data/pokemon.jpg`.
+- `npm run sprite` - generate a sprite image `data/pokemon.png` (not included in this repo), which I manually convert to `data/pokemon.jpg`
 - `npm run css-min` - compress `pokemon.css` to smaller `pokemon.min.css`
 - `npm run server` - start a local server at `localhost:1337`
 
