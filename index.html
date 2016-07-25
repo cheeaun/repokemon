@@ -120,6 +120,7 @@ h1 + p{
   <p>Pokémon data and images are extracted from the <a href="http://www.pokemon.com/us/pokedex/">official Pokédex web site</a>. All Pokémon content is © Nintendo, Game Freak, and The Pokémon Company.</p>
   <p>Repokémon is not affiliated with GitHub, Nintendo, Game Freak, or The Pokémon Company in any way.</p>
 </footer>
+<div id="fb-root"></div>
 <script>
 var $list = document.getElementById('list');
 var xhr = new XMLHttpRequest();
@@ -168,15 +169,16 @@ $controls.addEventListener('change', function(e){
   renderList(e.target.value);
 }, true);
 
+var $s = function(url){
+  var s0 = document.getElementsByTagName('script')[0];
+  var s1 = document.createElement('script');
+  s1.src = url;
+  s0.parentNode.insertBefore(s1, s0);
 };
+
+setTimeout(function(){
+  $s('https://buttons.github.io/buttons.js');
+  $s('//platform.twitter.com/widgets.js');
+  $s('//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=245731922139910');
+}, 2000);
 </script>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=245731922139910";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
