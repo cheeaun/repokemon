@@ -128,7 +128,7 @@ xhr.onload = function(){
   data = JSON.parse(this.responseText);
   renderList();
 };
-xhr.open('GET', 'data/repokemon.json');
+xhr.open('GET', 'data/repokemon.min.json');
 xhr.send();
 
 var sortFuncs = {
