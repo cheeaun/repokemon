@@ -25,7 +25,7 @@ const total = data.length;
 console.log('Total pokemons: ' + total);
 
 const done = function(){
-  fs.writeFile('data/repokemon.json', JSON.stringify(data));
+  fs.writeFile('data/repokemon.json', JSON.stringify(data, null, '\t'));
 };
 
 const fetch = function(){
