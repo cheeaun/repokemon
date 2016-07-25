@@ -1,7 +1,7 @@
 'use strict';
 
 const fs = require('fs');
-const data = JSON.parse(fs.readFileSync('data/repokemon.json'));
+const data = JSON.parse(fs.readFileSync('data/repokemon.min.json'));
 
 let countAvailable = 0;
 let countUnavailable = 0;
