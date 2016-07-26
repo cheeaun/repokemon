@@ -99,7 +99,7 @@
 .i098{background-position: -700px -900px;}
 .i099{background-position: -800px -900px;}
 .i100{background-position: -900px -900px;}
-[class*=i1],.i200{background-image: url(data/pokemon-1.jpg);background-size: 1000px 1000px;}
+[class*=i1]:not(.i100),.i200{background-image: url(data/pokemon-1.jpg);background-size: 1000px 1000px;}
 .i101{background-position: -100px -0px;}
 .i102{background-position: -700px -100px;}
 .i103{background-position: -0px -100px;}
@@ -200,7 +200,7 @@
 .i198{background-position: -700px -900px;}
 .i199{background-position: -800px -900px;}
 .i200{background-position: -900px -900px;}
-[class*=i2],.i300{background-image: url(data/pokemon-2.jpg);background-size: 1000px 1000px;}
+[class*=i2]:not(.i200),.i300{background-image: url(data/pokemon-2.jpg);background-size: 1000px 1000px;}
 .i201{background-position: -100px -0px;}
 .i202{background-position: -700px -100px;}
 .i203{background-position: -0px -100px;}
@@ -301,7 +301,7 @@
 .i298{background-position: -700px -900px;}
 .i299{background-position: -800px -900px;}
 .i300{background-position: -900px -900px;}
-[class*=i3],.i400{background-image: url(data/pokemon-3.jpg);background-size: 1000px 1000px;}
+[class*=i3]:not(.i300),.i400{background-image: url(data/pokemon-3.jpg);background-size: 1000px 1000px;}
 .i301{background-position: -100px -0px;}
 .i302{background-position: -700px -100px;}
 .i303{background-position: -0px -100px;}
@@ -402,7 +402,7 @@
 .i398{background-position: -700px -900px;}
 .i399{background-position: -800px -900px;}
 .i400{background-position: -900px -900px;}
-[class*=i4],.i500{background-image: url(data/pokemon-4.jpg);background-size: 1000px 1000px;}
+[class*=i4]:not(.i400),.i500{background-image: url(data/pokemon-4.jpg);background-size: 1000px 1000px;}
 .i401{background-position: -100px -0px;}
 .i402{background-position: -700px -100px;}
 .i403{background-position: -0px -100px;}
@@ -503,7 +503,7 @@
 .i498{background-position: -700px -900px;}
 .i499{background-position: -800px -900px;}
 .i500{background-position: -900px -900px;}
-[class*=i5],.i600{background-image: url(data/pokemon-5.jpg);background-size: 1000px 1000px;}
+[class*=i5]:not(.i500),.i600{background-image: url(data/pokemon-5.jpg);background-size: 1000px 1000px;}
 .i501{background-position: -100px -0px;}
 .i502{background-position: -700px -100px;}
 .i503{background-position: -0px -100px;}
@@ -604,7 +604,7 @@
 .i598{background-position: -700px -900px;}
 .i599{background-position: -800px -900px;}
 .i600{background-position: -900px -900px;}
-[class*=i6],.i700{background-image: url(data/pokemon-6.jpg);background-size: 1000px 1000px;}
+[class*=i6]:not(.i600),.i700{background-image: url(data/pokemon-6.jpg);background-size: 1000px 1000px;}
 .i601{background-position: -100px -0px;}
 .i602{background-position: -700px -100px;}
 .i603{background-position: -0px -100px;}
@@ -705,7 +705,7 @@
 .i698{background-position: -700px -900px;}
 .i699{background-position: -800px -900px;}
 .i700{background-position: -900px -900px;}
-[class*=i7],.i800{background-image: url(data/pokemon-7.jpg);background-size: 500px 400px;}
+[class*=i7]:not(.i700),.i800{background-image: url(data/pokemon-7.jpg);background-size: 500px 400px;}
 .i701{background-position: -100px -0px;}
 .i702{background-position: -300px -100px;}
 .i703{background-position: -0px -100px;}

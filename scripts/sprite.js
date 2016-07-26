@@ -32,7 +32,8 @@ const dataPromises = dataChunks.map(function(chunk, chunkID){
       const height = result.properties.height;
       const coords = Object.keys(result.coordinates);
       const lastCoordID = coords[coords.length-1].match(/\d+/);
-      let selector = '[class*=i' + chunkID + '],.i' + ((chunkID+1)*100);
+      const notSelector = chunkID ? ':not(.i' + chunkID*100 + ')' : '';
+      let selector = '[class*=i' + chunkID + ']' + notSelector + ',.i' + ((chunkID+1)*100);
       const css = selector + '{'
           + 'background-image: url(' + path.replace('.png', '.jpg') + ');'
           + 'background-size: ' + (width/ratio) + 'px ' + (height/ratio) + 'px;'
