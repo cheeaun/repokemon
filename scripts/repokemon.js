@@ -25,7 +25,7 @@ const total = data.length;
 console.log('Total pokemons: ' + total);
 
 const done = function(){
-  fs.writeFile('data/repokemon.json', JSON.stringify(data, null, '\t'));
+  fs.writeFileSync('data/repokemon.json', JSON.stringify(data, null, '\t'));
 };
 
 const fetch = function(){
@@ -35,10 +35,10 @@ const fetch = function(){
   var pokemonName = d.name;
   var pokemonSlug = d.slug;
 
-  console.log(count + ' Fetching... ' + pokemonName);
+  console.log(count + ' Catching ' + pokemonName + '...');
   https.get({
     hostname: 'api.github.com',
-    path: '/search/repositories?q=' + encodeURIComponent(pokemonName) + '&sort=stars&client_id=' + config.client_id + '&client_secret=' + config.client_secret,
+    path: '/search/repositories?q=' + encodeURIComponent(pokemonName) + '&client_id=' + config.client_id + '&client_secret=' + config.client_secret,
     headers: {
       'User-Agent': 'Repokemon client',
     }
@@ -49,30 +49,38 @@ const fetch = function(){
     });
     res.on('end', function(){
       var data = JSON.parse(body);
-      if (data.items && data.items.length){
-        for (var i=0, l=data.items.length; i<l; i++){
-          var item = data.items[i];
-          if (item.name.toLowerCase() == pokemonName.toLowerCase() ||
+      var items = data.items;
+      if (items && items.length){
+        items = items.filter(function(item){
+          return (item.description && item.language && (
+            item.name.toLowerCase() == pokemonName.toLowerCase() ||
             item.name.toLowerCase() == pokemonSlug.toLowerCase() ||
             item.name.toLowerCase() == pokemonSlug.toLowerCase().replace(/_/g, '-') ||
-            item.name.toLowerCase() == pokemonSlug.toLowerCase().replace(/_/g, '')){
-              d.repo = {
-                id: item.id,
-                name: item.name,
-                full_name: item.full_name,
-                owner_name: item.owner.login,
-                owner_avatar: item.owner.avatar_url,
-                url: item.html_url,
-                desc: item.description,
-                lang: item.language,
-                stars: item.stargazers_count,
-                watches: item.watchers_count,
-                forks: item.forks_count,
-              };
-              setTimeout(fetch, 2000); // 2 seconds interval
-              return;
-          }
+            item.name.toLowerCase() == pokemonSlug.toLowerCase().replace(/_/g, '')
+          ));
+        });
+        if (!items.length){
+          setTimeout(fetch, 2000); // 2 seconds interval
+          return;
         }
+        var item = items.sort(function(a, b){
+          var s = b.stargazers_count - a.stargazers_count;
+          if (s != 0) return s;
+          return new Date(b.pushed_at) - new Date(a.pushed_at);
+        })[0];
+        d.repo = {
+          id: item.id,
+          name: item.name,
+          full_name: item.full_name,
+          owner_name: item.owner.login,
+          owner_avatar: item.owner.avatar_url,
+          url: item.html_url,
+          desc: item.description,
+          lang: item.language,
+          stars: item.stargazers_count,
+          watches: item.watchers_count,
+          forks: item.forks_count,
+        };
         setTimeout(fetch, 2000); // 2 seconds interval
       } else {
         setTimeout(fetch, 2000); // 2 seconds interval
