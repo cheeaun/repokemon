@@ -123,6 +123,7 @@ h1 + p{
 <div id="controls">
   <label><input type="radio" name="sort" value="number" checked> Pokédex number</label>
   <label><input type="radio" name="sort" value="stars"> Most stars</label>
+  <label><input type="radio" name="sort" value="not-taken"> Available Repos</label>
 </div>
 <footer>
   <p><b>Note</b>: Faded-out pokémon means the name has not been used as a GitHub repository name yet.</p>
@@ -148,28 +149,31 @@ var sortFuncs = {
   stars: function(a, b){
     return (b.repo ? b.repo.stars : 0) - (a.repo ? a.repo.stars : 0);
   },
+
 };
 function renderList(sort){
+  var notTaken = false;
   if (!data) return;
-  if (!sort) sort = 'number';
+  if (sort === 'not-taken') notTaken = true;
+  if (!sort || sort === 'not-taken') sort = 'number';
   $list.innerHTML = data.sort(sortFuncs[sort]).map(function(d){
     var repo = d.repo;
-    if (!repo) return '<li class="unavailable">'
-      + '<div class="img i' + d.id + '"></div>'
-      + '<h2>' + d.name + '</h2>'
-    + '</li>';
-    var longDesc = repo.desc || '';
-    var descLimit = 70;
-    var veryLongDesc = longDesc.length > descLimit;
-    var desc = veryLongDesc ? longDesc.slice(0, descLimit-1) + '&hellip;' : longDesc;
-    return '<li class="available">'
-        + '<a href="https://github.com/' + repo.full_name + '" title="' + (veryLongDesc ? longDesc : '') + '" target="_blank" ontouchstart>'
-          + '<div class="img i' + d.id + '"></div>'
-          + '<h2>' + d.name + '</h2>'
-          + '<div class="metadata">' + desc + '</div>'
-          + '<div class="metadata">⭐️ ' + repo.stars + ' 🍴' + repo.forks + '</div>'
-        + '</a>'
+      if (!repo) return '<li class="unavailable">'
+        + '<div class="img i' + d.id + '"></div>'
+        + '<h2>' + d.name + '</h2>'
       + '</li>';
+      var longDesc = repo.desc || '';
+      var descLimit = 70;
+      var veryLongDesc = longDesc.length > descLimit;
+      var desc = veryLongDesc ? longDesc.slice(0, descLimit-1) + '&hellip;' : longDesc;
+      if(!notTaken) return '<li class="available">'
+          + '<a href="https://github.com/' + repo.full_name + '" title="' + (veryLongDesc ? longDesc : '') + '" target="_blank" ontouchstart>'
+            + '<div class="img i' + d.id + '"></div>'
+            + '<h2>' + d.name + '</h2>'
+            + '<div class="metadata">' + desc + '</div>'
+            + '<div class="metadata">⭐️ ' + repo.stars + ' 🍴' + repo.forks + '</div>'
+          + '</a>'
+        + '</li>';
   }).join('');
 };
 
