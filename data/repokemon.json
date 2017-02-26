@@ -53,8 +53,8 @@
 			"url": "https://github.com/att-innovate/charmander",
 			"desc": "Charmander Scheduler Lab - Mesos, Docker, InfluxDB, Spark",
 			"lang": "Shell",
-			"stars": 53,
-			"watches": 53,
+			"stars": 54,
+			"watches": 54,
 			"forks": 12
 		}
 	},
@@ -89,8 +89,8 @@
 			"url": "https://github.com/XPXD/Charizard",
 			"desc": "Yet another simple php router",
 			"lang": "PHP",
-			"stars": 10,
-			"watches": 10,
+			"stars": 9,
+			"watches": 9,
 			"forks": 2
 		}
 	},
@@ -117,14 +117,14 @@
 		"name": "Wartortle",
 		"slug": "wartortle",
 		"repo": {
-			"id": 52071003,
+			"id": 80571624,
 			"name": "Wartortle",
-			"full_name": "Kaioru/Wartortle",
-			"owner_name": "Kaioru",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/6829787?v=3",
-			"url": "https://github.com/Kaioru/Wartortle",
-			"desc": "A Pokemon MMO Emulator",
-			"lang": "Java",
+			"full_name": "braxtondiggs/Wartortle",
+			"owner_name": "braxtondiggs",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/6903858?v=3",
+			"url": "https://github.com/braxtondiggs/Wartortle",
+			"desc": "Integration with WakaTime to grab data for my personal website",
+			"lang": "JavaScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -189,14 +189,14 @@
 		"name": "Butterfree",
 		"slug": "butterfree",
 		"repo": {
-			"id": 9454175,
+			"id": 82379977,
 			"name": "butterfree",
-			"full_name": "estrategasdigitales/butterfree",
-			"owner_name": "estrategasdigitales",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/3503777?v=3",
-			"url": "https://github.com/estrategasdigitales/butterfree",
-			"desc": "Colocación Idiomas",
-			"lang": "PHP",
+			"full_name": "E7su/butterfree",
+			"owner_name": "E7su",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/17053647?v=3",
+			"url": "https://github.com/E7su/butterfree",
+			"desc": "C torture",
+			"lang": "C",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -241,7 +241,20 @@
 	{
 		"id": "015",
 		"name": "Beedrill",
-		"slug": "beedrill"
+		"slug": "beedrill",
+		"repo": {
+			"id": 73299845,
+			"name": "beedrill",
+			"full_name": "LucianBuzzo/beedrill",
+			"owner_name": "LucianBuzzo",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/15064535?v=3",
+			"url": "https://github.com/LucianBuzzo/beedrill",
+			"desc": "A micro library containing high level utility functions",
+			"lang": "JavaScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "016",
@@ -284,16 +297,16 @@
 		"name": "Pidgeot",
 		"slug": "pidgeot",
 		"repo": {
-			"id": 49443121,
-			"name": "pidgeot",
-			"full_name": "offthread/pidgeot",
-			"owner_name": "offthread",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/16636620?v=3",
-			"url": "https://github.com/offthread/pidgeot",
-			"desc": "PidgeOT - A simple node.js app for performance review",
+			"id": 79094866,
+			"name": "Pidgeot",
+			"full_name": "guypeer8/Pidgeot",
+			"owner_name": "guypeer8",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/13187428?v=3",
+			"url": "https://github.com/guypeer8/Pidgeot",
+			"desc": "🐦Promise based mongoose configurable server-side paginator.",
 			"lang": "JavaScript",
-			"stars": 1,
-			"watches": 1,
+			"stars": 3,
+			"watches": 3,
 			"forks": 0
 		}
 	},
@@ -394,7 +407,7 @@
 			"lang": "JavaScript",
 			"stars": 11,
 			"watches": 11,
-			"forks": 1
+			"forks": 2
 		}
 	},
 	{
@@ -605,8 +618,8 @@
 			"url": "https://github.com/brodul/jigglypuff",
 			"desc": "Stop yodeling!!! Simple async youtube songs download web app. Build with pyramid, celery, rabbitmq with SQLAlchemy and more common libs!!",
 			"lang": "Python",
-			"stars": 3,
-			"watches": 3,
+			"stars": 4,
+			"watches": 4,
 			"forks": 3
 		}
 	},
@@ -620,14 +633,14 @@
 		"name": "Zubat",
 		"slug": "zubat",
 		"repo": {
-			"id": 53794913,
-			"name": "Zubat",
-			"full_name": "Azard/Zubat",
-			"owner_name": "Azard",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/3364650?v=3",
-			"url": "https://github.com/Azard/Zubat",
-			"desc": "iOS video annotation edit",
-			"lang": "Swift",
+			"id": 79319633,
+			"name": "zubat",
+			"full_name": "RomanKyrychenko/zubat",
+			"owner_name": "RomanKyrychenko",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/10772311?v=3",
+			"url": "https://github.com/RomanKyrychenko/zubat",
+			"desc": "map zubko",
+			"lang": "R",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -663,15 +676,15 @@
 		"repo": {
 			"id": 67116306,
 			"name": "gloom",
-			"full_name": "lessthanthree/gloom",
-			"owner_name": "lessthanthree",
+			"full_name": "hejrobin/gloom",
+			"owner_name": "hejrobin",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/681345?v=3",
-			"url": "https://github.com/lessthanthree/gloom",
+			"url": "https://github.com/hejrobin/gloom",
 			"desc": "A dark and gloomy pastel color syntax theme for Atom.",
 			"lang": "CSS",
-			"stars": 12,
-			"watches": 12,
-			"forks": 1
+			"stars": 33,
+			"watches": 33,
+			"forks": 5
 		}
 	},
 	{
@@ -684,14 +697,14 @@
 		"name": "Paras",
 		"slug": "paras",
 		"repo": {
-			"id": 19474183,
+			"id": 77719028,
 			"name": "paras",
-			"full_name": "estrategasdigitales/paras",
-			"owner_name": "estrategasdigitales",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/3503777?v=3",
-			"url": "https://github.com/estrategasdigitales/paras",
-			"desc": "Proyecto Smart Oyster Dusty",
-			"lang": "PHP",
+			"full_name": "vollov/paras",
+			"owner_name": "vollov",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/1225767?v=3",
+			"url": "https://github.com/vollov/paras",
+			"desc": "ocbl.ca django backend",
+			"lang": "JavaScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -818,8 +831,8 @@
 			"url": "https://github.com/negah/persian",
 			"desc": "Ruby Persian gem.",
 			"lang": "Ruby",
-			"stars": 8,
-			"watches": 8,
+			"stars": 9,
+			"watches": 9,
 			"forks": 0
 		}
 	},
@@ -946,9 +959,9 @@
 			"url": "https://github.com/mozack/abra",
 			"desc": "Assembly Based ReAligner",
 			"lang": "Java",
-			"stars": 40,
-			"watches": 40,
-			"forks": 8
+			"stars": 43,
+			"watches": 43,
+			"forks": 10
 		}
 	},
 	{
@@ -964,9 +977,9 @@
 			"url": "https://github.com/D35m0nd142/Kadabra",
 			"desc": "Kadabra is my automatic LFI Exploiter and Scanner, written in C++ and a couple extern module in Python.",
 			"lang": "C++",
-			"stars": 6,
-			"watches": 6,
-			"forks": 4
+			"stars": 8,
+			"watches": 8,
+			"forks": 5
 		}
 	},
 	{
@@ -974,17 +987,17 @@
 		"name": "Alakazam",
 		"slug": "alakazam",
 		"repo": {
-			"id": 16433696,
+			"id": 71799415,
 			"name": "Alakazam",
-			"full_name": "RoxasShadow/Alakazam",
-			"owner_name": "RoxasShadow",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/805144?v=3",
-			"url": "https://github.com/RoxasShadow/Alakazam",
-			"desc": "Provides methods to observe all your things",
-			"lang": "Ruby",
-			"stars": 1,
-			"watches": 1,
-			"forks": 0
+			"full_name": "Commit451/Alakazam",
+			"owner_name": "Commit451",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/12497423?v=3",
+			"url": "https://github.com/Commit451/Alakazam",
+			"desc": "Android animation made magical",
+			"lang": "Java",
+			"stars": 7,
+			"watches": 7,
+			"forks": 1
 		}
 	},
 	{
@@ -1069,8 +1082,8 @@
 			"url": "https://github.com/optiflows/tentacool",
 			"desc": "REST API to manage Linux networking via netlink",
 			"lang": "Go",
-			"stars": 31,
-			"watches": 31,
+			"stars": 35,
+			"watches": 35,
 			"forks": 12
 		}
 	},
@@ -1128,9 +1141,9 @@
 			"url": "https://github.com/golemfactory/golem",
 			"desc": "Golem project is to create a global prosumer market for computing power.",
 			"lang": "Python",
-			"stars": 161,
-			"watches": 161,
-			"forks": 13
+			"stars": 214,
+			"watches": 214,
+			"forks": 27
 		}
 	},
 	{
@@ -1164,8 +1177,8 @@
 			"url": "https://github.com/Gazler/rapidash",
 			"desc": "Rapidly develop your API client",
 			"lang": "Ruby",
-			"stars": 150,
-			"watches": 150,
+			"stars": 151,
+			"watches": 151,
 			"forks": 17
 		}
 	},
@@ -1182,8 +1195,8 @@
 			"url": "https://github.com/ankane/slowpoke",
 			"desc": "Rack::Timeout is great. Slowpoke makes it better.",
 			"lang": "Ruby",
-			"stars": 100,
-			"watches": 100,
+			"stars": 113,
+			"watches": 113,
 			"forks": 6
 		}
 	},
@@ -1218,8 +1231,8 @@
 			"url": "https://github.com/styfle/magnemite",
 			"desc": "A screen recorder for websites powered by electron",
 			"lang": "TypeScript",
-			"stars": 1,
-			"watches": 1,
+			"stars": 3,
+			"watches": 3,
 			"forks": 0
 		}
 	},
@@ -1236,9 +1249,9 @@
 			"url": "https://github.com/concretesolutions/magneton",
 			"desc": "A simple gem to generate all files needed in a project that will support Cucumber, SitePrism, Capybara and Selenium.",
 			"lang": "Ruby",
-			"stars": 6,
-			"watches": 6,
-			"forks": 10
+			"stars": 7,
+			"watches": 7,
+			"forks": 11
 		}
 	},
 	{
@@ -1354,9 +1367,9 @@
 			"url": "https://github.com/simnalamburt/shellder",
 			"desc": ":shell: Featured zsh/fish shell theme",
 			"lang": "Shell",
-			"stars": 89,
-			"watches": 89,
-			"forks": 15
+			"stars": 114,
+			"watches": 114,
+			"forks": 18
 		}
 	},
 	{
@@ -1364,17 +1377,17 @@
 		"name": "Cloyster",
 		"slug": "cloyster",
 		"repo": {
-			"id": 66187979,
-			"name": "Cloyster",
-			"full_name": "mpkh/Cloyster",
-			"owner_name": "mpkh",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/2656965?v=3",
-			"url": "https://github.com/mpkh/Cloyster",
-			"desc": "simple Rust rest server, nickel.rs based",
-			"lang": "Rust",
+			"id": 12626060,
+			"name": "cloyster",
+			"full_name": "wankdanker/cloyster",
+			"owner_name": "wankdanker",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/624233?v=3",
+			"url": "https://github.com/wankdanker/cloyster",
+			"desc": "Git deploy cluster based on ploy and node-discover",
+			"lang": "JavaScript",
 			"stars": 1,
 			"watches": 1,
-			"forks": 0
+			"forks": 1
 		}
 	},
 	{
@@ -1390,9 +1403,9 @@
 			"url": "https://github.com/mgrachev/gastly",
 			"desc": "Create screenshots or previews of web pages using Gastly.",
 			"lang": "Ruby",
-			"stars": 33,
-			"watches": 33,
-			"forks": 7
+			"stars": 34,
+			"watches": 34,
+			"forks": 8
 		}
 	},
 	{
@@ -1515,7 +1528,7 @@
 			"owner_avatar": "https://avatars.githubusercontent.com/u/974800?v=3",
 			"url": "https://github.com/stefaang/kingler",
 			"desc": "Multiplayer geoposition game engine, based on Flask, socketIO, MongoDB and Leaflet",
-			"lang": "JavaScript",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -1552,9 +1565,9 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Electrode Platform for Universal React + Node application ",
 			"lang": "JavaScript",
-			"stars": 352,
-			"watches": 352,
-			"forks": 26
+			"stars": 512,
+			"watches": 512,
+			"forks": 46
 		}
 	},
 	{
@@ -1678,7 +1691,7 @@
 			"owner_name": "tomsonpl",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/16632552?v=3",
 			"url": "https://github.com/tomsonpl/Rhyhorn",
-			"desc": "Fill the page with random images",
+			"desc": "DEPRECATED - Fill the page with random images",
 			"lang": "JavaScript",
 			"stars": 1,
 			"watches": 1,
@@ -1698,8 +1711,8 @@
 			"url": "https://github.com/SciresM/Rhydon",
 			"desc": "Save file editor for Pokemon Red/Blue/Yellow.",
 			"lang": "C#",
-			"stars": 22,
-			"watches": 22,
+			"stars": 23,
+			"watches": 23,
 			"forks": 3
 		}
 	},
@@ -1747,7 +1760,20 @@
 	{
 		"id": "116",
 		"name": "Horsea",
-		"slug": "horsea"
+		"slug": "horsea",
+		"repo": {
+			"id": 79803259,
+			"name": "horsea",
+			"full_name": "vollov/horsea",
+			"owner_name": "vollov",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/1225767?v=3",
+			"url": "https://github.com/vollov/horsea",
+			"desc": "front end for token based rest authentication",
+			"lang": "JavaScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "117",
@@ -1790,9 +1816,9 @@
 			"url": "https://github.com/kairyu/staryu",
 			"desc": "Open-source 5-key Keypad",
 			"lang": "Eagle",
-			"stars": 3,
-			"watches": 3,
-			"forks": 4
+			"stars": 6,
+			"watches": 6,
+			"forks": 3
 		}
 	},
 	{
@@ -1810,7 +1836,7 @@
 			"lang": "R",
 			"stars": 6,
 			"watches": 6,
-			"forks": 0
+			"forks": 1
 		}
 	},
 	{
@@ -1967,9 +1993,9 @@
 			"url": "https://github.com/chutsu/ditto",
 			"desc": "Lightweight Markdown Documentation System",
 			"lang": "JavaScript",
-			"stars": 342,
-			"watches": 342,
-			"forks": 41
+			"stars": 349,
+			"watches": 349,
+			"forks": 43
 		}
 	},
 	{
@@ -1985,9 +2011,9 @@
 			"url": "https://github.com/pizn/eevee",
 			"desc": "基于 github page 的在线编辑 blog 平台",
 			"lang": "JavaScript",
-			"stars": 75,
-			"watches": 75,
-			"forks": 12
+			"stars": 78,
+			"watches": 78,
+			"forks": 14
 		}
 	},
 	{
@@ -2021,9 +2047,9 @@
 			"url": "https://github.com/vulpino/jolteon",
 			"desc": ":bulb: Babel + Electron + React + Browserify + SASS application stack. Electron Made Easy :tm:",
 			"lang": "JavaScript",
-			"stars": 983,
-			"watches": 983,
-			"forks": 35
+			"stars": 997,
+			"watches": 997,
+			"forks": 38
 		}
 	},
 	{
@@ -2057,9 +2083,9 @@
 			"url": "https://github.com/numinit/porygon",
 			"desc": "the unofficial Pokémon Go Plus SDK",
 			"lang": "Lua",
-			"stars": 77,
-			"watches": 77,
-			"forks": 4
+			"stars": 81,
+			"watches": 81,
+			"forks": 6
 		}
 	},
 	{
@@ -2126,17 +2152,17 @@
 		"name": "Aerodactyl",
 		"slug": "aerodactyl",
 		"repo": {
-			"id": 43178635,
+			"id": 43977150,
 			"name": "aerodactyl",
-			"full_name": "ADI-Labs/aerodactyl",
-			"owner_name": "ADI-Labs",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/14840390?v=3",
-			"url": "https://github.com/ADI-Labs/aerodactyl",
+			"full_name": "juliarg/aerodactyl",
+			"owner_name": "juliarg",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/10840293?v=3",
+			"url": "https://github.com/juliarg/aerodactyl",
 			"desc": "Fiona, Julia, Janine",
 			"lang": "Python",
-			"stars": 1,
-			"watches": 1,
-			"forks": 3
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
 		}
 	},
 	{
@@ -2152,8 +2178,8 @@
 			"url": "https://github.com/tryswift/Snorlax",
 			"desc": "The ultimate lazy library. An example for being a good library citizen in Swift.",
 			"lang": "Swift",
-			"stars": 175,
-			"watches": 175,
+			"stars": 179,
+			"watches": 179,
 			"forks": 9
 		}
 	},
@@ -2216,17 +2242,17 @@
 		"name": "Dratini",
 		"slug": "dratini",
 		"repo": {
-			"id": 64308401,
-			"name": "dratini",
-			"full_name": "guidiego/dratini",
-			"owner_name": "guidiego",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/10289071?v=3",
-			"url": "https://github.com/guidiego/dratini",
-			"desc": "Dratini it`s a Node module that permit you transpile everything that you want :sunglasses:",
-			"lang": "JavaScript",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
+			"id": 79209678,
+			"name": "Dratini",
+			"full_name": "kevin0571/Dratini",
+			"owner_name": "kevin0571",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/1491282?v=3",
+			"url": "https://github.com/kevin0571/Dratini",
+			"desc": "Dratini is a neat network abstraction layer.",
+			"lang": "Swift",
+			"stars": 16,
+			"watches": 16,
+			"forks": 1
 		}
 	},
 	{
@@ -2285,7 +2311,7 @@
 			"lang": "Emacs Lisp",
 			"stars": 131,
 			"watches": 131,
-			"forks": 34
+			"forks": 35
 		}
 	},
 	{
@@ -2636,7 +2662,7 @@
 			"owner_name": "lrstanley",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/1847365?v=3",
 			"url": "https://github.com/lrstanley/marill",
-			"desc": "Marill -- Automated site testing utility",
+			"desc": ":wrench: Marill -- Automated site testing utility :computer: :bell:",
 			"lang": "Go",
 			"stars": 2,
 			"watches": 2,
@@ -2674,8 +2700,8 @@
 			"url": "https://github.com/haskellcamargo/sudowoodo",
 			"desc": "Sudowoodo in your console!",
 			"lang": "Haskell",
-			"stars": 9,
-			"watches": 9,
+			"stars": 10,
+			"watches": 10,
 			"forks": 0
 		}
 	},
@@ -2737,14 +2763,14 @@
 		"name": "Wooper",
 		"slug": "wooper",
 		"repo": {
-			"id": 63075353,
+			"id": 79116018,
 			"name": "wooper",
-			"full_name": "tdresser/wooper",
-			"owner_name": "tdresser",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/470465?v=3",
-			"url": "https://github.com/tdresser/wooper",
-			"desc": "Live Looping on the Web",
-			"lang": "JavaScript",
+			"full_name": "vratuy/wooper",
+			"owner_name": "vratuy",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/16420211?v=3",
+			"url": "https://github.com/vratuy/wooper",
+			"desc": ":droplet: A looping machine based on Arduino.",
+			"lang": "Arduino",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -2775,10 +2801,10 @@
 		"repo": {
 			"id": 53491277,
 			"name": "espeon",
-			"full_name": "quiltbag/espeon",
-			"owner_name": "quiltbag",
+			"full_name": "pnn/espeon",
+			"owner_name": "pnn",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/6078550?v=3",
-			"url": "https://github.com/quiltbag/espeon",
+			"url": "https://github.com/pnn/espeon",
 			"desc": "clojure build tasks. it's almost psychic",
 			"lang": "Clojure",
 			"stars": 1,
@@ -2942,20 +2968,7 @@
 	{
 		"id": "212",
 		"name": "Scizor",
-		"slug": "scizor",
-		"repo": {
-			"id": 29139896,
-			"name": "scizor",
-			"full_name": "shooterman/scizor",
-			"owner_name": "shooterman",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/1235106?v=3",
-			"url": "https://github.com/shooterman/scizor",
-			"desc": "Scizor --- cut cut cut ",
-			"lang": "CSS",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "scizor"
 	},
 	{
 		"id": "213",
@@ -3043,9 +3056,9 @@
 			"url": "https://github.com/purpleworks/delibird",
 			"desc": "Shipment tracking library for Golang.",
 			"lang": "HTML",
-			"stars": 105,
-			"watches": 105,
-			"forks": 23
+			"stars": 109,
+			"watches": 109,
+			"forks": 25
 		}
 	},
 	{
@@ -3158,8 +3171,8 @@
 			"url": "https://github.com/FriedSock/smeargle",
 			"desc": "Vim plugin for colouring the text background based on information mined from git",
 			"lang": "Ruby",
-			"stars": 53,
-			"watches": 53,
+			"stars": 52,
+			"watches": 52,
 			"forks": 1
 		}
 	},
@@ -3181,7 +3194,20 @@
 	{
 		"id": "239",
 		"name": "Elekid",
-		"slug": "elekid"
+		"slug": "elekid",
+		"repo": {
+			"id": 81033542,
+			"name": "elekid",
+			"full_name": "raphamorim/elekid",
+			"owner_name": "raphamorim",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/3630346?v=3",
+			"url": "https://github.com/raphamorim/elekid",
+			"desc": "Electron Server Side Render for React.js, Vue and Inferno",
+			"lang": "JavaScript",
+			"stars": 17,
+			"watches": 17,
+			"forks": 0
+		}
 	},
 	{
 		"id": "240",
@@ -3258,10 +3284,10 @@
 		"repo": {
 			"id": 54564424,
 			"name": "celebi",
-			"full_name": "quiltbag/celebi",
-			"owner_name": "quiltbag",
+			"full_name": "pnn/celebi",
+			"owner_name": "pnn",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/6078550?v=3",
-			"url": "https://github.com/quiltbag/celebi",
+			"url": "https://github.com/pnn/celebi",
 			"desc": "a pokemon move calculator",
 			"lang": "JavaScript",
 			"stars": 1,
@@ -3317,16 +3343,16 @@
 		"name": "Mudkip",
 		"slug": "mudkip",
 		"repo": {
-			"id": 29156382,
+			"id": 13390720,
 			"name": "mudkip",
-			"full_name": "PuercoPop/mudkip",
-			"owner_name": "PuercoPop",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/387111?v=3",
-			"url": "https://github.com/PuercoPop/mudkip",
-			"desc": "Mostly a Code Dump :(",
-			"lang": "Common Lisp",
-			"stars": 2,
-			"watches": 2,
+			"full_name": "Mendor/mudkip",
+			"owner_name": "Mendor",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/854777?v=3",
+			"url": "https://github.com/Mendor/mudkip",
+			"desc": "Markdown compiler in Elixir",
+			"lang": "Elixir",
+			"stars": 3,
+			"watches": 3,
 			"forks": 0
 		}
 	},
@@ -3361,7 +3387,20 @@
 	{
 		"id": "262",
 		"name": "Mightyena",
-		"slug": "mightyena"
+		"slug": "mightyena",
+		"repo": {
+			"id": 80348634,
+			"name": "mightyena",
+			"full_name": "iridinite/mightyena",
+			"owner_name": "iridinite",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/20139189?v=3",
+			"url": "https://github.com/iridinite/mightyena",
+			"desc": "Gen-III Pokémon Save Editor",
+			"lang": "C#",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "263",
@@ -3416,17 +3455,17 @@
 		"name": "Lotad",
 		"slug": "lotad",
 		"repo": {
-			"id": 66770623,
+			"id": 79977907,
 			"name": "lotad",
-			"full_name": "kiasaki/lotad",
-			"owner_name": "kiasaki",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/1158933?v=3",
-			"url": "https://github.com/kiasaki/lotad",
-			"desc": "Small opiniated wrapper around express.js",
-			"lang": "JavaScript",
+			"full_name": "vollov/lotad",
+			"owner_name": "vollov",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/1225767?v=3",
+			"url": "https://github.com/vollov/lotad",
+			"desc": "new ocbl.ca site",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
-			"forks": 0
+			"forks": 1
 		}
 	},
 	{
@@ -3591,8 +3630,8 @@
 			"url": "https://github.com/lakshmanaram/Whismur",
 			"desc": "Data transfer via Sound in mobiles. Facilitates one to many communication without any external hardware.",
 			"lang": "Java",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -3650,7 +3689,20 @@
 	{
 		"id": "299",
 		"name": "Nosepass",
-		"slug": "nosepass"
+		"slug": "nosepass",
+		"repo": {
+			"id": 80492477,
+			"name": "nosepass",
+			"full_name": "charmander/nosepass",
+			"owner_name": "charmander",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/1889843?v=3",
+			"url": "https://github.com/charmander/nosepass",
+			"desc": "A small deterministic password generator.",
+			"lang": "Assembly",
+			"stars": 1,
+			"watches": 1,
+			"forks": 0
+		}
 	},
 	{
 		"id": "300",
@@ -3678,7 +3730,20 @@
 	{
 		"id": "302",
 		"name": "Sableye",
-		"slug": "sableye"
+		"slug": "sableye",
+		"repo": {
+			"id": 78310183,
+			"name": "Sableye",
+			"full_name": "ivelten/Sableye",
+			"owner_name": "ivelten",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/4410443?v=3",
+			"url": "https://github.com/ivelten/Sableye",
+			"desc": "An API organizing data about Pokémon game series",
+			"lang": "Ruby",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "303",
@@ -3690,14 +3755,14 @@
 		"name": "Aron",
 		"slug": "aron",
 		"repo": {
-			"id": 58457025,
+			"id": 78116022,
 			"name": "aron",
-			"full_name": "sathakiw/aron",
-			"owner_name": "sathakiw",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/17331588?v=3",
-			"url": "https://github.com/sathakiw/aron",
-			"desc": "Master laravel 5.2",
-			"lang": "JavaScript",
+			"full_name": "vollov/aron",
+			"owner_name": "vollov",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/1225767?v=3",
+			"url": "https://github.com/vollov/aron",
+			"desc": "ocbl django rest back end",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -3913,10 +3978,10 @@
 		"repo": {
 			"id": 8668764,
 			"name": "Flygon",
-			"full_name": "mvader/Flygon",
-			"owner_name": "mvader",
+			"full_name": "erizocosmico/Flygon",
+			"owner_name": "erizocosmico",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/1312023?v=3",
-			"url": "https://github.com/mvader/Flygon",
+			"url": "https://github.com/erizocosmico/Flygon",
 			"desc": "Simple php microframework.",
 			"lang": "PHP",
 			"stars": 0,
@@ -3957,17 +4022,17 @@
 		"name": "Altaria",
 		"slug": "altaria",
 		"repo": {
-			"id": 6837873,
-			"name": "Altaria",
-			"full_name": "altaria/Altaria",
-			"owner_name": "altaria",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/2776116?v=3",
-			"url": "https://github.com/altaria/Altaria",
-			"desc": "A proof-of-concept on various watermarking techniques and attacks.",
-			"lang": "C#",
+			"id": 77717561,
+			"name": "altaria",
+			"full_name": "miguejs/altaria",
+			"owner_name": "miguejs",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/9428793?v=3",
+			"url": "https://github.com/miguejs/altaria",
+			"desc": "Personal site with  information about me, projects, and maybe posts. (Build with phoenix as API and ember js as client)",
+			"lang": "Elixir",
 			"stars": 0,
 			"watches": 0,
-			"forks": 1
+			"forks": 0
 		}
 	},
 	{
@@ -4304,7 +4369,20 @@
 	{
 		"id": "370",
 		"name": "Luvdisc",
-		"slug": "luvdisc"
+		"slug": "luvdisc",
+		"repo": {
+			"id": 79558804,
+			"name": "luvdisc",
+			"full_name": "MiYogurt/luvdisc",
+			"owner_name": "MiYogurt",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/10082395?v=3",
+			"url": "https://github.com/MiYogurt/luvdisc",
+			"desc": "H5 game lover fish with typescript",
+			"lang": "TypeScript",
+			"stars": 1,
+			"watches": 1,
+			"forks": 0
+		}
 	},
 	{
 		"id": "371",
@@ -4464,14 +4542,14 @@
 		"name": "Deoxys",
 		"slug": "deoxys",
 		"repo": {
-			"id": 21606662,
+			"id": 80432403,
 			"name": "deoxys",
-			"full_name": "allenxyz/deoxys",
-			"owner_name": "allenxyz",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/6946293?v=3",
-			"url": "https://github.com/allenxyz/deoxys",
-			"desc": "iXfarewell",
-			"lang": "CSS",
+			"full_name": "brentmitchell25/deoxys",
+			"owner_name": "brentmitchell25",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/4051361?v=3",
+			"url": "https://github.com/brentmitchell25/deoxys",
+			"desc": "AWS Cloudformation Generator",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -4912,9 +4990,9 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm",
 			"lang": "VimL",
-			"stars": 278,
-			"watches": 278,
-			"forks": 53
+			"stars": 297,
+			"watches": 297,
+			"forks": 55
 		}
 	},
 	{
@@ -5023,9 +5101,9 @@
 			"url": "https://github.com/mehmetkose/tangrowth",
 			"desc": "Python3.5 async crawler example with aiohttp and asyncio",
 			"lang": "Python",
-			"stars": 122,
-			"watches": 122,
-			"forks": 10
+			"stars": 124,
+			"watches": 124,
+			"forks": 11
 		}
 	},
 	{
@@ -5063,7 +5141,7 @@
 			"lang": "CSS",
 			"stars": 7,
 			"watches": 7,
-			"forks": 9
+			"forks": 10
 		}
 	},
 	{
@@ -5112,20 +5190,7 @@
 	{
 		"id": "477",
 		"name": "Dusknoir",
-		"slug": "dusknoir",
-		"repo": {
-			"id": 69877052,
-			"name": "dusknoir",
-			"full_name": "devlinzed/dusknoir",
-			"owner_name": "devlinzed",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/1154307?v=3",
-			"url": "https://github.com/devlinzed/dusknoir",
-			"desc": "A monument to a former identity",
-			"lang": "Lua",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "dusknoir"
 	},
 	{
 		"id": "478",
@@ -5490,8 +5555,8 @@
 			"url": "https://github.com/filinger/blitzle",
 			"desc": "Small PoC for injection-less aimbot.",
 			"lang": "C++",
-			"stars": 3,
-			"watches": 3,
+			"stars": 4,
+			"watches": 4,
 			"forks": 1
 		}
 	},
@@ -6092,7 +6157,20 @@
 	{
 		"id": "608",
 		"name": "Lampent",
-		"slug": "lampent"
+		"slug": "lampent",
+		"repo": {
+			"id": 79560762,
+			"name": "lampent",
+			"full_name": "vollov/lampent",
+			"owner_name": "vollov",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/1225767?v=3",
+			"url": "https://github.com/vollov/lampent",
+			"desc": "node orm",
+			"lang": "JavaScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "609",
@@ -6155,7 +6233,20 @@
 	{
 		"id": "618",
 		"name": "Stunfisk",
-		"slug": "stunfisk"
+		"slug": "stunfisk",
+		"repo": {
+			"id": 81967489,
+			"name": "stunfisk",
+			"full_name": "HappyZombies/stunfisk",
+			"owner_name": "HappyZombies",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/11294700?v=3",
+			"url": "https://github.com/HappyZombies/stunfisk",
+			"desc": "A beta application.",
+			"lang": "JavaScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "619",
@@ -6385,8 +6476,8 @@
 			"url": "https://github.com/ChrisCTX/genesect",
 			"desc": "Pokemon evolutionary algorithm",
 			"lang": "Python",
-			"stars": 3,
-			"watches": 3,
+			"stars": 4,
+			"watches": 4,
 			"forks": 1
 		}
 	},
@@ -6857,8 +6948,8 @@
 			"url": "https://github.com/hudangwei/hoopa",
 			"desc": "springboot+jpa代码自动生成工具",
 			"lang": "Go",
-			"stars": 5,
-			"watches": 5,
+			"stars": 7,
+			"watches": 7,
 			"forks": 1
 		}
 	}
