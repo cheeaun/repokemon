@@ -25,7 +25,7 @@ const dataPromises = dataChunks.map(function(chunk, chunkID){
       padding: 0,
     }, function handleResult (err, result) {
       if (!err) {
-        const path = 'data/pokemon-' + chunkID + '.png';
+        const path = 'data/pokemon-' + chunkID + '.jpg';
         fs.writeFileSync(path, result.image);
         console.log('Generated: ' + path);
 
@@ -48,7 +48,7 @@ const dataPromises = dataChunks.map(function(chunk, chunkID){
               + '}';
           }).join('\n');
         resolve(css);
-      }
+      } else resolve ("");
     });
   });
 });
