@@ -18,38 +18,46 @@ while (index < dataLen){
 const spritesmith = new Spritesmith();
 const dataPromises = dataChunks.map(function(chunk, chunkID){
   return new Promise(function(resolve, reject){
-    var sprites = chunk.map(function(d){ return 'data/images/' + d.id + '.png'; });
+    var sprites = chunk.map(function(d){ return 'data/images/' + pad(d.id, 3) + '.png'; });
     console.log('Spriting chunk ' + chunkID);
     Spritesmith.run({
       src: sprites,
       padding: 0,
     }, function handleResult (err, result) {
-      const path = 'data/pokemon-' + chunkID + '.png';
-      fs.writeFileSync(path, result.image);
-      console.log('Generated: ' + path);
+      if (!err) {
+        const path = 'data/pokemon-' + chunkID + '.jpg';
+        fs.writeFileSync(path, result.image);
+        console.log('Generated: ' + path);
 
-      const width = result.properties.width;
-      const height = result.properties.height;
-      const coords = Object.keys(result.coordinates);
-      const lastCoordID = coords[coords.length-1].match(/\d+/);
-      const notSelector = chunkID ? ':not(.i' + chunkID*100 + ')' : '';
-      let selector = '[class*=i' + chunkID + ']' + notSelector + ',.i' + ((chunkID+1)*100);
-      const css = selector + '{'
-          + 'background-image: url(' + path.replace('.png', '.jpg') + ');'
-          + 'background-size: ' + (width/ratio) + 'px ' + (height/ratio) + 'px;'
-        + '}\n'
-        + coords.map(function(path){
-          const id = path.match(/\d+/);
-          const coords = result.coordinates[path];
-          return '.i' + id + '{background-position: '
-            + '-' + (coords.x/ratio) + 'px '
-            + '-' + (coords.y/ratio) + 'px;'
-            + '}';
-        }).join('\n');
-      resolve(css);
+        const width = result.properties.width;
+        const height = result.properties.height;
+        const coords = Object.keys(result.coordinates);
+        const lastCoordID = coords[coords.length-1].match(/\d+/);
+        const notSelector = chunkID ? ':not(.i' + chunkID*100 + ')' : '';
+        let selector = '[class*=i' + chunkID + ']' + notSelector + ',.i' + ((chunkID+1)*100);
+        const css = selector + '{'
+            + 'background-image: url(' + path.replace('.png', '.jpg') + ');'
+            + 'background-size: ' + (width/ratio) + 'px ' + (height/ratio) + 'px;'
+          + '}\n'
+          + coords.map(function(path){
+            const id = path.match(/\d+/);
+            const coords = result.coordinates[path];
+            return '.i' + id + '{background-position: '
+              + '-' + (coords.x/ratio) + 'px '
+              + '-' + (coords.y/ratio) + 'px;'
+              + '}';
+          }).join('\n');
+        resolve(css);
+      } else resolve ("");
     });
   });
 });
+
+function pad(n, width, z) {
+  z = z || '0';
+  n = n + '';
+  return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+}
 
 Promise.all(dataPromises).then(function(results){
   const path = 'pokemon.css';

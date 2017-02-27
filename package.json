@@ -12,7 +12,7 @@
   "author": "Lim Chee Aun",
   "license": "ISC",
   "scripts": {
-    "pokemon": "curl -o data/pokemon-list.json http://www.pokemon.com/us/api/pokedex/kalos",
+    "pokemon": "curl -o data/pokemon-list.json http://www.pokemon.com/us/api/pokedex/alola",
     "repokemon": "node scripts/repokemon.js",
     "min-repokemon": "node scripts/min-repokemon.js",
     "stats": "node scripts/stats.js",
