@@ -12,7 +12,7 @@ const length = data.length;
 
 const download = function(d){
   if (i >= length) return;
-  const id = d.id;
+  const id = pad(d.id, 3);
   if (fs.existsSync('data/images/' + id + '.png')){
     download(data[++i]);
   } else {
@@ -33,5 +33,11 @@ const download = function(d){
     });
   }
 };
+
+function pad(n, width, z) {
+  z = z || '0';
+  n = n + '';
+  return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+}
 
 download(data[i]);

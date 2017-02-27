@@ -18,7 +18,7 @@ while (index < dataLen){
 const spritesmith = new Spritesmith();
 const dataPromises = dataChunks.map(function(chunk, chunkID){
   return new Promise(function(resolve, reject){
-    var sprites = chunk.map(function(d){ return 'data/images/' + d.id + '.png'; });
+    var sprites = chunk.map(function(d){ return 'data/images/' + pad(d.id, 3) + '.png'; });
     console.log('Spriting chunk ' + chunkID);
     Spritesmith.run({
       src: sprites,
@@ -52,6 +52,12 @@ const dataPromises = dataChunks.map(function(chunk, chunkID){
     });
   });
 });
+
+function pad(n, width, z) {
+  z = z || '0';
+  n = n + '';
+  return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+}
 
 Promise.all(dataPromises).then(function(results){
   const path = 'pokemon.css';
