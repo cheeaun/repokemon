@@ -24,29 +24,31 @@ const dataPromises = dataChunks.map(function(chunk, chunkID){
       src: sprites,
       padding: 0,
     }, function handleResult (err, result) {
-      const path = 'data/pokemon-' + chunkID + '.png';
-      fs.writeFileSync(path, result.image);
-      console.log('Generated: ' + path);
+      if (!err) {
+        const path = 'data/pokemon-' + chunkID + '.png';
+        fs.writeFileSync(path, result.image);
+        console.log('Generated: ' + path);
 
-      const width = result.properties.width;
-      const height = result.properties.height;
-      const coords = Object.keys(result.coordinates);
-      const lastCoordID = coords[coords.length-1].match(/\d+/);
-      const notSelector = chunkID ? ':not(.i' + chunkID*100 + ')' : '';
-      let selector = '[class*=i' + chunkID + ']' + notSelector + ',.i' + ((chunkID+1)*100);
-      const css = selector + '{'
-          + 'background-image: url(' + path.replace('.png', '.jpg') + ');'
-          + 'background-size: ' + (width/ratio) + 'px ' + (height/ratio) + 'px;'
-        + '}\n'
-        + coords.map(function(path){
-          const id = path.match(/\d+/);
-          const coords = result.coordinates[path];
-          return '.i' + id + '{background-position: '
-            + '-' + (coords.x/ratio) + 'px '
-            + '-' + (coords.y/ratio) + 'px;'
-            + '}';
-        }).join('\n');
-      resolve(css);
+        const width = result.properties.width;
+        const height = result.properties.height;
+        const coords = Object.keys(result.coordinates);
+        const lastCoordID = coords[coords.length-1].match(/\d+/);
+        const notSelector = chunkID ? ':not(.i' + chunkID*100 + ')' : '';
+        let selector = '[class*=i' + chunkID + ']' + notSelector + ',.i' + ((chunkID+1)*100);
+        const css = selector + '{'
+            + 'background-image: url(' + path.replace('.png', '.jpg') + ');'
+            + 'background-size: ' + (width/ratio) + 'px ' + (height/ratio) + 'px;'
+          + '}\n'
+          + coords.map(function(path){
+            const id = path.match(/\d+/);
+            const coords = result.coordinates[path];
+            return '.i' + id + '{background-position: '
+              + '-' + (coords.x/ratio) + 'px '
+              + '-' + (coords.y/ratio) + 'px;'
+              + '}';
+          }).join('\n');
+        resolve(css);
+      }
     });
   });
 });
