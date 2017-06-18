@@ -14,7 +14,7 @@ const data = json.filter(function(d){
   return !included;
 }).map(function(d){
   return {
-    id: d.id,
+    id: d.number, // id = 1, number = '001'
     name: d.name,
     slug: d.slug,
   };

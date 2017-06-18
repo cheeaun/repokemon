@@ -3,6 +3,9 @@
 const fs = require('fs');
 const data = JSON.parse(fs.readFileSync('data/repokemon.json'));
 const Spritesmith = require('spritesmith');
+const jimp = require('jimp');
+const tinify = require('tinify');
+tinify.key = 'qrCg9SGlTv3bay4knKoslDmK98jAV_qY'; // I know. I'm lazy. Please be nice.
 
 const ratio = 2.15;
 const chunkSize = 100;
@@ -24,9 +27,15 @@ const dataPromises = dataChunks.map(function(chunk, chunkID){
       src: sprites,
       padding: 0,
     }, function handleResult (err, result) {
-      const path = 'data/pokemon-' + chunkID + '.png';
-      fs.writeFileSync(path, result.image);
-      console.log('Generated: ' + path);
+      const path = 'data/pokemon-' + chunkID + '.jpg';
+      console.log('Generating: ' + path);
+      jimp.read(result.image, (err, image) => {
+        image.background(0xFFFFFFFF).quality(40).getBuffer(jimp.MIME_JPEG, (e, buffer) => {
+          tinify.fromBuffer(buffer).toFile(path).then(() => {
+            console.log('Generated: ' + path);
+          });
+        });
+      });
 
       const width = result.properties.width;
       const height = result.properties.height;

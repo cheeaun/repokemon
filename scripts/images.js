@@ -1,5 +1,3 @@
-'use strict';
-
 const fs = require('fs');
 const http = require('http');
 
@@ -12,7 +10,7 @@ const length = data.length;
 
 const download = function(d){
   if (i >= length) return;
-  const id = d.id;
+  const id = d.number; // id = 1, number = '001'
   if (fs.existsSync('data/images/' + id + '.png')){
     download(data[++i]);
   } else {
@@ -21,12 +19,10 @@ const download = function(d){
       hostname: 'assets.pokemon.com',
       path: '/assets/cms2/img/pokedex/detail/' + id + '.png',
     }, function(res){
-      var body = '';
+      let body = '';
       res.setEncoding('binary');
-      res.on('data', function(chunk){
-        body += chunk;
-      });
-      res.on('end', function(){
+      res.on('data', chunk => body += chunk);
+      res.on('end', () => {
         fs.writeFile('data/images/' + id + '.png', body, 'binary');
         download(data[++i]);
       });
