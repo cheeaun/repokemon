@@ -41,7 +41,7 @@ Dev
 - `yarn run min-repokemon` - generate a *minified* version of `data/repokemon.json`, containing only the data that is rendered
 - `yarn run stats` - show stats of the collected data
 - `yarn run images` - download all pokémon images to `data/images` (not included in this repo)
-- `yarn run sprite` - generate a sprite image `data/pokemon-*.png` (not included in this repo), which I manually convert to `data/pokemon-*.jpg`
+- `yarn run sprite` - generate a sprite image `data/pokemon-*.jpg` (compressed with [TinyJPG](https://tinyjpg.com/) API)
 - `yarn run css-min` - compress `pokemon.css` to smaller `pokemon.min.css`
 - `yarn run server` - start a local server at `localhost:1337`
 
