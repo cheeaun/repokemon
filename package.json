@@ -14,6 +14,7 @@
   "scripts": {
     "pokemon": "curl -o data/pokemon-list.json http://www.pokemon.com/us/api/pokedex/kalos",
     "repokemon": "node scripts/repokemon.js",
+    "gemoji": "node scripts/gemoji.js",
     "min-repokemon": "node scripts/min-repokemon.js",
     "stats": "node scripts/stats.js",
     "images": "node scripts/images.js",
@@ -23,6 +24,7 @@
   },
   "devDependencies": {
     "clean-css-cli": "^4.1.5",
+    "gemoji": "^4.2.0",
     "http-server": "~0.10.0",
     "jimp": "~0.2.28",
     "spritesmith": "~3.1.1",

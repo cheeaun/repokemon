@@ -397,6 +397,10 @@ function-bind@^1.0.2:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.0.tgz#16176714c801798e4e8f2cf7f7529467bb4a5771"
 
+gemoji@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/gemoji/-/gemoji-4.2.0.tgz#94b0685497791ab0aabeab7918b13468fa967317"
+
 generate-function@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/generate-function/-/generate-function-2.0.0.tgz#6858fe7c0969b7d4e9093337647ac79f60dfbe74"
