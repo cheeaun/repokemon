@@ -838,7 +838,20 @@
 	{
 		"id": "137",
 		"name": "Porygon",
-		"slug": "porygon"
+		"slug": "porygon",
+		"repo": {
+			"id": 62691956,
+			"name": "porygon",
+			"full_name": "numinit/porygon",
+			"owner_name": "numinit",
+			"owner_avatar": "https://avatars0.githubusercontent.com/u/369111?v=4",
+			"url": "https://github.com/numinit/porygon",
+			"desc": "the unofficial Pokémon Go Plus SDK",
+			"lang": "Lua",
+			"stars": 86,
+			"watches": 86,
+			"forks": 6
+		}
 	},
 	{
 		"id": "138",
@@ -1481,7 +1494,20 @@
 	{
 		"id": "237",
 		"name": "Kapoera",
-		"slug": "kapoera"
+		"slug": "kapoera",
+		"repo": {
+			"id": 98211818,
+			"name": "kapoera",
+			"full_name": "Kurojneko/kapoera",
+			"owner_name": "Kurojneko",
+			"owner_avatar": "https://avatars3.githubusercontent.com/u/5294499?v=4",
+			"url": "https://github.com/Kurojneko/kapoera",
+			"desc": "kapoera",
+			"lang": "JavaScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "238",
@@ -2022,7 +2048,20 @@
 	{
 		"id": "340",
 		"name": "Barbicha",
-		"slug": "barbicha"
+		"slug": "barbicha",
+		"repo": {
+			"id": 129793143,
+			"name": "Barbicha",
+			"full_name": "grstavares/Barbicha",
+			"owner_name": "grstavares",
+			"owner_avatar": "https://avatars1.githubusercontent.com/u/19957969?v=4",
+			"url": "https://github.com/grstavares/Barbicha",
+			"desc": "App for Barbershops",
+			"lang": "Swift",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "341",
@@ -2928,27 +2967,94 @@
 	{
 		"id": "490",
 		"name": "Manaphy",
-		"slug": "manaphy"
+		"id": "490",
+		"name": "Manaphy",
+		"slug": "manaphy",
+		"repo": {
+			"id": 117040966,
+			"name": "Manaphy",
+			"full_name": "RunTime256/Manaphy",
+			"owner_name": "RunTime256",
+			"owner_avatar": "https://avatars1.githubusercontent.com/u/35320040?v=4",
+			"url": "https://github.com/RunTime256/Manaphy",
+			"desc": "A Discord4J Bot",
+			"lang": "Java",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "491",
 		"name": "Darkrai",
-		"slug": "darkrai"
+		"slug": "darkrai",
+		"repo": {
+			"id": 112561443,
+			"name": "darkrai",
+			"full_name": "gustavocsalvador/darkrai",
+			"owner_name": "gustavocsalvador",
+			"owner_avatar": "https://avatars1.githubusercontent.com/u/22722936?v=4",
+			"url": "https://github.com/gustavocsalvador/darkrai",
+			"desc": "Shell scripts",
+			"lang": "Shell",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "492",
 		"name": "Shaymin",
-		"slug": "shaymin"
+		"slug": "shaymin",
+		"repo": {
+			"id": 107121069,
+			"name": "shaymin",
+			"full_name": "losiz17/shaymin",
+			"owner_name": "losiz17",
+			"owner_avatar": "https://avatars2.githubusercontent.com/u/27879820?v=4",
+			"url": "https://github.com/losiz17/shaymin",
+			"desc": "slackのbot",
+			"lang": "Ruby",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "493",
 		"name": "Arceus",
-		"slug": "arceus"
+		"slug": "arceus",
+		"repo": {
+			"id": 102252535,
+			"name": "Arceus",
+			"full_name": "Comfey/Arceus",
+			"owner_name": "Comfey",
+			"owner_avatar": "https://avatars0.githubusercontent.com/u/25292690?v=4",
+			"url": "https://github.com/Comfey/Arceus",
+			"desc": "math",
+			"lang": "JavaScript",
+			"stars": 8,
+			"watches": 8,
+			"forks": 0
+		}
 	},
 	{
 		"id": "494",
 		"name": "Victini",
-		"slug": "victini"
+		"slug": "victini",
+		"repo": {
+			"id": 88429342,
+			"name": "victini",
+			"full_name": "sunx2/victini",
+			"owner_name": "sunx2",
+			"owner_avatar": "https://avatars0.githubusercontent.com/u/24259556?v=4",
+			"url": "https://github.com/sunx2/victini",
+			"desc": "A Pokemon battle bot for Discord",
+			"lang": "Python",
+			"stars": 3,
+			"watches": 3,
+			"forks": 0
+		}
 	},
 	{
 		"id": "495",
@@ -3076,7 +3182,20 @@
 	{
 		"id": "517",
 		"name": "Munna",
-		"slug": "munna"
+		"slug": "munna",
+		"repo": {
+			"id": 13849447,
+			"name": "munna",
+			"full_name": "MQuy/munna",
+			"owner_name": "MQuy",
+			"owner_avatar": "https://avatars1.githubusercontent.com/u/1636026?v=4",
+			"url": "https://github.com/MQuy/munna",
+			"desc": "Simple wrapper cache for ActiveRecord, Ruby Object",
+			"lang": "Ruby",
+			"stars": 24,
+			"watches": 24,
+			"forks": 4
+		}
 	},
 	{
 		"id": "518",
@@ -3486,7 +3605,20 @@
 	{
 		"id": "599",
 		"name": "Tic",
-		"slug": "tic"
+		"slug": "tic",
+		"repo": {
+			"id": 33993053,
+			"name": "tic",
+			"full_name": "carbonblack/tic",
+			"owner_name": "carbonblack",
+			"owner_avatar": "https://avatars1.githubusercontent.com/u/2071378?v=4",
+			"url": "https://github.com/carbonblack/tic",
+			"desc": "Bit9 + Carbon Black Threat Intelligence ",
+			"lang": "Python",
+			"stars": 76,
+			"watches": 76,
+			"forks": 18
+		}
 	},
 	{
 		"id": "600",
@@ -3566,7 +3698,20 @@
 	{
 		"id": "615",
 		"name": "Hexagel",
-		"slug": "hexagel"
+		"slug": "hexagel",
+		"repo": {
+			"id": 124528791,
+			"name": "hexagel",
+			"full_name": "ridergoster/hexagel",
+			"owner_name": "ridergoster",
+			"owner_avatar": "https://avatars3.githubusercontent.com/u/3658089?v=4",
+			"url": "https://github.com/ridergoster/hexagel",
+			"desc": "shell script for temperature to MQTT",
+			"lang": "Shell",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "616",
@@ -3783,12 +3928,38 @@
 	{
 		"id": "648",
 		"name": "Meloetta",
-		"slug": "meloetta"
+		"slug": "meloetta",
+		"repo": {
+			"id": 124780071,
+			"name": "Meloetta",
+			"full_name": "LanceBladestorme/Meloetta",
+			"owner_name": "LanceBladestorme",
+			"owner_avatar": "https://avatars1.githubusercontent.com/u/20506443?v=4",
+			"url": "https://github.com/LanceBladestorme/Meloetta",
+			"desc": "Official Bot of the Pie Legion! Meloetta was created by Clover using Komada.js!",
+			"lang": "JavaScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "649",
 		"name": "Genesect",
-		"slug": "genesect"
+		"slug": "genesect",
+		"repo": {
+			"id": 9765731,
+			"name": "genesect",
+			"full_name": "ChrisCTX/genesect",
+			"owner_name": "ChrisCTX",
+			"owner_avatar": "https://avatars2.githubusercontent.com/u/1079336?v=4",
+			"url": "https://github.com/ChrisCTX/genesect",
+			"desc": "Pokemon evolutionary algorithm",
+			"lang": "Python",
+			"stars": 4,
+			"watches": 4,
+			"forks": 1
+		}
 	},
 	{
 		"id": "650",
@@ -4588,5 +4759,30 @@
 		"id": "801",
 		"name": "Magearna",
 		"slug": "magearna"
+	},
+	{
+		"id": "802",
+		"name": "Marshadow",
+		"slug": "marshadow"
+	},
+	{
+		"id": "803",
+		"name": "Vémini",
+		"slug": "vemini"
+	},
+	{
+		"id": "804",
+		"name": "Mandrillon",
+		"slug": "mandrillon"
+	},
+	{
+		"id": "805",
+		"name": "Ama-Ama",
+		"slug": "ama-ama"
+	},
+	{
+		"id": "806",
+		"name": "Pierroteknik",
+		"slug": "pierroteknik"
 	}
 ]
