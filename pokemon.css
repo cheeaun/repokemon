@@ -806,5 +806,10 @@
 .i798{background-position: -700px -900px;}
 .i799{background-position: -800px -900px;}
 .i800{background-position: -900px -900px;}
-[class*=i8]:not(.i800),.i900{background-image: url(data/pokemon-8.jpg);background-size: 100px 100px;}
+[class*=i8]:not(.i800),.i900{background-image: url(data/pokemon-8.jpg);background-size: 300px 200px;}
 .i801{background-position: -0px -0px;}
+.i802{background-position: -100px -0px;}
+.i803{background-position: -0px -100px;}
+.i804{background-position: -100px -100px;}
+.i805{background-position: -200px -0px;}
+.i806{background-position: -200px -100px;}

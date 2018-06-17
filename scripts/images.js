@@ -23,7 +23,7 @@ const download = function(d){
       res.setEncoding('binary');
       res.on('data', chunk => body += chunk);
       res.on('end', () => {
-        fs.writeFile('data/images/' + id + '.png', body, 'binary');
+        fs.writeFileSync('data/images/' + id + '.png', body, 'binary');
         download(data[++i]);
       });
     });

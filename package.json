@@ -12,12 +12,14 @@
   "author": "Lim Chee Aun",
   "license": "ISC",
   "scripts": {
-    "pokemon": "curl -o data/pokemon-list.json http://www.pokemon.com/us/api/pokedex/kalos",
+    "pokemon": "curl -o data/pokemon-list.json https://www.pokemon.com/us/api/pokedex/kalos",
     "repokemon": "node scripts/repokemon.js",
     "gemoji": "node scripts/gemoji.js",
     "min-repokemon": "node scripts/min-repokemon.js",
     "stats": "node scripts/stats.js",
     "images": "node scripts/images.js",
+    "fix-images": "node scripts/fix-images",
+    "presprite": "npm run fix-images",
     "sprite": "node scripts/sprite.js",
     "css-min": "cleancss -O2 mergeSemantically:on pokemon.css -o pokemon.min.css",
     "server": "serve -l 1337"
