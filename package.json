@@ -25,11 +25,11 @@
     "server": "serve -l 1337"
   },
   "devDependencies": {
-    "clean-css-cli": "^4.1.11",
+    "clean-css-cli": "^4.2.1",
     "gemoji": "^4.2.1",
-    "jimp": "~0.2.28",
-    "serve": "^9.0.0",
+    "jimp": "~0.3.5",
+    "serve": "^9.6.0",
     "spritesmith": "~3.3.1",
-    "tinify": "^1.5.0"
+    "tinify": "^1.6.0-beta.2"
   }
 }
