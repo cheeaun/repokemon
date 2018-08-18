@@ -33,17 +33,17 @@ The showcase only list repositories with these criteria:
 Dev
 ---
 
-- `yarn` - install dependencies
-- `yarn run pokemon` - grab the pokémons
-- `yarn run repokemon` - grab the Github repos
+- `npm i` - install dependencies
+- `npm run pokemon` - grab the pokémons
+- `npm run repokemon` - grab the Github repos
   - Copy `config.sample.json` to `config.json`, configure it with `client_id` and `client_secret` from GitHub
   - Takes about 30 minutes to prevent API rate limit issues
-- `yarn run min-repokemon` - generate a *minified* version of `data/repokemon.json`, containing only the data that is rendered
-- `yarn run stats` - show stats of the collected data
-- `yarn run images` - download all pokémon images to `data/images` (not included in this repo)
-- `yarn run sprite` - generate a sprite image `data/pokemon-*.jpg` (compressed with [TinyJPG](https://tinyjpg.com/) API)
-- `yarn run css-min` - compress `pokemon.css` to smaller `pokemon.min.css`
-- `yarn run server` - start a local server at `localhost:1337`
+- `npm run min-repokemon` - generate a *minified* version of `data/repokemon.json`, containing only the data that is rendered
+- `npm run stats` - show stats of the collected data
+- `npm run images` - download all pokémon images to `data/images` (not included in this repo)
+- `npm run sprite` - generate a sprite image `data/pokemon-*.jpg` (compressed with [TinyJPG](https://tinyjpg.com/) API)
+- `npm run css-min` - compress `pokemon.css` to smaller `pokemon.min.css`
+- `npm run server` - start a local server at `localhost:1337`
 
 Credits
 ---
