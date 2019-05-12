@@ -52,4 +52,6 @@ Pokémon data and images are extracted from the [official Pokédex web site](htt
 
 Repokémon is not affiliated with GitHub, Nintendo, Game Freak, or The Pokémon Company in any way.
 
-The logo is created by [@limhenry](https://github.com/limhenry). Available on [Codepen](http://codepen.io/limhenry/full/rLYkWY/).
+The logo uses the [Pokémon font](https://www.dafont.com/pokemon.font).
+
+The (Poké Ball) logo is created by [@limhenry](https://github.com/limhenry). Available on [Codepen](http://codepen.io/limhenry/full/rLYkWY/).
