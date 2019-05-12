@@ -22,7 +22,7 @@
     "presprite": "npm run fix-images",
     "sprite": "node scripts/sprite.js",
     "css-min": "cleancss -O2 mergeSemantically:on pokemon.css -o pokemon.min.css",
-    "server": "serve -l 1337"
+    "start": "serve -l 1337"
   },
   "devDependencies": {
     "clean-css-cli": "^4.3.0",

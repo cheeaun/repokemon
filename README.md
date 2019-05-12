@@ -43,7 +43,7 @@ Dev
 - `npm run images` - download all pokémon images to `data/images` (not included in this repo)
 - `npm run sprite` - generate a sprite image `data/pokemon-*.jpg` (compressed with [TinyJPG](https://tinyjpg.com/) API)
 - `npm run css-min` - compress `pokemon.css` to smaller `pokemon.min.css`
-- `npm run server` - start a local server at `localhost:1337`
+- `npm start` - start a local server at `localhost:1337`
 
 Credits
 ---
