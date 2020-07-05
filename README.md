@@ -3,7 +3,7 @@ Repokémon
 
 Showcase of GitHub repos with Pokémon names.
 
-Story: [Building Repokémon](https://cheeaun.com/blog/2016/08/building-repokemon/)
+**👉👉👉 Read Story: [Building Repokémon](https://cheeaun.com/blog/2016/08/building-repokemon/) 👈👈👈**
 
 [![Screenshot](screenshot.png)](https://cheeaun.github.io/repokemon/)
 
