@@ -118,10 +118,9 @@ h1 + p{
   <p>Showcase of GitHub repos with Pokémon&nbsp;names</p>
 </header>
 <div id="share">
-  <a class="github-button" href="https://github.com/cheeaun/repokemon" data-icon="octicon-star" data-count-href="/cheeaun/repokemon/stargazers" data-count-api="/repos/cheeaun/repokemon#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star cheeaun/repokemon on GitHub">Star</a>
-  <a class="github-button" href="https://github.com/cheeaun/repokemon/fork" data-icon="octicon-repo-forked" data-count-href="/cheeaun/repokemon/network" data-count-api="/repos/cheeaun/repokemon#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork cheeaun/repokemon on GitHub">Fork</a>
+  <a class="github-button" href="https://github.com/cheeaun/repokemon" data-show-count="true" aria-label="Star cheeaun/repokemon on GitHub">Star</a>
   <a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="repokemon" data-related="cheeaun" data-show-count="true">Tweet</a>
-  <div class="fb-like" data-href="https://cheeaun.github.io/repokemon" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+  <span class="fb-share-button" data-href="https://cheeaun.github.io/repokemon" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcheeaun.github.io%2Frepokemon%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></span>
 </div>
 <ul id="list"></ul>
 <div id="controls">
@@ -182,17 +181,19 @@ $controls.addEventListener('change', function(e){
   renderList(e.target.value);
 }, true);
 
-var $s = function(url){
+var $s = function(url, opts){
   var s0 = document.getElementsByTagName('script')[0];
   var s1 = document.createElement('script');
+  s1.crossOrigin = 'anonymous';
+  if (opts && opts.nonce) s1.nonce = opts.nonce;
   s1.src = url;
   s0.parentNode.insertBefore(s1, s0);
 };
 
 setTimeout(function(){
   $s('https://buttons.github.io/buttons.js');
-  $s('//platform.twitter.com/widgets.js');
-  $s('//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=245731922139910');
+  $s('https://platform.twitter.com/widgets.js');
+  $s('https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0&appId=245731922139910&autoLogAppEvents=1', { nonce: 'EpD5ZzkJ' });
 }, 2000);
 </script>
 <script>
