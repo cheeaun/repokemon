@@ -38,6 +38,7 @@ Dev
 - `npm run repokemon` - grab the Github repos
   - Copy `config.sample.json` to `config.json`, configure it with `client_id` and `client_secret` from GitHub
   - Takes about 30 minutes to prevent API rate limit issues
+- `npm run gemoji` - replace emoji names like `:smile:` to `😄`
 - `npm run min-repokemon` - generate a *minified* version of `data/repokemon.json`, containing only the data that is rendered
 - `npm run stats` - show stats of the collected data
 - `npm run images` - download all pokémon images to `data/images` (not included in this repo)
