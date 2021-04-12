@@ -1,8 +1,8 @@
-'use strict';
-
+require('dotenv').config();
 const fs = require('fs');
 const https = require('https');
-const config = require('./config');
+
+const { GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET } = process.env;
 
 const json = JSON.parse(fs.readFileSync('data/pokemon-list.json'));
 const ids = [];
@@ -51,7 +51,7 @@ const fetch = function () {
       `${removeUnsearchableChars(pokemonName)} mirror:false`,
     )}`,
     {
-      auth: `${config.client_id}:${config.client_secret}`,
+      auth: `${GITHUB_CLIENT_ID}:${GITHUB_CLIENT_SECRET}`,
       headers: {
         'User-Agent': 'Repokemon client',
       },

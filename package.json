@@ -31,6 +31,7 @@
   },
   "devDependencies": {
     "clean-css-cli": "~5.2.2",
+    "dotenv": "~8.2.0",
     "gemoji": "~7.0.0",
     "jimp": "~0.16.1",
     "json": "~10.0.0",

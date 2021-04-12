@@ -36,7 +36,7 @@ Dev
 - `npm i` - install dependencies
 - `npm run pokemon` - grab the pokémons
 - `npm run repokemon` - grab the Github repos
-  - Copy `config.sample.json` to `config.json`, configure it with `client_id` and `client_secret` from GitHub
+  - Copy `example.env` to `.env`, configure it with Client ID and Client Secret from GitHub
   - Takes about 30 minutes to prevent API rate limit issues
 - `npm run gemoji` - replace emoji names like `:smile:` to `😄`
 - `npm run min-repokemon` - generate a *minified* version of `data/repokemon.json`, containing only the data that is rendered
