@@ -18,7 +18,7 @@ jobs:
           GH_CLIENT_SECRET: ${{ secrets.GH_CLIENT_SECRET }}
         run: |-
           npm ci
-          npm run build
+          npm run build-ci
       - run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
