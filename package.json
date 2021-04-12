@@ -11,23 +11,29 @@
   ],
   "author": "Lim Chee Aun",
   "license": "ISC",
+  "engines": {
+    "node": ">=12.4"
+  },
   "scripts": {
-    "pokemon": "curl -o data/pokemon-list.json https://www.pokemon.com/us/api/pokedex/kalos",
+    "pokemon": "curl https://www.pokemon.com/us/api/pokedex/kalos | json > data/pokemon-list.json",
     "repokemon": "node scripts/repokemon.js",
-    "gemoji": "node scripts/gemoji.js",
+    "gemoji": "node scripts/gemoji.mjs",
     "min-repokemon": "node scripts/min-repokemon.js",
     "stats": "node scripts/stats.js",
-    "images": "node scripts/images.js",
+    "images": "if [ \"$(git show $(git branch --show-current):data/repokemon.json | json length)\" -ne \"$(cat data/repokemon.json | json length)\" ]; then node scripts/images.js; fi",
     "fix-images": "node scripts/fix-images",
     "presprite": "npm run fix-images",
-    "sprite": "node scripts/sprite.js",
+    "sprite": "if [ \"$(git show $(git branch --show-current):data/repokemon.json | json length)\" -ne \"$(cat data/repokemon.json | json length)\" ]; then node scripts/sprite.js; fi",
     "css-min": "cleancss -O2 mergeSemantically:on pokemon.css -o pokemon.min.css",
+    "minify": "npm run min-repokemon && npm run css-min",
+    "build": "npm run pokemon && npm run repokemon && npm run gemoji && npm run images && npm run sprite && npm run minify",
     "start": "serve -l 1337"
   },
   "devDependencies": {
-    "clean-css-cli": "~4.3.0",
-    "gemoji": "~5.0.1",
-    "jimp": "~0.14.0",
+    "clean-css-cli": "~5.2.2",
+    "gemoji": "~7.0.0",
+    "jimp": "~0.16.1",
+    "json": "~10.0.0",
     "serve": "~11.3.2",
     "spritesmith": "~3.4.0",
     "tinify": "~1.6.0-beta.2"
