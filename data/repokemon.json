@@ -1232,8 +1232,8 @@
 			"url": "https://github.com/ThinkR-open/golem",
 			"desc": "A Framework for Building Robust Shiny Apps ",
 			"lang": "R",
-			"stars": 533,
-			"watches": 533,
+			"stars": 534,
+			"watches": 534,
 			"forks": 91
 		}
 	},
@@ -1628,9 +1628,9 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 257,
-			"watches": 257,
-			"forks": 16
+			"stars": 258,
+			"watches": 258,
+			"forks": 17
 		}
 	},
 	{
@@ -2453,8 +2453,8 @@
 			"url": "https://github.com/arfc/moltres",
 			"desc": "Repository for Moltres, a code for simulating Molten Salt Reactors",
 			"lang": "C++",
-			"stars": 37,
-			"watches": 37,
+			"stars": 38,
+			"watches": 38,
 			"forks": 27
 		}
 	},
@@ -2912,17 +2912,17 @@
 		"name": "Natu",
 		"slug": "natu",
 		"repo": {
-			"id": 23168251,
+			"id": 165449241,
 			"name": "natu",
-			"full_name": "kdavies4/natu",
-			"owner_name": "kdavies4",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/1033764?v=4",
-			"url": "https://github.com/kdavies4/natu",
-			"desc": "Natural units in Python",
-			"lang": "Python",
-			"stars": 28,
-			"watches": 28,
-			"forks": 6
+			"full_name": "exelotl/natu",
+			"owner_name": "exelotl",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/569607?v=4",
+			"url": "https://github.com/exelotl/natu",
+			"desc": "Toolkit for writing Game Boy Advance games in Nim",
+			"lang": "Nim",
+			"stars": 72,
+			"watches": 72,
+			"forks": 2
 		}
 	},
 	{
@@ -4160,10 +4160,10 @@
 		"repo": {
 			"id": 139353839,
 			"name": "wingull",
-			"full_name": "professionalwingull/wingull",
-			"owner_name": "professionalwingull",
+			"full_name": "icebearlikescode/wingull",
+			"owner_name": "icebearlikescode",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/11683709?v=4",
-			"url": "https://github.com/professionalwingull/wingull",
+			"url": "https://github.com/icebearlikescode/wingull",
 			"desc": "fuck you dont steal my code you shitlords",
 			"lang": "Python",
 			"stars": 0,
@@ -6413,8 +6413,8 @@
 			"url": "https://github.com/matt-dray/dialga",
 			"desc": "⏲️🐉 R package: translate R to cron to English",
 			"lang": "R",
-			"stars": 5,
-			"watches": 5,
+			"stars": 6,
+			"watches": 6,
 			"forks": 0
 		}
 	},
@@ -6777,8 +6777,8 @@
 			"url": "https://github.com/filinger/blitzle",
 			"desc": "Small PoC for injection-less aimbot.",
 			"lang": "C++",
-			"stars": 6,
-			"watches": 6,
+			"stars": 7,
+			"watches": 7,
 			"forks": 1
 		}
 	},
@@ -7821,7 +7821,7 @@
 			"owner_name": "Youmenomi",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/51395751?v=4",
 			"url": "https://github.com/Youmenomi/hydreigon",
-			"desc": "Are you looking for a Hydreigon to classify items for you? Come and catch it!",
+			"desc": "Are you looking for a Hydreigon to classify data for you? Come and catch it!",
 			"lang": "TypeScript",
 			"stars": 0,
 			"watches": 0,
@@ -8891,8 +8891,8 @@
 			"url": "https://github.com/kalxd/morelull",
 			"desc": "latex民科模板艺术。",
 			"lang": "TeX",
-			"stars": 10,
-			"watches": 10,
+			"stars": 11,
+			"watches": 11,
 			"forks": 4
 		}
 	},
