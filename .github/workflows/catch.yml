@@ -1,0 +1,25 @@
+name: Catch latest repokemon
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 1,15 * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+    - run: |-
+        npm ci
+        npm run build
+    - run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" -m "`node scripts/changes`" || exit 0
+        git push
