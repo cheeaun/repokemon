@@ -1,4 +1,5 @@
 console.log(`test
-  more
+  even
+    more
   multiple
 lines`);
