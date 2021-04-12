@@ -133,6 +133,7 @@ h1 + p{
   <label><input type="radio" name="sort" value="stars"> Most stars</label>
 </div>
 <footer>
+  <p>Last updated: <span id="last-updated"></span></p>
   <p><b>Note</b>: Faded-out pokémon means the name has not been used as a GitHub repository name yet.</p>
   <p>Pokémon data and images are extracted from the <a href="http://www.pokemon.com/us/pokedex/">official Pokédex web site</a>. All Pokémon content is © Nintendo, Game Freak, and The Pokémon Company.</p>
   <p>Repokémon is not affiliated with GitHub, Nintendo, Game Freak, or The Pokémon Company in any way.</p>
@@ -148,6 +149,15 @@ xhr.onload = function(){
 };
 xhr.open('GET', 'data/repokemon.min.json');
 xhr.send();
+
+var xhr2 = new XMLHttpRequest();
+xhr2.onload = function(){
+  var txt = this.responseText;
+  var date = new Date(txt);
+  document.getElementById('last-updated').innerHTML = date.toLocaleDateString();
+};
+xhr2.open('GET', 'data/last-updated.txt');
+xhr2.send();
 
 var sortFuncs = {
   number: function(a, b){
