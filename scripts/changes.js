@@ -24,14 +24,33 @@ newData.forEach((nd) => {
   }
 });
 
-console.log(`New pokemons: ${newPokemons.length}${newPokemons
-  .map((d) => `\n  - ${d}`)
-  .join('')}
+// Means only stars/fork counts changed. Or descriptions.
+const nothingChanged =
+  !newPokemons.length && !added.length && !removed.length && !changed.length;
 
-Added: ${added.length}${added.map((d) => `\n  - ${d}`).join('')}
-
-Removed: ${removed.length}${removed.map((d) => `\n  - ${d}`).join('')}
-
-Changed: ${changed.length}${changed
-  .map((d) => `\n  - ${d[0]} → ${d[1]}`)
-  .join('')}`);
+console.log(
+  '# ' +
+    new Date().toUTCString() +
+    (nothingChanged
+      ? '\n\nNothing changed'
+      : (newPokemons.length
+          ? `\n\n## New pokemons: ${newPokemons.length}\n${newPokemons
+              .map((d) => `\n- ${d}`)
+              .join('')}`
+          : '') +
+        (added.length
+          ? `\n\n## Added: ${added.length}\n${added
+              .map((d) => `\n- ${d}`)
+              .join('')}`
+          : '') +
+        (removed.length
+          ? `\n\n## Removed: ${removed.length}\n${removed
+              .map((d) => `\n- ${d}`)
+              .join('')}`
+          : '') +
+        (changed.length
+          ? `\n\n## Changed: ${changed.length}\n${changed
+              .map((d) => `\n- ${d[0]} → ${d[1]}`)
+              .join('')}`
+          : '')),
+);
