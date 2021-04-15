@@ -12,9 +12,9 @@
 			"url": "https://github.com/alibaba/bulbasaur",
 			"desc": "A pluggable , scalable process engine . You can use it to develop business-process , approval-process , retry-process and so on . Hope you enjoy it.  可插拔的精简流程引擎，可快速实现流程，审批，业务失败重试等场景",
 			"lang": "Java",
-			"stars": 499,
-			"watches": 499,
-			"forks": 190
+			"stars": 500,
+			"watches": 500,
+			"forks": 191
 		}
 	},
 	{
@@ -431,9 +431,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 1377,
-			"watches": 1377,
-			"forks": 357
+			"stars": 1387,
+			"watches": 1387,
+			"forks": 359
 		}
 	},
 	{
@@ -690,8 +690,8 @@
 			"url": "https://github.com/puppylpg/oddish",
 			"desc": "To crawl all csgo skins from website.",
 			"lang": "Python",
-			"stars": 143,
-			"watches": 143,
+			"stars": 145,
+			"watches": 145,
 			"forks": 47
 		}
 	},
@@ -1232,9 +1232,9 @@
 			"url": "https://github.com/ThinkR-open/golem",
 			"desc": "A Framework for Building Robust Shiny Apps ",
 			"lang": "R",
-			"stars": 534,
-			"watches": 534,
-			"forks": 91
+			"stars": 535,
+			"watches": 535,
+			"forks": 90
 		}
 	},
 	{
@@ -1412,8 +1412,8 @@
 			"url": "https://github.com/kevinpollet/seel",
 			"desc": "Build container images for your Node.js applications",
 			"lang": "TypeScript",
-			"stars": 25,
-			"watches": 25,
+			"stars": 24,
+			"watches": 24,
 			"forks": 0
 		}
 	},
@@ -1484,8 +1484,8 @@
 			"url": "https://github.com/simnalamburt/shellder",
 			"desc": "🐚 Featured zsh/fish shell theme",
 			"lang": "Shell",
-			"stars": 192,
-			"watches": 192,
+			"stars": 193,
+			"watches": 193,
 			"forks": 34
 		}
 	},
@@ -1628,8 +1628,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 258,
-			"watches": 258,
+			"stars": 259,
+			"watches": 259,
 			"forks": 17
 		}
 	},
@@ -2049,17 +2049,17 @@
 		"name": "Jynx",
 		"slug": "jynx",
 		"repo": {
-			"id": 286308960,
-			"name": "jynx",
-			"full_name": "gbzarelli/jynx",
-			"owner_name": "gbzarelli",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/6283514?v=4",
-			"url": "https://github.com/gbzarelli/jynx",
-			"desc": "[JAVA] [QUARKUS] Jynx is an asynchronous label image detector.",
-			"lang": "Java",
-			"stars": 3,
-			"watches": 3,
-			"forks": 0
+			"id": 23167225,
+			"name": "Jynx",
+			"full_name": "jonathan-markland/Jynx",
+			"owner_name": "jonathan-markland",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/8304173?v=4",
+			"url": "https://github.com/jonathan-markland/Jynx",
+			"desc": "Emulator for the 1983 Camputers Lynx 48K/96K Microcomputers",
+			"lang": "C++",
+			"stars": 4,
+			"watches": 4,
+			"forks": 1
 		}
 	},
 	{
@@ -2129,9 +2129,9 @@
 			"url": "https://github.com/desativad0/Tauros",
 			"desc": "Um bot para Discord com diversas funções e dashboard para configuração!",
 			"lang": "JavaScript",
-			"stars": 26,
-			"watches": 26,
-			"forks": 14
+			"stars": 27,
+			"watches": 27,
+			"forks": 15
 		}
 	},
 	{
@@ -2543,8 +2543,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1339,
-			"watches": 1339,
+			"stars": 1340,
+			"watches": 1340,
 			"forks": 28
 		}
 	},
@@ -2876,17 +2876,17 @@
 		"name": "Togepi",
 		"slug": "togepi",
 		"repo": {
-			"id": 50202636,
+			"id": 350223829,
 			"name": "togepi",
-			"full_name": "gophergala2016/togepi",
-			"owner_name": "gophergala2016",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/16773106?v=4",
-			"url": "https://github.com/gophergala2016/togepi",
-			"desc": "A file sharing service",
-			"lang": "Go",
-			"stars": 5,
-			"watches": 5,
-			"forks": 2
+			"full_name": "aditeyabaral/togepi",
+			"owner_name": "aditeyabaral",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/33230959?v=4",
+			"url": "https://github.com/aditeyabaral/togepi",
+			"desc": "A version control system built using Python and DropBox API",
+			"lang": "Python",
+			"stars": 6,
+			"watches": 6,
+			"forks": 0
 		}
 	},
 	{
@@ -2920,8 +2920,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 72,
-			"watches": 72,
+			"stars": 73,
+			"watches": 73,
 			"forks": 2
 		}
 	},
@@ -3552,7 +3552,7 @@
 			"lang": "HTML",
 			"stars": 255,
 			"watches": 255,
-			"forks": 52
+			"forks": 51
 		}
 	},
 	{
@@ -3566,7 +3566,7 @@
 			"owner_name": "mantinedev",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/79146003?v=4",
 			"url": "https://github.com/mantinedev/mantine",
-			"desc": "Mantine Monorepo",
+			"desc": "Better React UI kit",
 			"lang": "TypeScript",
 			"stars": 3,
 			"watches": 3,
@@ -4021,7 +4021,20 @@
 	{
 		"id": "264",
 		"name": "Linoone",
-		"slug": "linoone"
+		"slug": "linoone",
+		"repo": {
+			"id": 357362960,
+			"name": "linoone",
+			"full_name": "huderlem/linoone",
+			"owner_name": "huderlem",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/2229288?v=4",
+			"url": "https://github.com/huderlem/linoone",
+			"desc": "Static website generator for Pokémon decomp projects",
+			"lang": "Python",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "265",
@@ -5777,10 +5790,10 @@
 		"repo": {
 			"id": 328412455,
 			"name": "shellOS",
-			"full_name": "HDB-PROGRAMMING/shellOS",
-			"owner_name": "HDB-PROGRAMMING",
+			"full_name": "h3nry-d1az/shellOS",
+			"owner_name": "h3nry-d1az",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/61124185?v=4",
-			"url": "https://github.com/HDB-PROGRAMMING/shellOS",
+			"url": "https://github.com/h3nry-d1az/shellOS",
 			"desc": "A very fast and efficient little operating system written from scratch for raspberry pi devices",
 			"lang": "C",
 			"stars": 1,
@@ -6413,8 +6426,8 @@
 			"url": "https://github.com/matt-dray/dialga",
 			"desc": "⏲️🐉 R package: translate R to cron to English",
 			"lang": "R",
-			"stars": 6,
-			"watches": 6,
+			"stars": 7,
+			"watches": 7,
 			"forks": 0
 		}
 	},
@@ -7257,7 +7270,20 @@
 	{
 		"id": "581",
 		"name": "Swanna",
-		"slug": "swanna"
+		"slug": "swanna",
+		"repo": {
+			"id": 354613336,
+			"name": "swanna",
+			"full_name": "halvorboe/swanna",
+			"owner_name": "halvorboe",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/19977186?v=4",
+			"url": "https://github.com/halvorboe/swanna",
+			"desc": "Text analysis app in Python based on Tantivy",
+			"lang": "Python",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "582",
