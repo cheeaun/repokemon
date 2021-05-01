@@ -1,3 +1,25 @@
+# Sat, 01 May 2021 00:43:28 GMT
+
+## Added: 3
+
+- PikalaxALT/fearow
+- hitohuma/regice
+- xsoma/necrozma
+
+## Removed: 2
+
+- Hoi15A/wigglytuff
+- halvorboe/swanna
+
+## Changed: 6
+
+- augustohp/pidgeotto → niharokz/pidgeotto
+- brianneisler/magmar → cran/magmaR
+- tvkhoa/hoothoot → replit-discord/HootHoot
+- lnxcrew/crobat → orderbooktools/crobat
+- awlka/Ninjask → Tiernebre/ninjask
+- LYNXEMS/Arceus → zc2638/arceus
+
 # Thu, 15 Apr 2021 00:46:25 GMT
 
 ## Added: 2
