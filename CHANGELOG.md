@@ -1,3 +1,15 @@
+# Sat, 15 May 2021 00:45:24 GMT
+
+## Added: 1
+
+- brightsole/solosis
+
+## Changed: 3
+
+- NativeMonkey/Psyduck → SmartKeyerror/Psyduck
+- GWorks-eu/Sylveon → GlaceonBot/Sylveon
+- Hooandee/Toxtricity → cecomp64/toxtricity
+
 # Sat, 01 May 2021 00:43:28 GMT
 
 ## Added: 3
