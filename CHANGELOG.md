@@ -1,3 +1,16 @@
+# Tue, 01 Jun 2021 02:11:43 GMT
+
+## Added: 2
+
+- partheseas/nidorina
+- Licious17/SpecTrier
+
+## Changed: 3
+
+- v4p0r/gengar → CGCL-codes/gengar
+- zaiah-dj/hypno → kmaork/hypno
+- DigitalMoteur/Vanillish → brightsole/vanillish
+
 # Sat, 15 May 2021 00:45:24 GMT
 
 ## Added: 1
