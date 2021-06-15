@@ -12,8 +12,8 @@
 			"url": "https://github.com/alibaba/bulbasaur",
 			"desc": "A pluggable , scalable process engine . You can use it to develop business-process , approval-process , retry-process and so on . Hope you enjoy it.  可插拔的精简流程引擎，可快速实现流程，审批，业务失败重试等场景",
 			"lang": "Java",
-			"stars": 505,
-			"watches": 505,
+			"stars": 506,
+			"watches": 506,
 			"forks": 193
 		}
 	},
@@ -22,14 +22,14 @@
 		"name": "Ivysaur",
 		"slug": "ivysaur",
 		"repo": {
-			"id": 37165044,
+			"id": 374625926,
 			"name": "Ivysaur",
-			"full_name": "domuro/Ivysaur",
-			"owner_name": "domuro",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/3075928?v=4",
-			"url": "https://github.com/domuro/Ivysaur",
-			"desc": "Generate options for specified tickets",
-			"lang": "Python",
+			"full_name": "TienAska/Ivysaur",
+			"owner_name": "TienAska",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/21364597?v=4",
+			"url": "https://github.com/TienAska/Ivysaur",
+			"desc": "A simple OpenGL application.",
+			"lang": "C++",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -112,17 +112,17 @@
 		"name": "Squirtle",
 		"slug": "squirtle",
 		"repo": {
-			"id": 33882032,
-			"name": "squirtle",
-			"full_name": "grutz/squirtle",
-			"owner_name": "grutz",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/171865?v=4",
-			"url": "https://github.com/grutz/squirtle",
-			"desc": "Squirtle the Browser-based NTLM Attack Toolkit",
-			"lang": "Ruby",
-			"stars": 17,
-			"watches": 17,
-			"forks": 5
+			"id": 295168255,
+			"name": "Squirtle",
+			"full_name": "DSLAM-UMD/Squirtle",
+			"owner_name": "DSLAM-UMD",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/46838104?v=4",
+			"url": "https://github.com/DSLAM-UMD/Squirtle",
+			"desc": "Squirtle: Serverless SQL Query Engine for Real-Time and Batch Analytics.",
+			"lang": "Rust",
+			"stars": 63,
+			"watches": 63,
+			"forks": 3
 		}
 	},
 	{
@@ -210,8 +210,8 @@
 			"url": "https://github.com/quintoandar/butterfree",
 			"desc": "A tool for building feature stores.",
 			"lang": "Python",
-			"stars": 149,
-			"watches": 149,
+			"stars": 155,
+			"watches": 155,
 			"forks": 20
 		}
 	},
@@ -444,9 +444,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 1471,
-			"watches": 1471,
-			"forks": 383
+			"stars": 1493,
+			"watches": 1493,
+			"forks": 390
 		}
 	},
 	{
@@ -703,9 +703,9 @@
 			"url": "https://github.com/puppylpg/oddish",
 			"desc": "To crawl all csgo skins from website.",
 			"lang": "Python",
-			"stars": 154,
-			"watches": 154,
-			"forks": 50
+			"stars": 158,
+			"watches": 158,
+			"forks": 51
 		}
 	},
 	{
@@ -854,7 +854,7 @@
 			"lang": "Python",
 			"stars": 113,
 			"watches": 113,
-			"forks": 97
+			"forks": 96
 		}
 	},
 	{
@@ -870,8 +870,8 @@
 			"url": "https://github.com/rezakamalifard/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 121,
-			"watches": 121,
+			"stars": 123,
+			"watches": 123,
 			"forks": 24
 		}
 	},
@@ -888,8 +888,8 @@
 			"url": "https://github.com/SmartKeyerror/Psyduck",
 			"desc": "Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计",
 			"lang": "Go",
-			"stars": 42,
-			"watches": 42,
+			"stars": 45,
+			"watches": 45,
 			"forks": 4
 		}
 	},
@@ -1114,8 +1114,8 @@
 			"url": "https://github.com/machamp-nlp/machamp",
 			"desc": "Repository with code for MaChAmp: https://arxiv.org/abs/2005.14672",
 			"lang": "Python",
-			"stars": 32,
-			"watches": 32,
+			"stars": 33,
+			"watches": 33,
 			"forks": 1
 		}
 	},
@@ -1209,8 +1209,8 @@
 			"url": "https://github.com/zachlatta/geodude",
 			"desc": "A tiny command-line utility for geocoding addresses.",
 			"lang": "Go",
-			"stars": 72,
-			"watches": 72,
+			"stars": 73,
+			"watches": 73,
 			"forks": 4
 		}
 	},
@@ -1245,9 +1245,9 @@
 			"url": "https://github.com/ThinkR-open/golem",
 			"desc": "A Framework for Building Robust Shiny Apps ",
 			"lang": "R",
-			"stars": 549,
-			"watches": 549,
-			"forks": 92
+			"stars": 555,
+			"watches": 555,
+			"forks": 93
 		}
 	},
 	{
@@ -1355,7 +1355,7 @@
 			"lang": "Ruby",
 			"stars": 17,
 			"watches": 17,
-			"forks": 17
+			"forks": 16
 		}
 	},
 	{
@@ -1407,8 +1407,8 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1200,
-			"watches": 1200,
+			"stars": 1198,
+			"watches": 1198,
 			"forks": 51
 		}
 	},
@@ -1497,8 +1497,8 @@
 			"url": "https://github.com/simnalamburt/shellder",
 			"desc": "🐚 Featured zsh/fish shell theme",
 			"lang": "Shell",
-			"stars": 216,
-			"watches": 216,
+			"stars": 219,
+			"watches": 219,
 			"forks": 38
 		}
 	},
@@ -1533,8 +1533,8 @@
 			"url": "https://github.com/mgrachev/gastly",
 			"desc": "👻 Create screenshots or previews of web pages",
 			"lang": "Ruby",
-			"stars": 89,
-			"watches": 89,
+			"stars": 90,
+			"watches": 90,
 			"forks": 16
 		}
 	},
@@ -1623,8 +1623,8 @@
 			"url": "https://github.com/kmaork/hypno",
 			"desc": "A tool/library allowing to inject python code into a running python process.",
 			"lang": "Python",
-			"stars": 3,
-			"watches": 3,
+			"stars": 4,
+			"watches": 4,
 			"forks": 0
 		}
 	},
@@ -1641,8 +1641,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 260,
-			"watches": 260,
+			"stars": 258,
+			"watches": 258,
 			"forks": 17
 		}
 	},
@@ -1695,9 +1695,9 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2013,
-			"watches": 2013,
-			"forks": 287
+			"stars": 2015,
+			"watches": 2015,
+			"forks": 288
 		}
 	},
 	{
@@ -1867,8 +1867,8 @@
 			"url": "https://github.com/SciresM/Rhydon",
 			"desc": "Save file editor for Pokemon Red/Blue/Yellow.",
 			"lang": "C#",
-			"stars": 55,
-			"watches": 55,
+			"stars": 56,
+			"watches": 56,
 			"forks": 12
 		}
 	},
@@ -1998,8 +1998,8 @@
 			"url": "https://github.com/kairyu/staryu",
 			"desc": "Open-source 5-key Keypad",
 			"lang": "Eagle",
-			"stars": 28,
-			"watches": 28,
+			"stars": 29,
+			"watches": 29,
 			"forks": 6
 		}
 	},
@@ -2052,9 +2052,9 @@
 			"url": "https://github.com/cascremers/scyther",
 			"desc": "The Scyther Tool for the symbolic analysis of security protocols",
 			"lang": "C",
-			"stars": 63,
-			"watches": 63,
-			"forks": 31
+			"stars": 65,
+			"watches": 65,
+			"forks": 32
 		}
 	},
 	{
@@ -2214,8 +2214,8 @@
 			"url": "https://github.com/evilsocket/ditto",
 			"desc": "A tool for IDN homograph attacks and detection.",
 			"lang": "Go",
-			"stars": 496,
-			"watches": 496,
+			"stars": 495,
+			"watches": 495,
 			"forks": 39
 		}
 	},
@@ -2232,8 +2232,8 @@
 			"url": "https://github.com/pizn/eevee",
 			"desc": "基于 github page 的在线编辑 blog 平台",
 			"lang": "JavaScript",
-			"stars": 167,
-			"watches": 167,
+			"stars": 168,
+			"watches": 168,
 			"forks": 31
 		}
 	},
@@ -2268,8 +2268,8 @@
 			"url": "https://github.com/fluffgfx/jolteon",
 			"desc": "💡 Babel + Electron + React + Browserify + SASS application stack. Electron Made Easy ™️",
 			"lang": "JavaScript",
-			"stars": 972,
-			"watches": 972,
+			"stars": 971,
+			"watches": 971,
 			"forks": 42
 		}
 	},
@@ -2556,9 +2556,9 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1350,
-			"watches": 1350,
-			"forks": 26
+			"stars": 1353,
+			"watches": 1353,
+			"forks": 24
 		}
 	},
 	{
@@ -2897,8 +2897,8 @@
 			"url": "https://github.com/aditeyabaral/togepi",
 			"desc": "A version control system built using Python and DropBox API",
 			"lang": "Python",
-			"stars": 18,
-			"watches": 18,
+			"stars": 17,
+			"watches": 17,
 			"forks": 1
 		}
 	},
@@ -2933,8 +2933,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 76,
-			"watches": 76,
+			"stars": 78,
+			"watches": 78,
 			"forks": 2
 		}
 	},
@@ -3358,7 +3358,7 @@
 			"lang": "Kotlin",
 			"stars": 107,
 			"watches": 107,
-			"forks": 19
+			"forks": 20
 		}
 	},
 	{
@@ -3545,8 +3545,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 132,
-			"watches": 132,
+			"stars": 135,
+			"watches": 135,
 			"forks": 18
 		}
 	},
@@ -3565,7 +3565,7 @@
 			"lang": "HTML",
 			"stars": 256,
 			"watches": 256,
-			"forks": 52
+			"forks": 53
 		}
 	},
 	{
@@ -3581,9 +3581,9 @@
 			"url": "https://github.com/mantinedev/mantine",
 			"desc": "React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience",
 			"lang": "TypeScript",
-			"stars": 1182,
-			"watches": 1182,
-			"forks": 34
+			"stars": 1238,
+			"watches": 1238,
+			"forks": 36
 		}
 	},
 	{
@@ -3650,8 +3650,8 @@
 			"url": "https://github.com/bijij/Donphan",
 			"desc": "Python ORM for Postgres",
 			"lang": "Python",
-			"stars": 11,
-			"watches": 11,
+			"stars": 10,
+			"watches": 10,
 			"forks": 1
 		}
 	},
@@ -3719,8 +3719,8 @@
 			"url": "https://github.com/whokilleddb/Smoochum",
 			"desc": "A miniature version of the (in)famous JYNX Rootkit",
 			"lang": "C",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -3852,8 +3852,8 @@
 			"url": "https://github.com/lugia-ysstech/lugia",
 			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
-			"stars": 458,
-			"watches": 458,
+			"stars": 459,
+			"watches": 459,
 			"forks": 52
 		}
 	},
@@ -4515,7 +4515,20 @@
 	{
 		"id": "303",
 		"name": "Mawile",
-		"slug": "mawile"
+		"slug": "mawile",
+		"repo": {
+			"id": 376134636,
+			"name": "Mawile",
+			"full_name": "rphln/Mawile",
+			"owner_name": "rphln",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/58113327?v=4",
+			"url": "https://github.com/rphln/Mawile",
+			"desc": "My personal reinforcement learning experiments on Pokémon Showdown.",
+			"lang": "Python",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "304",
@@ -4732,8 +4745,8 @@
 			"url": "https://github.com/HaoZeke/wailord",
 			"desc": "An ORCA helper in python",
 			"lang": "Python",
-			"stars": 1,
-			"watches": 1,
+			"stars": 2,
+			"watches": 2,
 			"forks": 0
 		}
 	},
@@ -5774,7 +5787,20 @@
 	{
 		"id": "417",
 		"name": "Pachirisu",
-		"slug": "pachirisu"
+		"slug": "pachirisu",
+		"repo": {
+			"id": 373719055,
+			"name": "pachirisu",
+			"full_name": "superloach/pachirisu",
+			"owner_name": "superloach",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/30514424?v=4",
+			"url": "https://github.com/superloach/pachirisu",
+			"desc": "Run pacman on Chrome OS",
+			"lang": "Shell",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "418",
@@ -5840,8 +5866,8 @@
 			"url": "https://github.com/paulhoule/gastrodon",
 			"desc": "Visualize RDF data in Jupyter with Pandas",
 			"lang": "Jupyter Notebook",
-			"stars": 81,
-			"watches": 81,
+			"stars": 82,
+			"watches": 82,
 			"forks": 14
 		}
 	},
@@ -6108,9 +6134,9 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm",
 			"lang": "Vim script",
-			"stars": 717,
-			"watches": 717,
-			"forks": 71
+			"stars": 721,
+			"watches": 721,
+			"forks": 72
 		}
 	},
 	{
@@ -6271,8 +6297,8 @@
 			"url": "https://github.com/mehmetkose/tangrowth",
 			"desc": "Python3.5 async crawler example with aiohttp and asyncio",
 			"lang": "Python",
-			"stars": 148,
-			"watches": 148,
+			"stars": 147,
+			"watches": 147,
 			"forks": 16
 		}
 	},
@@ -6578,11 +6604,11 @@
 			"owner_name": "99nil",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/84429291?v=4",
 			"url": "https://github.com/99nil/arceus",
-			"desc": "Configuration builder of yaml format",
+			"desc": "Structured Content Builder",
 			"lang": "Go",
-			"stars": 6,
-			"watches": 6,
-			"forks": 0
+			"stars": 8,
+			"watches": 8,
+			"forks": 2
 		}
 	},
 	{
@@ -6900,8 +6926,8 @@
 			"url": "https://github.com/midas-research/audino",
 			"desc": "Open source audio annotation tool for humans™",
 			"lang": "JavaScript",
-			"stars": 776,
-			"watches": 776,
+			"stars": 781,
+			"watches": 781,
 			"forks": 74
 		}
 	},
@@ -8539,17 +8565,17 @@
 		"name": "Klefki",
 		"slug": "klefki",
 		"repo": {
-			"id": 43836960,
+			"id": 109285011,
 			"name": "klefki",
-			"full_name": "rdiego26/klefki",
-			"owner_name": "rdiego26",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/1463578?v=4",
-			"url": "https://github.com/rdiego26/klefki",
-			"desc": "Simple substitution cipher module. 🚀",
-			"lang": "JavaScript",
+			"full_name": "ZeroProphet/klefki",
+			"owner_name": "ZeroProphet",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/44637342?v=4",
+			"url": "https://github.com/ZeroProphet/klefki",
+			"desc": "Klefki is a playground for researching elliptic curve group based algorithm, such as MPC, ZKP and HE. All data types & structures are based on mathematical defination of abstract algebra.",
+			"lang": "Python",
 			"stars": 11,
 			"watches": 11,
-			"forks": 3
+			"forks": 7
 		}
 	},
 	{
@@ -8943,8 +8969,8 @@
 			"url": "https://github.com/kalxd/morelull",
 			"desc": "latex民科模板艺术。",
 			"lang": "TeX",
-			"stars": 11,
-			"watches": 11,
+			"stars": 12,
+			"watches": 12,
 			"forks": 4
 		}
 	},
@@ -9123,7 +9149,20 @@
 	{
 		"id": "780",
 		"name": "Drampa",
-		"slug": "drampa"
+		"slug": "drampa",
+		"repo": {
+			"id": 372658430,
+			"name": "drampa",
+			"full_name": "chimerror/drampa",
+			"owner_name": "chimerror",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/2464697?v=4",
+			"url": "https://github.com/chimerror/drampa",
+			"desc": "Mahjong playground",
+			"lang": "Clojure",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "781",
@@ -9678,14 +9717,14 @@
 		"name": "Toxtricity",
 		"slug": "toxtricity",
 		"repo": {
-			"id": 250141036,
-			"name": "toxtricity",
-			"full_name": "cecomp64/toxtricity",
-			"owner_name": "cecomp64",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/111041?v=4",
-			"url": "https://github.com/cecomp64/toxtricity",
-			"desc": "A discord bot.",
-			"lang": "CoffeeScript",
+			"id": 259657863,
+			"name": "Toxtricity",
+			"full_name": "Hooandee/Toxtricity",
+			"owner_name": "Hooandee",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/50361056?v=4",
+			"url": "https://github.com/Hooandee/Toxtricity",
+			"desc": "Full of power!",
+			"lang": "JavaScript",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0

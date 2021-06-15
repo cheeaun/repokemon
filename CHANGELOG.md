@@ -1,3 +1,18 @@
+# Tue, 15 Jun 2021 01:03:41 GMT
+
+## Added: 3
+
+- rphln/Mawile
+- superloach/pachirisu
+- chimerror/drampa
+
+## Changed: 4
+
+- domuro/Ivysaur → TienAska/Ivysaur
+- grutz/squirtle → DSLAM-UMD/Squirtle
+- rdiego26/klefki → ZeroProphet/klefki
+- cecomp64/toxtricity → Hooandee/Toxtricity
+
 # Tue, 01 Jun 2021 02:11:43 GMT
 
 ## Added: 2
