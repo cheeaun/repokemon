@@ -1,3 +1,20 @@
+# Thu, 01 Jul 2021 00:56:11 GMT
+
+## Added: 3
+
+- namtx/sunflora
+- drakejwong/seedot
+- omsurve/CARKOL
+
+## Removed: 1
+
+- NotBlizzard/corviknight
+
+## Changed: 2
+
+- Peilonrayz/Kecleon → Tiernebre/kecleon
+- h3nry-d1az/shellOS → ar123github/shellOS
+
 # Tue, 15 Jun 2021 01:03:41 GMT
 
 ## Added: 3
