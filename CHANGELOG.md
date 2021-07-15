@@ -1,3 +1,15 @@
+# Thu, 15 Jul 2021 01:02:08 GMT
+
+## Added: 1
+
+- NotBlizzard/corviknight
+
+## Changed: 3
+
+- CGCL-codes/gengar → elongl/gengar
+- edm-opensource/beautifly → vashnavichauhan1825/BEAUTIFLY
+- anveshbudhuri/wynaut → JaiGatsby/Wynaut
+
 # Thu, 01 Jul 2021 00:56:11 GMT
 
 ## Added: 3
