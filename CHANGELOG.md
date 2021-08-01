@@ -1,3 +1,18 @@
+# Sun, 01 Aug 2021 01:10:28 GMT
+
+## Added: 2
+
+- TheMesp/spoink
+- mervinjin/mienfoo
+
+## Changed: 5
+
+- gtktsc/venusaur → partheseas/venusaur
+- bwcsemaj/ekans → JetPlaneJJ/ekans
+- katzenbar/wooper → partheseas/wooper
+- indrasaputra/steelix → akshay-v-kaushik/Steelix
+- jperkins/snom → CKalt/snom
+
 # Thu, 15 Jul 2021 01:02:08 GMT
 
 ## Added: 1
