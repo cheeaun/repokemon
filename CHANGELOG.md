@@ -1,3 +1,17 @@
+# Sun, 15 Aug 2021 01:04:41 GMT
+
+## Added: 2
+
+- Pseurae/Weavile
+- kalxd/lilligant
+
+## Changed: 4
+
+- picatz/flareon → jhsmith/flareon
+- weykent/zangoose → maxrewards/zangoose
+- ar123github/shellOS → h3nry-d1az/shellOS
+- kawasima/rotom → megagonlabs/rotom
+
 # Sun, 01 Aug 2021 01:10:28 GMT
 
 ## Added: 2
