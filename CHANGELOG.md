@@ -1,3 +1,18 @@
+# Wed, 01 Sep 2021 01:07:58 GMT
+
+## Added: 3
+
+- theosanderson/sandslash
+- partheseas/salamence
+- luisangelmaciel/Xurkitree
+
+## Changed: 4
+
+- skippi/graveler → LA1CH3/graveler
+- evilsocket/ditto → sabrogden/Ditto
+- replit-discord/HootHoot → tvkhoa/hoothoot
+- rpokemon/Meloetta → koreanpanda345/Meloetta
+
 # Sun, 15 Aug 2021 01:04:41 GMT
 
 ## Added: 2
