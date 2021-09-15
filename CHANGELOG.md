@@ -1,3 +1,20 @@
+# Wed, 15 Sep 2021 01:06:52 GMT
+
+## Added: 6
+
+- luisangelmaciel/Igglybuff
+- luisangelmaciel/Ho-Oh
+- utybo/Shedinja
+- utybo/Servine
+- PretendoNetwork/Inkay
+- luisangelmaciel/Toxel
+
+## Changed: 3
+
+- lindsayad/zapdos → shannon-lab/zapdos
+- RyanKung/celebi → TurnipGuy30/Celebi
+- mudkipme/meltan → MeltanOrigin/Meltan
+
 # Wed, 01 Sep 2021 01:07:58 GMT
 
 ## Added: 3
