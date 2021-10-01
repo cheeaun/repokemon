@@ -1,3 +1,10 @@
+# Fri, 01 Oct 2021 01:11:04 GMT
+
+## Changed: 2
+
+- elongl/gengar → v4p0r/gengar
+- bingo787/roselia → nargyanti/Roselia
+
 # Wed, 15 Sep 2021 01:06:52 GMT
 
 ## Added: 6
