@@ -1,3 +1,13 @@
+# Fri, 15 Oct 2021 01:09:32 GMT
+
+## Added: 1
+
+- chimerror/fletchinder
+
+## Removed: 1
+
+- ericzhao28/Doduo
+
 # Fri, 01 Oct 2021 01:11:04 GMT
 
 ## Changed: 2
