@@ -1,3 +1,20 @@
+# Mon, 01 Nov 2021 01:08:17 GMT
+
+## Added: 2
+
+- AuroraTook/Swampert
+- VVoruganti/chingling
+
+## Removed: 1
+
+- Pseurae/Weavile
+
+## Changed: 3
+
+- DSLAM-UMD/Squirtle → grutz/squirtle
+- Tiernebre/kecleon → AlphaGit/kecleon
+- vinaysshenoy/axew → MenuDocs/Axew
+
 # Fri, 15 Oct 2021 01:09:32 GMT
 
 ## Added: 1
