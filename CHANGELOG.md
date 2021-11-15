@@ -1,3 +1,22 @@
+# Mon, 15 Nov 2021 01:08:59 GMT
+
+## Added: 2
+
+- tmobile/ducklett
+- w7cep/Frogadier
+
+## Removed: 2
+
+- mervinjin/mienfoo
+- Licious17/SpecTrier
+
+## Changed: 4
+
+- TurnipGuy30/Celebi → RyanKung/celebi
+- mispy/plusle → enterstudio/plusle
+- mmalecot/rayquaza → NikichXP/rayquaza
+- darthelit/Glaceon → GlaceonBot/Glaceon
+
 # Mon, 01 Nov 2021 01:08:17 GMT
 
 ## Added: 2
