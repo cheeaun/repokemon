@@ -1,3 +1,19 @@
+# Wed, 01 Dec 2021 01:12:41 GMT
+
+## Added: 1
+
+- aslilac/whimsicott
+
+## Removed: 2
+
+- icebearlikescode/wingull
+- w7cep/Frogadier
+
+## Changed: 2
+
+- cascremers/scyther → bstillitano/Scyther
+- ghazi-naceur/munchlax → kalorenkall/Munchlax
+
 # Mon, 15 Nov 2021 01:08:59 GMT
 
 ## Added: 2
