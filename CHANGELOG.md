@@ -1,3 +1,17 @@
+# Wed, 15 Dec 2021 01:10:16 GMT
+
+## Added: 2
+
+- icebearlikescode/wingull
+- sliminality/mime-jr
+
+## Changed: 4
+
+- Dragonite-Lee/dragonite → nicolomaioli/dragonite
+- aslilac/wooper → vinicmorandi/wooper
+- NikichXP/rayquaza → asproz/Rayquaza
+- kalorenkall/Munchlax → ghazi-naceur/munchlax
+
 # Wed, 01 Dec 2021 01:12:41 GMT
 
 ## Added: 1
