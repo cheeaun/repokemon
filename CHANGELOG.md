@@ -1,3 +1,20 @@
+# Sat, 01 Jan 2022 01:13:21 GMT
+
+## Added: 3
+
+- chimerror/galvantula
+- angelsflyinhell/cosmoem
+- Den64920/thievul
+
+## Removed: 1
+
+- StrikerFRFX/Amoonguss
+
+## Changed: 2
+
+- massa142/phanpy → maxpert/phanpy
+- RyanKung/celebi → IfanTsai/celebi
+
 # Wed, 15 Dec 2021 01:10:16 GMT
 
 ## Added: 2
