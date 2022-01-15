@@ -1,3 +1,19 @@
+# Sat, 15 Jan 2022 01:10:35 GMT
+
+## Added: 3
+
+- GZGTE/bibarel
+- ReliSalazar/mismagius
+- TecToast/Emolga
+
+## Changed: 5
+
+- wankdanker/cloyster → uuhan/cloyster
+- nicolomaioli/dragonite → favware/dragonite
+- Suyashtnt/furret → Zamur650/Furret
+- stephenlam/spinarak → spaceglace/spinarak
+- vinicmorandi/wooper → aslilac/wooper
+
 # Sat, 01 Jan 2022 01:13:21 GMT
 
 ## Added: 3
