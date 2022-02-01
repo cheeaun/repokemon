@@ -1,3 +1,23 @@
+# Tue, 01 Feb 2022 01:10:59 GMT
+
+## Added: 1
+
+- datatorium/kartana
+
+## Removed: 1
+
+- zy3334/litten
+
+## Changed: 7
+
+- qriklix/Nuzleaf → AmalLooby/Nuzleaf
+- Antartical/pelipper → kumar8999/Pelipper
+- daadyrbarn/piplup → zhuowei/Piplup
+- stunnedbud/bidoof → suchipi/bidoof
+- GZGTE/bibarel → suchipi/bibarel
+- MeltanOrigin/Meltan → mudkipme/meltan
+- Hooandee/Toxtricity → cecomp64/toxtricity
+
 # Sat, 15 Jan 2022 01:10:35 GMT
 
 ## Added: 3
