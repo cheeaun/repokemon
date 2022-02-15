@@ -1,3 +1,17 @@
+# Tue, 15 Feb 2022 01:14:40 GMT
+
+## Added: 2
+
+- FredMushZhaoX/litten
+- suchipi/lurantis
+
+## Changed: 4
+
+- JetPlaneJJ/ekans → int3rlop3r/ekans
+- aviary-developer/blissey → Phlammariont/blissey
+- koreanpanda345/Meloetta → joshrandall8478/Meloetta
+- cecomp64/toxtricity → Hooandee/Toxtricity
+
 # Tue, 01 Feb 2022 01:10:59 GMT
 
 ## Added: 1
