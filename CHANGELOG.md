@@ -1,3 +1,29 @@
+# Tue, 01 Mar 2022 01:23:21 GMT
+
+## Added: 4
+
+- GH-Cyndaquil/Cyndaquil
+- suchipi/cleffa
+- aslilac/amaura
+- dcphantom/grubbin
+
+## Removed: 1
+
+- aslilac/salamence
+
+## Changed: 10
+
+- braxtondiggs/Clefairy → suchipi/clefairy
+- kirinrogue/ariados → kumibrr/ariados
+- AlexNeises/Sunkern → PMDCollab/Sunkern
+- aslilac/wooper → katzenbar/wooper
+- percy0525/Shuckle → ryaangu/shuckle
+- Nathxniel/Corsola → aslilac/corsola
+- archierb/suicune → froggestspirit/suiCune
+- lastroom/ralts → lukedavisseo/ralts
+- LOP-SP/garchomp → D2TA/Garchomp
+- umkc-cs-451-2020-spring/dwebble → diablo9983/dwebble
+
 # Tue, 15 Feb 2022 01:14:40 GMT
 
 ## Added: 2
