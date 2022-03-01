@@ -11,23 +11,33 @@
   ],
   "author": "Lim Chee Aun",
   "license": "ISC",
+  "engines": {
+    "node": ">=12.4"
+  },
   "scripts": {
-    "pokemon": "curl -o data/pokemon-list.json https://www.pokemon.com/fr/api/pokedex/kalos",
-    "repokemon": "node scripts/repokemon.js",
-    "gemoji": "node scripts/gemoji.js",
-    "min-repokemon": "node scripts/min-repokemon.js",
-    "stats": "node scripts/stats.js",
-    "images": "node scripts/images.js",
-    "sprite": "node scripts/sprite.js",
+    "pokemon": "curl https://www.pokemon.com/fr/api/pokedex/kalos | json > data/pokemon-list.json",
+    "repokemon": "node scripts/repokemon",
+    "gemoji": "node scripts/gemoji.mjs",
+    "min-repokemon": "node scripts/min-repokemon",
+    "stats": "node scripts/stats",
+    "images": "node scripts/images",
+    "images-ci": "if [ \"$(git show $(git branch --show-current):data/repokemon.json | json length)\" -ne \"$(cat data/repokemon.json | json length)\" ]; then npm run images; fi",
+    "fix-images": "node scripts/fix-images",
+    "sprite": "node scripts/sprite",
+    "sprite-ci": "if [ \"$(git show $(git branch --show-current):data/repokemon.json | json length)\" -ne \"$(cat data/repokemon.json | json length)\" ]; then npm run fix-images && npm run sprite; fi",
     "css-min": "cleancss -O2 mergeSemantically:on pokemon.css -o pokemon.min.css",
-    "server": "hs -c-1 -p 1337"
+    "changes": "echo \"$(node scripts/changes)\n\n$(cat CHANGELOG.md)\" > CHANGELOG.md",
+    "build-ci": "npm run pokemon && npm run repokemon && npm run gemoji && npm run images-ci && npm run sprite-ci && npm run min-repokemon && npm run css-min && npm run changes",
+    "start": "serve -l 1337"
   },
   "devDependencies": {
-    "clean-css-cli": "^4.1.5",
-    "gemoji": "^4.2.0",
-    "http-server": "~0.10.0",
-    "jimp": "~0.2.28",
-    "spritesmith": "~3.1.1",
-    "tinify": "^1.5.0"
+    "clean-css-cli": "~5.2.2",
+    "dotenv": "~8.2.0",
+    "gemoji": "~7.0.0",
+    "jimp": "~0.16.1",
+    "json": "~10.0.0",
+    "serve": "~11.3.2",
+    "spritesmith": "~3.4.0",
+    "tinify": "~1.6.0-beta.2"
   }
 }

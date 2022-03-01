@@ -3,7 +3,7 @@ Repokémon
 
 Showcase of GitHub repos with Pokémon names.
 
-Story: [Building Repokémon](https://cheeaun.com/blog/2016/08/building-repokemon/)
+**👉👉👉 Read Story: [Building Repokémon](https://cheeaun.com/blog/2016/08/building-repokemon/) 👈👈👈**
 
 [![Screenshot](screenshot.png)](https://cheeaun.github.io/repokemon/)
 
@@ -33,17 +33,18 @@ The showcase only list repositories with these criteria:
 Dev
 ---
 
-- `yarn` - install dependencies
-- `yarn run pokemon` - grab the pokémons
-- `yarn run repokemon` - grab the Github repos
-  - Copy `config.sample.json` to `config.json`, configure it with `client_id` and `client_secret` from GitHub
+- `npm i` - install dependencies
+- `npm run pokemon` - grab the pokémons
+- `npm run repokemon` - grab the Github repos
+  - Copy `example.env` to `.env`, configure it with Client ID and Client Secret from GitHub
   - Takes about 30 minutes to prevent API rate limit issues
-- `yarn run min-repokemon` - generate a *minified* version of `data/repokemon.json`, containing only the data that is rendered
-- `yarn run stats` - show stats of the collected data
-- `yarn run images` - download all pokémon images to `data/images` (not included in this repo)
-- `yarn run sprite` - generate a sprite image `data/pokemon-*.jpg` (compressed with [TinyJPG](https://tinyjpg.com/) API)
-- `yarn run css-min` - compress `pokemon.css` to smaller `pokemon.min.css`
-- `yarn run server` - start a local server at `localhost:1337`
+- `npm run gemoji` - replace emoji names like `:smile:` to `😄`
+- `npm run min-repokemon` - generate a *minified* version of `data/repokemon.json`, containing only the data that is rendered
+- `npm run stats` - show stats of the collected data
+- `npm run images` - download all pokémon images to `data/images` (not included in this repo)
+- `npm run sprite` - generate a sprite image `data/pokemon-*.jpg` (compressed with [TinyJPG](https://tinyjpg.com/) API)
+- `npm run css-min` - compress `pokemon.css` to smaller `pokemon.min.css`
+- `npm start` - start a local server at `localhost:1337`
 
 Credits
 ---
@@ -52,4 +53,6 @@ Pokémon data and images are extracted from the [official Pokédex web site](htt
 
 Repokémon is not affiliated with GitHub, Nintendo, Game Freak, or The Pokémon Company in any way.
 
-The logo is created by [@limhenry](https://github.com/limhenry). Available on [Codepen](http://codepen.io/limhenry/full/rLYkWY/).
+The logo uses the [Pokémon font](https://www.dafont.com/pokemon.font).
+
+The (Poké Ball) logo is created by [@limhenry](https://github.com/limhenry). Available on [Codepen](http://codepen.io/limhenry/full/rLYkWY/).
