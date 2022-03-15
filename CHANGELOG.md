@@ -1,3 +1,26 @@
+# Tue, 15 Mar 2022 00:44:03 GMT
+
+## Added: 1
+
+- CredibleOpossum/crustle
+
+## Removed: 4
+
+- AuroraTook/Swampert
+- kalxd/lilligant
+- aslilac/amaura
+- sherrylam/Wooloo
+
+## Changed: 7
+
+- 5310/exeggutor → Cyber28/exeggutor
+- GCPBigData/seadra → E7su/seadra
+- USGS-Astrogeology/bayleef → bjweerd/Bayleef
+- vgjournal/blaziken → 0335181946/blaziken
+- jasontrix113/Scrafty → NilsNathorst/scrafty
+- nfrancois/dartrix → mobileink/dartrix
+- yretenai/Dragapult → diareuse/dragapult
+
 # Tue, 01 Mar 2022 01:23:21 GMT
 
 ## Added: 4
