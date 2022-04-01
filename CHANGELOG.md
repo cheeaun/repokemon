@@ -1,3 +1,22 @@
+# Fri, 01 Apr 2022 00:46:27 GMT
+
+## Removed: 1
+
+- iamrecursion/absol
+
+## Changed: 10
+
+- phated/charmeleon → SHA65536/Charmeleon
+- mathur/gyaradOS → GitHubHQ/gyaradOS
+- spaceglace/spinarak → wkm97/spinarak
+- kumibrr/ariados → kumibrr/ariados
+- yayitswei/pichu → umangrmehta/pichu
+- ryaangu/shuckle → percy0525/Shuckle
+- Phlammariont/blissey → aviary-developer/blissey
+- miguejs/altaria → TwoDrifts/Altaria
+- joshrandall8478/Meloetta → JonnyACCI/Meloetta
+- Hooandee/Toxtricity → NotKijana/toxtricity
+
 # Tue, 15 Mar 2022 00:44:03 GMT
 
 ## Added: 1
