@@ -1,3 +1,25 @@
+# Fri, 15 Apr 2022 00:45:27 GMT
+
+## Added: 5
+
+- asterick/skiploom
+- ParanoidWolf/bronzor
+- mju-likelion/Regigigas
+- swadloon-org/swadloon
+- gastrodon/cutiefly
+
+## Removed: 2
+
+- bjweerd/Bayleef
+- RichieBzzzt/Dreepy
+
+## Changed: 4
+
+- E7su/seadra → GCPBigData/seadra
+- GH-Cyndaquil/Cyndaquil → GH-Cyndaquil/Cyndaquil
+- xaslilac/corsola → Nathxniel/Corsola
+- NotKijana/toxtricity → cecomp64/toxtricity
+
 # Fri, 01 Apr 2022 00:46:27 GMT
 
 ## Removed: 1
