@@ -1,3 +1,44 @@
+# Mon, 09 May 2022 18:01:18 GMT
+
+## New pokemons: 7
+
+- Wyrdeer
+- Kleavor
+- Ursaluna
+- Basculegion
+- Sneasler
+- Overqwil
+- Enamorus
+
+## Added: 7
+
+- bjweerd/Bayleef
+- sofiefj/Bellossom
+- JAFB321/flygon
+- keitaj/solrock
+- MVanderloo/Fraxure
+- lexuantien/sirfetchd
+- CodeByJojo/Alcremie
+
+## Removed: 2
+
+- mju-likelion/Regigigas
+- yitimo/yveltal
+
+## Changed: 11
+
+- TienAska/Ivysaur → heyodai/ivysaur
+- M-Zuber/Primeape → jannis2301/primeape
+- gatblau/onix → StevenBaby/onix
+- v3n/Gardevoir → KuuhakuTeam/Gardevoir
+- Gisleburt/Skitty → Mattchine/skitty
+- TwoDrifts/Altaria → linuxguy2020/Altaria
+- ParanoidWolf/bronzor → ParanoidWolf/bronzor
+- Phlammariont/happiny → kalxd/happiny
+- Astral-C/Palkia → sigempty/Palkia
+- rtator/minccino → j1nxie/minccino
+- cecomp64/toxtricity → Hooandee/Toxtricity
+
 # Fri, 15 Apr 2022 00:45:27 GMT
 
 ## Added: 5

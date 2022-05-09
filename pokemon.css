@@ -932,3 +932,14 @@
 .i896{background-position: -500px -900px;}
 .i897{background-position: -600px -900px;}
 .i898{background-position: -700px -900px;}
+.i899{background-position: -800px -900px;}
+.i900{background-position: -900px -900px;}
+[class*=i9]:not(.i900),.i1000{
+          background-image: url(data/pokemon-9.jpg);
+          background-size: 300px 200px;
+        }
+        .i901{background-position: -0px -0px;}
+.i902{background-position: -100px -0px;}
+.i903{background-position: -0px -100px;}
+.i904{background-position: -100px -100px;}
+.i905{background-position: -200px -0px;}
