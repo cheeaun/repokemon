@@ -1,3 +1,16 @@
+# Sun, 15 May 2022 00:46:25 GMT
+
+## Removed: 2
+
+- luisangelmaciel/Igglybuff
+- TheMesp/spoink
+
+## Changed: 3
+
+- justrum/articuno → Articuno-org/Articuno
+- kumibrr/ariados → kirinrogue/ariados
+- 0335181946/blaziken → vgjournal/blaziken
+
 # Mon, 09 May 2022 18:01:18 GMT
 
 ## New pokemons: 7
