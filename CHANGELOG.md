@@ -1,3 +1,24 @@
+# Wed, 01 Jun 2022 00:45:40 GMT
+
+## Added: 1
+
+- JulioCGH/Roserade
+
+## Removed: 1
+
+- TurpIF/Togetic
+
+## Changed: 8
+
+- Bananaj00e/Raticate → LTLA/raticate
+- doyoubi/Parasect → AvyFly/parasect
+- Harjas08/mankey → PastorGustavo/Mankey
+- StevenBaby/onix → gatblau/onix
+- Peacepapi/Aggron → clockworkscorpion/aggron
+- magical/deoxys → nexxeln/deoxys
+- FredMushZhaoX/litten → t-sin/litten
+- vonZeppelin/yamper → gameduser/Yamper
+
 # Sun, 15 May 2022 00:46:25 GMT
 
 ## Removed: 2
