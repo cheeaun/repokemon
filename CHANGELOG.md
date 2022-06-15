@@ -1,3 +1,26 @@
+# Wed, 15 Jun 2022 00:47:24 GMT
+
+## Added: 3
+
+- megagonlabs/doduo
+- TurpIF/Togetic
+- InfinityBotList/Popplio
+
+## Removed: 1
+
+- Sd-Invol/Marshtomp
+
+## Changed: 8
+
+- gatblau/onix → StevenBaby/onix
+- A5rocks/umbreon → mudkipdev/umbreon
+- Being-Citrus/minun → megagonlabs/minun
+- thomasbui93/latias → kubabialy/latias
+- kalxd/happiny → Phlammariont/happiny
+- 99nil/arceus → FirezTheGreat/Arceus
+- brightsole/vanillish → ryanccn/vanillish
+- Hooandee/Toxtricity → cecomp64/toxtricity
+
 # Wed, 01 Jun 2022 00:45:40 GMT
 
 ## Added: 1
