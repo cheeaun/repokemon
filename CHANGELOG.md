@@ -1,3 +1,30 @@
+# Fri, 01 Jul 2022 00:47:29 GMT
+
+## Added: 6
+
+- luisangelmaciel/Igglybuff
+- evgeniyp92/wailmer
+- evgeniyp92/Tepig
+- nadavm7/PatRat
+- evgeniyp92/Sawsbuck
+- DarrylBrooks97/Thundurus
+
+## Removed: 1
+
+- ANSSI-FR/Binacle
+
+## Changed: 9
+
+- kalxd/golduck → nohkiseo/GolDuck
+- jhsmith/flareon → picatz/flareon
+- Nathxniel/Corsola → xaslilac/corsola
+- IfanTsai/celebi → TurnipGuy30/Celebi
+- h3nry-d1az/shellOS → ElectroBoy404NotFound/ShellOS
+- ParanoidWolf/bronzor → jkulba/Bronzor
+- Phlammariont/happiny → kalxd/happiny
+- ohs234/oshawott → evgeniyp92/Oshawott
+- cecomp64/toxtricity → The-Legion-Code/Toxtricity
+
 # Wed, 15 Jun 2022 00:47:24 GMT
 
 ## Added: 3
