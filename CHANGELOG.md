@@ -1,3 +1,20 @@
+# Fri, 15 Jul 2022 00:47:40 GMT
+
+## Added: 2
+
+- ANSSI-FR/Binacle
+- makyfj/Silicobra
+
+## Removed: 2
+
+- moosejaw/grookey
+- CodeByJojo/Alcremie
+
+## Changed: 2
+
+- KuuhakuTeam/Gardevoir → v3n/Gardevoir
+- losiz17/shaymin → Kijimi/shaymin
+
 # Fri, 01 Jul 2022 00:47:29 GMT
 
 ## Added: 6
