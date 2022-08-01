@@ -1,3 +1,26 @@
+# Mon, 01 Aug 2022 00:51:22 GMT
+
+## Added: 4
+
+- kalxd/machoke
+- ktrane1/exploud
+- evgeniyp92/Mienfoo
+- gamma-delta/indeedee
+
+## Removed: 2
+
+- Abledenthusiast/heracross
+- swadloon-org/swadloon
+
+## Changed: 6
+
+- Cyber28/exeggutor → 5310/exeggutor
+- bijij/Ampharos → Axiol/ampharos
+- sofiefj/Bellossom → VVoruganti/bellossom
+- mudkipdev/umbreon → A5rocks/umbreon
+- v3n/Gardevoir → KuuhakuTeam/Gardevoir
+- evgeniyp92/Oshawott → manthanabc/oshawott
+
 # Fri, 15 Jul 2022 00:47:40 GMT
 
 ## Added: 2
