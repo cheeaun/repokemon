@@ -1,3 +1,18 @@
+# Mon, 15 Aug 2022 00:47:27 GMT
+
+## Added: 2
+
+- Abledenthusiast/heracross
+- davidsun0/stantler
+
+## Removed: 1
+
+- ktrane1/exploud
+
+## Changed: 1
+
+- Yatoom/arbok → chistopher/arbok
+
 # Mon, 01 Aug 2022 00:51:22 GMT
 
 ## Added: 4
