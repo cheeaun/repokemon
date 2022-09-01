@@ -1,3 +1,24 @@
+# Thu, 01 Sep 2022 00:46:46 GMT
+
+## Added: 5
+
+- iamrecursion/absol
+- fortheusers/sealeo
+- internEVbiotech/Turtwig
+- vulpix500/lycanroc
+- syvlorg/alcremie
+
+## Changed: 8
+
+- kalxd/aipom → yushengzh/Aipom
+- wheath91/azurill → ArcNyxx/azurill
+- hitohuma/regice → JaavierR/regice
+- Paras-bakshi/Infernape → kangbw702/Infernape
+- ElectroBoy404NotFound/ShellOS → coffeemaru/shellos
+- manthanabc/oshawott → vulpix500/Oshawott
+- j1nxie/minccino → dain98/Minccino
+- The-Legion-Code/Toxtricity → cecomp64/toxtricity
+
 # Mon, 15 Aug 2022 00:47:27 GMT
 
 ## Added: 2
