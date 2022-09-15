@@ -1,3 +1,17 @@
+# Thu, 15 Sep 2022 00:49:30 GMT
+
+## Removed: 2
+
+- iamrecursion/absol
+- internEVbiotech/Turtwig
+
+## Changed: 4
+
+- brandonkho/Metagross → justinleewells/metagross
+- coffeemaru/shellos → ElectroBoy404NotFound/ShellOS
+- MenuDocs/Axew → lewisbarnes/axew
+- z64/cryogonal → PanisSupraOmnia/cryogonal
+
 # Thu, 01 Sep 2022 00:46:46 GMT
 
 ## Added: 5
