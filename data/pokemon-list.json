@@ -2996,8 +2996,8 @@
     "collectibles_slug": "farfetchd",
     "featured": "true",
     "slug": "farfetchd",
-    "name": "Farfetch'd",
-    "ThumbnailAltText": "Farfetch'd",
+    "name": "Farfetch’d",
+    "ThumbnailAltText": "Farfetch’d",
     "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/083.png",
     "id": 83,
     "type": [
@@ -3021,8 +3021,8 @@
     "collectibles_slug": "farfetchd",
     "featured": "true",
     "slug": "farfetchd",
-    "name": "Farfetch'd",
-    "ThumbnailAltText": "Farfetch'd",
+    "name": "Farfetch’d",
+    "ThumbnailAltText": "Farfetch’d",
     "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/083.png",
     "id": 83,
     "type": [
@@ -26763,8 +26763,8 @@
     "collectibles_slug": "sirfetchd",
     "featured": "true",
     "slug": "sirfetchd",
-    "name": "Sirfetch'd",
-    "ThumbnailAltText": "Sirfetch'd",
+    "name": "Sirfetch’d",
+    "ThumbnailAltText": "Sirfetch’d",
     "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/865.png",
     "id": 865,
     "type": [
@@ -27762,7 +27762,7 @@
   },
   {
     "abilities": [
-      "Dragon's Maw"
+      "Dragon’s Maw"
     ],
     "detailPageURL": "/us/pokedex/regidrago",
     "weight": 440.9,

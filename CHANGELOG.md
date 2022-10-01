@@ -1,3 +1,20 @@
+# Sat, 01 Oct 2022 00:51:17 GMT
+
+## Added: 1
+
+- theedward/Raikou
+
+## Removed: 1
+
+- brightsole/solosis
+
+## Changed: 4
+
+- 12ian34/kabuto → kokimame/kabuto
+- JAFB321/flygon → Kd4u/Flygon
+- nadavm7/PatRat → Minutzu321/Patrat
+- mgrb/overqwil → zeropaper/overqwil
+
 # Thu, 15 Sep 2022 00:49:30 GMT
 
 ## Removed: 2
