@@ -1,3 +1,18 @@
+# Sat, 15 Oct 2022 00:50:25 GMT
+
+## Added: 2
+
+- thlmenezes/zebstrika
+- YamiKawa1/Applin
+
+## Removed: 1
+
+- kalxd/drifloon
+
+## Changed: 1
+
+- dolugen/drilbur → mossdinger/drilbur
+
 # Sat, 01 Oct 2022 00:51:17 GMT
 
 ## Added: 1
