@@ -1,3 +1,15 @@
+# Tue, 01 Nov 2022 00:50:26 GMT
+
+## Added: 2
+
+- nirewen/carvanha
+- Skripify/Terrakion
+
+## Changed: 2
+
+- iotaki/xatu → alejandrojuria/xatu
+- akshay-v-kaushik/Steelix → FL33TW00D/steelix
+
 # Sat, 15 Oct 2022 00:50:25 GMT
 
 ## Added: 2
