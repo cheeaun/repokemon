@@ -1,3 +1,17 @@
+# Tue, 15 Nov 2022 03:45:39 GMT
+
+## Removed: 1
+
+- misterjinx/durant
+
+## Changed: 5
+
+- VVoruganti/bellossom → sofiefj/Bellossom
+- JauntyJames/sneasel → nubbysaurus/sneasel
+- Minutzu321/Patrat → Sennydewum/Patrat
+- MyAeroCode/tynamo → sunxuening/tynamo
+- YamiKawa1/Applin → alexandraktang/Applin
+
 # Tue, 01 Nov 2022 00:50:26 GMT
 
 ## Added: 2
