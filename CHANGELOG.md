@@ -1,3 +1,16 @@
+# Thu, 01 Dec 2022 00:48:24 GMT
+
+## Added: 1
+
+- misterjinx/durant
+
+## Changed: 4
+
+- PastorGustavo/Mankey → joacopaz/Mankey
+- aviary-developer/blissey → Kevin-MartinezP/blissey
+- GlaceonBot/Glaceon → darthelit/Glaceon
+- GlaceonBot/Sylveon → iveykun/Sylveon
+
 # Tue, 15 Nov 2022 03:45:39 GMT
 
 ## Removed: 1
