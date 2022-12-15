@@ -1,3 +1,18 @@
+# Thu, 15 Dec 2022 00:48:15 GMT
+
+## Removed: 1
+
+- ggghhhjjj/gabite
+
+## Changed: 6
+
+- heyodai/ivysaur → domuro/Ivysaur
+- jannis2301/primeape → yxl1014/Primeape
+- maxpert/phanpy → cheeaun/phanpy
+- vashnavichauhan1825/BEAUTIFLY → g2r4i6e8/beautifly
+- seangeleno/gulpin → House-Atlantic/gulpin
+- cecomp64/toxtricity → Hooandee/Toxtricity
+
 # Thu, 01 Dec 2022 00:48:24 GMT
 
 ## Added: 1
