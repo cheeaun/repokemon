@@ -1,3 +1,20 @@
+# Sun, 01 Jan 2023 00:48:26 GMT
+
+## Removed: 1
+
+- dvisionlab/Larvitar
+
+## Changed: 8
+
+- leogoncalves/slowking → katt3985/Slowking
+- KuuhakuTeam/Gardevoir → krshkun/gardevoir
+- lewisbarnes/axew → Ryuux/Axew
+- JonnyACCI/Meloetta → spktrm/meloetta
+- quake0day/Trevenant → krshkun/trevenant
+- t-sin/litten → hossamasaad/litten
+- gameduser/Yamper → justanobdy/yamper
+- Hooandee/Toxtricity → The-Legion-Code/Toxtricity
+
 # Thu, 15 Dec 2022 00:48:15 GMT
 
 ## Removed: 1
