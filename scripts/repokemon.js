@@ -21,7 +21,7 @@ const data = json
       // 3 digits for ID, padded with zeros
       // But one day, they have 1K pokemons so it became 4 digits
       // Suddenly d.number returns "0001" instead of "001" but the image is still 001.png
-      id: d.id.padStart(3, 0),
+      id: String(d.id).padStart(3, 0),
       name: d.name,
       slug: d.slug,
     };
