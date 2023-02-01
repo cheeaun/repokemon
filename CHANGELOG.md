@@ -1,3 +1,144 @@
+# Wed, 01 Feb 2023 03:56:37 GMT
+
+## New pokemons: 103
+
+- Sprigatito
+- Floragato
+- Meowscarada
+- Fuecoco
+- Crocalor
+- Skeledirge
+- Quaxly
+- Quaxwell
+- Quaquaval
+- Lechonk
+- Oinkologne
+- Tarountula
+- Spidops
+- Nymble
+- Lokix
+- Pawmi
+- Pawmo
+- Pawmot
+- Tandemaus
+- Maushold
+- Fidough
+- Dachsbun
+- Smoliv
+- Dolliv
+- Arboliva
+- Squawkabilly
+- Nacli
+- Naclstack
+- Garganacl
+- Charcadet
+- Armarouge
+- Ceruledge
+- Tadbulb
+- Bellibolt
+- Wattrel
+- Kilowattrel
+- Maschiff
+- Mabosstiff
+- Shroodle
+- Grafaiai
+- Bramblin
+- Brambleghast
+- Toedscool
+- Toedscruel
+- Klawf
+- Capsakid
+- Scovillain
+- Rellor
+- Rabsca
+- Flittle
+- Espathra
+- Tinkatink
+- Tinkatuff
+- Tinkaton
+- Wiglett
+- Wugtrio
+- Bombirdier
+- Finizen
+- Palafin
+- Varoom
+- Revavroom
+- Cyclizar
+- Orthworm
+- Glimmet
+- Glimmora
+- Greavard
+- Houndstone
+- Flamigo
+- Cetoddle
+- Cetitan
+- Veluza
+- Dondozo
+- Tatsugiri
+- Annihilape
+- Clodsire
+- Farigiraf
+- Dudunsparce
+- Kingambit
+- Great Tusk
+- Scream Tail
+- Brute Bonnet
+- Flutter Mane
+- Slither Wing
+- Sandy Shocks
+- Iron Treads
+- Iron Bundle
+- Iron Hands
+- Iron Jugulis
+- Iron Moth
+- Iron Thorns
+- Frigibax
+- Arctibax
+- Baxcalibur
+- Gimmighoul
+- Gholdengo
+- Wo-Chien
+- Chien-Pao
+- Ting-Lu
+- Chi-Yu
+- Roaring Moon
+- Iron Valiant
+- Koraidon
+- Miraidon
+
+## Added: 9
+
+- CodeWhiteWeb/Hitmonlee
+- dvisionlab/Larvitar
+- Garrett7k/torkoal
+- matt-dray/trapinch
+- kalxd/drifloon
+- chunibyo-wly/Riolu
+- mikowl/swoobat
+- abcboy101/vivillon
+- Nanoteck137/buzzwole
+
+## Removed: 1
+
+- Atrus619/Calyrex
+
+## Changed: 14
+
+- Shies/Raichu → AMANTYA1/RaiChu
+- Banjerr/Grimer → pirovc/grimer
+- Robovirtuoso/cubone → eimon96/Cubone
+- GH-Cyndaquil/Cyndaquil → Leaderofepic134/cyndaquil
+- chrisjpm/Lanturn → RoboSubCSULA/lanturn
+- alejandrojuria/xatu → ethpandaops/xatu
+- Kevin-MartinezP/blissey → Ajinkgupta/Blissey
+- lukedavisseo/ralts → lukedavisseo/ralts
+- captainsafia/shinx → nickdchristian/shinx
+- sunx2/victini → idkup/Victini
+- diablo9983/dwebble → umkc-cs-451-2020-spring/dwebble
+- elden-li11/scraggy → Ryuux/Scraggy
+- kittle/clauncher → mcNETDev/CLauncher
+- The-Legion-Code/Toxtricity → cecomp64/toxtricity
+
 # Sun, 01 Jan 2023 00:48:26 GMT
 
 ## Removed: 1
