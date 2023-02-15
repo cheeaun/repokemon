@@ -1,3 +1,14 @@
+# Wed, 15 Feb 2023 00:54:11 GMT
+
+## Removed: 1
+
+- vbe0201/Zamazenta
+
+## Changed: 2
+
+- lukedavisseo/ralts → waisuan/ralts
+- Xero-Hige/chimecho → jafriyie1/chimecho
+
 # Wed, 01 Feb 2023 03:56:37 GMT
 
 ## New pokemons: 103
