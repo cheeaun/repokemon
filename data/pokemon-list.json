@@ -30847,6 +30847,27 @@
     ]
   },
   {
+    "abilities": [],
+    "detailPageURL": "/us/pokedex/gimmighoul",
+    "weight": 0.2,
+    "weakness": [
+      "Ghost",
+      "Dark"
+    ],
+    "number": "0999",
+    "height": 4,
+    "collectibles_slug": "gimmighoul",
+    "featured": "true",
+    "slug": "gimmighoul",
+    "name": "Gimmighoul",
+    "ThumbnailAltText": "Gimmighoul",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/999.png",
+    "id": 999,
+    "type": [
+      "ghost"
+    ]
+  },
+  {
     "abilities": [
       "Rattled"
     ],

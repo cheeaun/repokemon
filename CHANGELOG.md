@@ -1,3 +1,16 @@
+# Wed, 01 Mar 2023 00:53:24 GMT
+
+## Added: 1
+
+- SebastiaanWouters/mesprit
+
+## Changed: 4
+
+- waisuan/ralts → dampcardboard/ralts
+- Ryuux/Scraggy → elden-li11/scraggy
+- Ryuux/Axew → lewisbarnes/axew
+- syvlorg/alcremie → SidneyRoberto9/alcremie
+
 # Wed, 15 Feb 2023 00:54:11 GMT
 
 ## Removed: 1
