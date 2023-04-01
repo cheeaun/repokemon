@@ -1,3 +1,25 @@
+# Sat, 01 Apr 2023 00:51:08 GMT
+
+## Added: 5
+
+- jtstothard/politoed
+- gamma-delta/regigigas
+- arhonoka/Garbodor
+- aixcyi/zeraora
+- ShiftCodeEU/Regieleki
+
+## Removed: 1
+
+- wattapik/pincurchin
+
+## Changed: 5
+
+- wkm97/spinarak → fortheusers/spinarak
+- dampcardboard/ralts → waisuan/ralts
+- Kd4u/Flygon → SfAcodes/flygon
+- AlphaGit/kecleon → DanielSanRocha/kecleon
+- SHIVA-IYER-SI/zekrom → TerrniT/Zekrom
+
 # Wed, 15 Mar 2023 00:53:08 GMT
 
 ## Added: 4
