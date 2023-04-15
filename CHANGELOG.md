@@ -1,3 +1,21 @@
+# Sat, 15 Apr 2023 00:50:20 GMT
+
+## Added: 3
+
+- rgbkrk/murkrow
+- ncussonn/turtwig
+- ihengc/Clobbopus
+
+## Removed: 1
+
+- nacleric/obstagoon
+
+## Changed: 3
+
+- kokimame/kabuto → 12ian34/kabuto
+- ElectroBoy404NotFound/ShellOS → CristianoBarone/ShellOS
+- inwhite/deino → PhoenixLegen/deino
+
 # Sat, 01 Apr 2023 00:51:08 GMT
 
 ## Added: 5
