@@ -1,3 +1,22 @@
+# Mon, 01 May 2023 00:50:41 GMT
+
+## Added: 1
+
+- Ryuux/Spectrier
+
+## Removed: 2
+
+- ajp2/Slaking
+- ihengc/Clobbopus
+
+## Changed: 5
+
+- hejrobin/gloom → MateriiApps/Gloom
+- theedward/Raikou → paulm17/raikou
+- peicheng/Chimchar → davidchiii/chimchar
+- wgao19/mimikyu → tanyiqu/Mimikyu
+- justanobdy/yamper → Ryuux/Yamper
+
 # Sat, 15 Apr 2023 00:50:20 GMT
 
 ## Added: 3
