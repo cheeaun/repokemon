@@ -1,3 +1,22 @@
+# Mon, 15 May 2023 00:50:47 GMT
+
+## Added: 7
+
+- Ryuux/Skiddo
+- algao1/grookey
+- Ryuux/Dracovish
+- Ryuux/Enamorus
+- Ryuux/Fuecoco
+- Ryuux/Cyclizar
+- Ryuux/Chi-Yu
+
+## Changed: 4
+
+- ehein6/beedrill → Metallipod/beedrill
+- rsnh075/Mareep → kennethbchen/mareep
+- paulm17/raikou → Ryuux/Raikou
+- cheeaun/entei → Ryuux/Entei
+
 # Mon, 01 May 2023 00:50:41 GMT
 
 ## Added: 1
