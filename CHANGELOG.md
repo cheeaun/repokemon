@@ -1,3 +1,31 @@
+# Thu, 01 Jun 2023 00:49:49 GMT
+
+## Added: 7
+
+- DiabolicWitch/Scizor
+- Petuuuhhh/Tyranitar
+- DiabolicWitch/Slaking
+- TypicalAM/gogoat
+- Ryuux/Amaura
+- ropfoo/clobbopus
+- Ryuux/Cufant
+
+## Removed: 2
+
+- ReliSalazar/mismagius
+- Skripify/Terrakion
+
+## Changed: 8
+
+- LTLA/raticate → Bananaj00e/Raticate
+- vollov/delcatty → DiabolicWitch/Delcatty
+- keitaj/solrock → mintvp/solrock
+- arpan29/bagon → Ryuux/Bagon
+- LuanSilveiraSouza/chatot → DiabolicWitch/Chatot
+- chunibyo-wly/Riolu → tibor309/riolu
+- kjoshi1988/pignite → Nanoteck137/pignite
+- evgeniyp92/Mienfoo → lomotey1/mienfoo
+
 # Mon, 15 May 2023 00:50:47 GMT
 
 ## Added: 7
