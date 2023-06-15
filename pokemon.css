@@ -1040,7 +1040,7 @@
 .i1000{background-position: -900px -900px;}
 [class*=i10]:not(.i1000),.i1100{
           background-image: url(data/pokemon-10.jpg);
-          background-size: 300px 300px;
+          background-size: 400px 300px;
         }
         .i1001{background-position: -0px -0px;}
 .i1002{background-position: -100px -0px;}
@@ -1050,3 +1050,5 @@
 .i1006{background-position: -200px -100px;}
 .i1007{background-position: -0px -200px;}
 .i1008{background-position: -100px -200px;}
+.i1009{background-position: -200px -200px;}
+.i1010{background-position: -300px -0px;}

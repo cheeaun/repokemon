@@ -1,3 +1,27 @@
+# Thu, 15 Jun 2023 00:52:14 GMT
+
+## New pokemons: 2
+
+- Walking Wake
+- Iron Leaves
+
+## Added: 1
+
+- ReliSalazar/mismagius
+
+## Removed: 4
+
+- Petuuuhhh/Tyranitar
+- evgeniyp92/wailmer
+- evgeniyp92/Tepig
+- evgeniyp92/sawsbuck
+
+## Changed: 3
+
+- GeorgeIpsum/zangoose → zeyrbot/zangoose
+- Nanoteck137/pignite → kjoshi1988/pignite
+- PhoenixLegen/deino → GaoYangBenYang/deino
+
 # Thu, 01 Jun 2023 00:49:49 GMT
 
 ## Added: 7

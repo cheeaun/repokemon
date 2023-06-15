@@ -2023,7 +2023,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Flash Fire",
+      "Intimidate"
+    ],
     "detailPageURL": "/us/pokedex/growlithe",
     "weight": 50,
     "weakness": [
@@ -2072,7 +2075,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Flash Fire",
+      "Intimidate"
+    ],
     "detailPageURL": "/us/pokedex/arcanine",
     "weight": 370.4,
     "weakness": [
@@ -3562,7 +3568,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Soundproof",
+      "Static"
+    ],
     "detailPageURL": "/us/pokedex/voltorb",
     "weight": 28.7,
     "weakness": [
@@ -3609,7 +3618,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Soundproof",
+      "Static"
+    ],
     "detailPageURL": "/us/pokedex/electrode",
     "weight": 156.5,
     "weakness": [
@@ -5530,7 +5542,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Blaze"
+    ],
     "detailPageURL": "/us/pokedex/typhlosion",
     "weight": 153.9,
     "weakness": [
@@ -7017,7 +7031,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Poison Point",
+      "Swift Swim"
+    ],
     "detailPageURL": "/us/pokedex/qwilfish",
     "weight": 8.6,
     "weakness": [
@@ -7190,7 +7207,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Inner Focus",
+      "Keen Eye"
+    ],
     "detailPageURL": "/us/pokedex/sneasel",
     "weight": 59.5,
     "weakness": [
@@ -15126,7 +15146,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Pressure"
+    ],
     "detailPageURL": "/us/pokedex/dialga",
     "weight": 1873.9,
     "weakness": [
@@ -15172,7 +15194,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Pressure"
+    ],
     "detailPageURL": "/us/pokedex/palkia",
     "weight": 1455.1,
     "weakness": [
@@ -15715,7 +15739,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Torrent"
+    ],
     "detailPageURL": "/us/pokedex/samurott",
     "weight": 128.3,
     "weakness": [
@@ -16958,7 +16984,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Chlorophyll",
+      "Hustle"
+    ],
     "detailPageURL": "/us/pokedex/lilligant",
     "weight": 42.3,
     "weakness": [
@@ -17011,7 +17040,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Adaptability",
+      "Rattled"
+    ],
     "detailPageURL": "/us/pokedex/basculin",
     "weight": 39.7,
     "weakness": [
@@ -17677,7 +17709,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Illusion"
+    ],
     "detailPageURL": "/us/pokedex/zorua",
     "weight": 27.6,
     "weakness": [
@@ -17722,7 +17756,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Illusion"
+    ],
     "detailPageURL": "/us/pokedex/zoroark",
     "weight": 160.9,
     "weakness": [
@@ -19440,7 +19476,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Keen Eye",
+      "Sheer Force"
+    ],
     "detailPageURL": "/us/pokedex/braviary",
     "weight": 95.7,
     "weakness": [
@@ -21967,7 +22006,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Sap Sipper",
+      "Shell Armor"
+    ],
     "detailPageURL": "/us/pokedex/sliggoo",
     "weight": 151,
     "weakness": [
@@ -22014,7 +22056,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Sap Sipper",
+      "Shell Armor"
+    ],
     "detailPageURL": "/us/pokedex/goodra",
     "weight": 736.6,
     "weakness": [
@@ -22223,7 +22268,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Ice Body",
+      "Strong Jaw"
+    ],
     "detailPageURL": "/us/pokedex/avalugg",
     "weight": 578.5,
     "weakness": [
@@ -22632,7 +22680,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Overgrow"
+    ],
     "detailPageURL": "/us/pokedex/decidueye",
     "weight": 81.6,
     "weakness": [
@@ -28055,7 +28105,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Frisk",
+      "Intimidate"
+    ],
     "detailPageURL": "/us/pokedex/wyrdeer",
     "weight": 209.7,
     "weakness": [
@@ -28077,7 +28130,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Sheer Force",
+      "Swarm"
+    ],
     "detailPageURL": "/us/pokedex/kleavor",
     "weight": 196.2,
     "weakness": [
@@ -28100,7 +28156,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Bulletproof",
+      "Guts"
+    ],
     "detailPageURL": "/us/pokedex/ursaluna",
     "weight": 639.3,
     "weakness": [
@@ -28124,7 +28183,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Adaptability",
+      "Swift Swim"
+    ],
     "detailPageURL": "/us/pokedex/basculegion",
     "weight": 242.5,
     "weakness": [
@@ -28148,7 +28210,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Adaptability",
+      "Swift Swim"
+    ],
     "detailPageURL": "/us/pokedex/basculegion",
     "weight": 242.5,
     "weakness": [
@@ -28172,7 +28237,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Pressure",
+      "Unburden"
+    ],
     "detailPageURL": "/us/pokedex/sneasler",
     "weight": 94.8,
     "weakness": [
@@ -28195,7 +28263,10 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Poison Point",
+      "Swift Swim"
+    ],
     "detailPageURL": "/us/pokedex/overqwil",
     "weight": 133.4,
     "weakness": [
@@ -28216,7 +28287,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Overcoat"
+    ],
     "detailPageURL": "/us/pokedex/enamorus",
     "weight": 105.8,
     "weakness": [
@@ -28241,7 +28314,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Cute Charm"
+    ],
     "detailPageURL": "/us/pokedex/enamorus",
     "weight": 105.8,
     "weakness": [
@@ -30847,7 +30922,9 @@
     ]
   },
   {
-    "abilities": [],
+    "abilities": [
+      "Run Away"
+    ],
     "detailPageURL": "/us/pokedex/gimmighoul",
     "weight": 0.2,
     "weakness": [
@@ -31132,6 +31209,59 @@
     "type": [
       "electric",
       "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "detailPageURL": "/us/pokedex/walking-wake",
+    "weight": 617.3,
+    "weakness": [
+      "Fairy",
+      "Dragon"
+    ],
+    "number": "1009",
+    "height": 138,
+    "collectibles_slug": "walking-wake",
+    "featured": "true",
+    "slug": "walking-wake",
+    "name": "Walking Wake",
+    "ThumbnailAltText": "Walking Wake",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1009.png",
+    "id": 1009,
+    "type": [
+      "water",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "detailPageURL": "/us/pokedex/iron-leaves",
+    "weight": 275.6,
+    "weakness": [
+      "Ghost",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Dark",
+      "Poison",
+      "Bug"
+    ],
+    "number": "1010",
+    "height": 59,
+    "collectibles_slug": "iron-leaves",
+    "featured": "true",
+    "slug": "iron-leaves",
+    "name": "Iron Leaves",
+    "ThumbnailAltText": "Iron Leaves",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1010.png",
+    "id": 1010,
+    "type": [
+      "grass",
+      "psychic"
     ]
   }
 ]
