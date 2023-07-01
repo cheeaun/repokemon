@@ -1,3 +1,24 @@
+# Sat, 01 Jul 2023 00:53:13 GMT
+
+## Added: 3
+
+- carmaza/spheal
+- noateden/empoleon
+- JosephPrichard/Kyurem
+
+## Removed: 2
+
+- rgbkrk/murkrow
+- Ryuux/Skiddo
+
+## Changed: 5
+
+- drakejwong/seedot → SEEDOT1/SEEDOT
+- tinkerhub/aron → daryabsb/aron
+- linuxguy2020/Altaria → shmoe6/Altaria
+- LetsSkribble/milotic → stylextv/milotic
+- GaoYangBenYang/deino → PhoenixLegen/deino
+
 # Thu, 15 Jun 2023 00:52:14 GMT
 
 ## New pokemons: 2
