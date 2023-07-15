@@ -1,3 +1,19 @@
+# Sat, 15 Jul 2023 00:52:17 GMT
+
+## Added: 3
+
+- MarianVulpes/Vibrava
+- Ryuux/Skiddo
+- hiimfish/pawmo
+
+## Changed: 5
+
+- 12ian34/kabuto → kokimame/kabuto
+- Ryuux/Raikou → paulm17/raikou
+- nubbysaurus/sableye → MarianVulpes/Sableye
+- mossdinger/drilbur → dolugen/drilbur
+- akluth/dedenne → gamma-delta/dedenne
+
 # Sat, 01 Jul 2023 00:53:13 GMT
 
 ## Added: 3
