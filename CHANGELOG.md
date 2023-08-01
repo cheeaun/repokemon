@@ -1,3 +1,18 @@
+# Tue, 01 Aug 2023 00:53:43 GMT
+
+## Added: 1
+
+- ThomasHineXYZ/Cherubi
+
+## Changed: 6
+
+- AMANTYA1/RaiChu → Bert-Z/Raichu
+- Meganium/Chikorita → rahulganesamani/Chikorita
+- zeyrbot/zangoose → DanielSanRocha/zangoose
+- jafriyie1/chimecho → MarianVulpes/Chimecho
+- tibor309/riolu → chunibyo-wly/Riolu
+- Ryuux/Fuecoco → KimKiHyun0206/Fuecoco
+
 # Sat, 15 Jul 2023 00:52:17 GMT
 
 ## Added: 3
