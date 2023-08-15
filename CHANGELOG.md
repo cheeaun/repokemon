@@ -1,3 +1,16 @@
+# Tue, 15 Aug 2023 00:51:07 GMT
+
+## Added: 3
+
+- Nanoteck137/sewaddle
+- cutekibry/solosis
+- starchildluke/palafin
+
+## Changed: 2
+
+- adam-hawkins/slowbro → cptkorea/slowbro
+- KimKiHyun0206/Fuecoco → Ryuux/Fuecoco
+
 # Tue, 01 Aug 2023 00:53:43 GMT
 
 ## Added: 1
