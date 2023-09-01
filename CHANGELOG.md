@@ -1,3 +1,22 @@
+# Fri, 01 Sep 2023 00:51:41 GMT
+
+## Added: 4
+
+- MarianVulpes/Noivern
+- Hooveh/Xerneas
+- starchildluke/centiskorch
+- NDRAEY/Koraidon
+
+## Changed: 7
+
+- domuro/Ivysaur → gosu-monarq/ivysaur
+- Axiol/ampharos → rpokemon/Ampharos
+- waisuan/ralts → lukedavisseo/ralts
+- clockworkscorpion/aggron → AstroCoder14/Aggron
+- ttacon/combee → DanielSanRocha/combee
+- CredibleOpossum/crustle → ericgbanta/crustle
+- brightsole/vanilluxe → BemusedLeader10/Vanilluxe
+
 # Tue, 15 Aug 2023 00:51:07 GMT
 
 ## Added: 3
