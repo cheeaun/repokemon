@@ -1,3 +1,23 @@
+# Fri, 15 Sep 2023 00:49:02 GMT
+
+## Added: 3
+
+- Grenco/Reuniclus
+- MarianVulpes/Noibat
+- ft-light/quaxly
+
+## Removed: 1
+
+- MarianVulpes/Noivern
+
+## Changed: 5
+
+- Abledenthusiast/heracross → therealnv6/heracross
+- justinleewells/metagross → MarianVulpes/Metagross
+- spktrm/meloetta → MarianVulpes/Meloetta
+- SidneyRoberto9/alcremie → syvlorg/alcremie
+- Yingkaixiang/falinks → syvlorg/falinks
+
 # Fri, 01 Sep 2023 00:51:41 GMT
 
 ## Added: 4
