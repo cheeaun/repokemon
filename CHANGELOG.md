@@ -1,3 +1,22 @@
+# Sun, 01 Oct 2023 00:54:18 GMT
+
+## Added: 3
+
+- jonahbarrett/zigzagoon
+- konstin/gourgeist
+- yzee4/Dottler
+
+## Removed: 2
+
+- luisangelmaciel/Ho-Oh
+- ReliSalazar/mismagius
+
+## Changed: 3
+
+- concretesolutions/magneton → DaanVandenBosch/magneton
+- percy0525/Shuckle → ryaangu/shuckle
+- aayan636/shiftry → Ryuux/Shiftry
+
 # Fri, 15 Sep 2023 00:49:02 GMT
 
 ## Added: 3
