@@ -10,7 +10,7 @@
 			"owner_name": "alibaba",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
 			"url": "https://github.com/alibaba/bulbasaur",
-			"desc": "💡 A pluggable, scalable process engine. You can use it to develop business-process, approval-process, retry-process and so on. Hope you enjoy it! 💖 可插拔的精简流程引擎，可快速实现��程、审批、业务失败重试等场景。",
+			"desc": "💡 A pluggable, scalable process engine. You can use it to develop business-process, approval-process, retry-process and so on. Hope you enjoy it! 💖 可插拔的精简流程引擎，可快速实现流���、审批、业务失败重试等场景。",
 			"lang": "Java",
 			"stars": 739,
 			"watches": 739,
@@ -442,11 +442,11 @@
 			"owner_name": "zhuifengshaonianhanlu",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/18732692?v=4",
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
-			"desc": "一个好玩的Web安全-漏洞测试平台",
+			"desc": "一个好玩的Web安全-漏洞测���平台",
 			"lang": "PHP",
-			"stars": 3089,
-			"watches": 3089,
-			"forks": 684
+			"stars": 3105,
+			"watches": 3105,
+			"forks": 683
 		}
 	},
 	{
@@ -621,8 +621,8 @@
 			"url": "https://github.com/fanzeyi/Vulpix",
 			"desc": "Automated code grading system",
 			"lang": "Python",
-			"stars": 48,
-			"watches": 48,
+			"stars": 49,
+			"watches": 49,
 			"forks": 7
 		}
 	},
@@ -716,8 +716,8 @@
 			"url": "https://github.com/puppylpg/oddish",
 			"desc": "Crawl csgo skin info from `buff.163.com` and steam, then find the most suitable one to buy from the former and to sell to the latter.",
 			"lang": "Python",
-			"stars": 294,
-			"watches": 294,
+			"stars": 297,
+			"watches": 297,
 			"forks": 80
 		}
 	},
@@ -734,8 +734,8 @@
 			"url": "https://github.com/MateriiApps/Gloom",
 			"desc": "A Material You GitHub Mobile client",
 			"lang": "Kotlin",
-			"stars": 385,
-			"watches": 385,
+			"stars": 398,
+			"watches": 398,
 			"forks": 16
 		}
 	},
@@ -867,7 +867,7 @@
 			"lang": "Python",
 			"stars": 117,
 			"watches": 117,
-			"forks": 93
+			"forks": 94
 		}
 	},
 	{
@@ -883,8 +883,8 @@
 			"url": "https://github.com/rezkam/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 178,
-			"watches": 178,
+			"stars": 179,
+			"watches": 179,
 			"forks": 32
 		}
 	},
@@ -901,8 +901,8 @@
 			"url": "https://github.com/SmartKeyerror/Psyduck",
 			"desc": "Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计",
 			"lang": "Go",
-			"stars": 4405,
-			"watches": 4405,
+			"stars": 4408,
+			"watches": 4408,
 			"forks": 523
 		}
 	},
@@ -919,8 +919,8 @@
 			"url": "https://github.com/wyvernbw/golduck",
 			"desc": "cli utility to run and debug godot games, built in rust ",
 			"lang": "Rust",
-			"stars": 3,
-			"watches": 3,
+			"stars": 4,
+			"watches": 4,
 			"forks": 1
 		}
 	},
@@ -1070,7 +1070,7 @@
 			"lang": "Elixir",
 			"stars": 42,
 			"watches": 42,
-			"forks": 17
+			"forks": 18
 		}
 	},
 	{
@@ -1140,8 +1140,8 @@
 			"url": "https://github.com/machamp-nlp/machamp",
 			"desc": "Repository with code for MaChAmp: https://aclanthology.org/2021.eacl-demos.22/",
 			"lang": "Python",
-			"stars": 73,
-			"watches": 73,
+			"stars": 74,
+			"watches": 74,
 			"forks": 19
 		}
 	},
@@ -1433,8 +1433,8 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1238,
-			"watches": 1238,
+			"stars": 1240,
+			"watches": 1240,
 			"forks": 52
 		}
 	},
@@ -1595,8 +1595,8 @@
 			"url": "https://github.com/v4p0r/gengar",
 			"desc": "Baixar videos do Alura para assistir offline e se aperfeiçoar. ",
 			"lang": "JavaScript",
-			"stars": 33,
-			"watches": 33,
+			"stars": 34,
+			"watches": 34,
 			"forks": 15
 		}
 	},
@@ -1613,9 +1613,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 541,
-			"watches": 541,
-			"forks": 111
+			"stars": 553,
+			"watches": 553,
+			"forks": 110
 		}
 	},
 	{
@@ -1649,8 +1649,8 @@
 			"url": "https://github.com/kmaork/hypno",
 			"desc": "Inject python code into a running python process",
 			"lang": "Python",
-			"stars": 62,
-			"watches": 62,
+			"stars": 63,
+			"watches": 63,
 			"forks": 10
 		}
 	},
@@ -1667,9 +1667,9 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 288,
-			"watches": 288,
-			"forks": 19
+			"stars": 289,
+			"watches": 289,
+			"forks": 20
 		}
 	},
 	{
@@ -1721,8 +1721,8 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2093,
-			"watches": 2093,
+			"stars": 2094,
+			"watches": 2094,
 			"forks": 314
 		}
 	},
@@ -1924,8 +1924,8 @@
 			"url": "https://github.com/project-d3/Chansey",
 			"desc": "Chansey is a Flask and React.js web application that allows students to log their sickness symptoms and get notifications when a sickness hotspot is recognized. ",
 			"lang": "TypeScript",
-			"stars": 4,
-			"watches": 4,
+			"stars": 6,
+			"watches": 6,
 			"forks": 0
 		}
 	},
@@ -2237,7 +2237,7 @@
 			"lang": "Python",
 			"stars": 11,
 			"watches": 11,
-			"forks": 3
+			"forks": 2
 		}
 	},
 	{
@@ -2253,9 +2253,9 @@
 			"url": "https://github.com/sabrogden/Ditto",
 			"desc": "Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.",
 			"lang": "C",
-			"stars": 2275,
-			"watches": 2275,
-			"forks": 142
+			"stars": 2300,
+			"watches": 2300,
+			"forks": 144
 		}
 	},
 	{
@@ -2271,8 +2271,8 @@
 			"url": "https://github.com/pizn/eevee",
 			"desc": "基于 github page 的在线编辑 blog 平台",
 			"lang": "JavaScript",
-			"stars": 175,
-			"watches": 175,
+			"stars": 176,
+			"watches": 176,
 			"forks": 32
 		}
 	},
@@ -2469,8 +2469,8 @@
 			"url": "https://github.com/B1ue-Dev/Articuno",
 			"desc": "A fun (parody) Discord Bot, written with interactions.py.",
 			"lang": "Python",
-			"stars": 7,
-			"watches": 7,
+			"stars": 8,
+			"watches": 8,
 			"forks": 5
 		}
 	},
@@ -2595,8 +2595,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1480,
-			"watches": 1480,
+			"stars": 1479,
+			"watches": 1479,
 			"forks": 29
 		}
 	},
@@ -2869,7 +2869,7 @@
 			"lang": "Jupyter Notebook",
 			"stars": 43,
 			"watches": 43,
-			"forks": 12
+			"forks": 13
 		}
 	},
 	{
@@ -2897,10 +2897,10 @@
 		"repo": {
 			"id": 530078659,
 			"name": "lanturn",
-			"full_name": "RoboSubCSULA/lanturn",
-			"owner_name": "RoboSubCSULA",
+			"full_name": "RoboSubLA/lanturn",
+			"owner_name": "RoboSubLA",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/61601144?v=4",
-			"url": "https://github.com/RoboSubCSULA/lanturn",
+			"url": "https://github.com/RoboSubLA/lanturn",
 			"desc": "A meta repository used for guides, scripts and other useful information for the Lanturn RoboSub",
 			"lang": "TeX",
 			"stars": 0,
@@ -3029,9 +3029,9 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 35,
-			"watches": 35,
-			"forks": 4
+			"stars": 37,
+			"watches": 37,
+			"forks": 6
 		}
 	},
 	{
@@ -3340,8 +3340,8 @@
 			"url": "https://github.com/Ryuzaki-MrL/Espeon",
 			"desc": "Gameboy emulator for the ESP32",
 			"lang": "C++",
-			"stars": 124,
-			"watches": 124,
+			"stars": 125,
+			"watches": 125,
 			"forks": 9
 		}
 	},
@@ -3373,14 +3373,14 @@
 		"name": "Slowking",
 		"slug": "slowking",
 		"repo": {
-			"id": 141941799,
-			"name": "Slowking",
-			"full_name": "katt3985/Slowking",
-			"owner_name": "katt3985",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/7764153?v=4",
-			"url": "https://github.com/katt3985/Slowking",
-			"desc": "A Discordbot",
-			"lang": "Java",
+			"id": 657241002,
+			"name": "slowking",
+			"full_name": "sam-atkins/slowking",
+			"owner_name": "sam-atkins",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/36704638?v=4",
+			"url": "https://github.com/sam-atkins/slowking",
+			"desc": "POC event driven architecture benchmarking application",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -3486,8 +3486,8 @@
 			"url": "https://github.com/OpenSooq/Gligar",
 			"desc": "📸Image Picker for Android, Pick an image from Gallery or Capture a new image with Camera.",
 			"lang": "Kotlin",
-			"stars": 154,
-			"watches": 154,
+			"stars": 155,
+			"watches": 155,
 			"forks": 36
 		}
 	},
@@ -3504,8 +3504,8 @@
 			"url": "https://github.com/FL33TW00D/steelix",
 			"desc": "Your one stop CLI for ONNX model analysis.",
 			"lang": "Rust",
-			"stars": 30,
-			"watches": 30,
+			"stars": 31,
+			"watches": 31,
 			"forks": 2
 		}
 	},
@@ -3724,9 +3724,9 @@
 			"url": "https://github.com/mantinedev/mantine",
 			"desc": "A fully featured React components library",
 			"lang": "TypeScript",
-			"stars": 21543,
-			"watches": 21543,
-			"forks": 1521
+			"stars": 21731,
+			"watches": 21731,
+			"forks": 1531
 		}
 	},
 	{
@@ -3775,9 +3775,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 358,
-			"watches": 358,
-			"forks": 31
+			"stars": 387,
+			"watches": 387,
+			"forks": 38
 		}
 	},
 	{
@@ -3939,9 +3939,9 @@
 			"url": "https://github.com/paulm17/raikou",
 			"desc": "Mantine fork to support Tailwind",
 			"lang": "TypeScript",
-			"stars": 1,
-			"watches": 1,
-			"forks": 0
+			"stars": 2,
+			"watches": 2,
+			"forks": 1
 		}
 	},
 	{
@@ -3975,8 +3975,8 @@
 			"url": "https://github.com/froggestspirit/suiCune",
 			"desc": "A C port of Pokemon Crystal",
 			"lang": "Assembly",
-			"stars": 16,
-			"watches": 16,
+			"stars": 17,
+			"watches": 17,
 			"forks": 3
 		}
 	},
@@ -4001,7 +4001,20 @@
 	{
 		"id": "247",
 		"name": "Pupitar",
-		"slug": "pupitar"
+		"slug": "pupitar",
+		"repo": {
+			"id": 703647369,
+			"name": "Pupitar",
+			"full_name": "yzee4/Pupitar",
+			"owner_name": "yzee4",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/145180486?v=4",
+			"url": "https://github.com/yzee4/Pupitar",
+			"desc": "Automated local network IP vulnerability scanner",
+			"lang": "Python",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "248",
@@ -4019,7 +4032,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套���效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 463,
 			"watches": 463,
@@ -4029,7 +4042,20 @@
 	{
 		"id": "250",
 		"name": "Ho-Oh",
-		"slug": "ho-oh"
+		"slug": "ho-oh",
+		"repo": {
+			"id": 403423785,
+			"name": "Ho-Oh",
+			"full_name": "luisangelmaciel/Ho-Oh",
+			"owner_name": "luisangelmaciel",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/89158021?v=4",
+			"url": "https://github.com/luisangelmaciel/Ho-Oh",
+			"desc": "Ho-Oh is a HTML Vibrate API. Requires browser support and a device with vibrate (turned on!)",
+			"lang": "JavaScript",
+			"stars": 11,
+			"watches": 11,
+			"forks": 0
+		}
 	},
 	{
 		"id": "251",
@@ -4259,7 +4285,20 @@
 	{
 		"id": "270",
 		"name": "Lotad",
-		"slug": "lotad"
+		"slug": "lotad",
+		"repo": {
+			"id": 703118727,
+			"name": "LOTAD",
+			"full_name": "MattKim97/LOTAD",
+			"owner_name": "MattKim97",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/135079693?v=4",
+			"url": "https://github.com/MattKim97/LOTAD",
+			"desc": "Created with CodeSandbox",
+			"lang": "JavaScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "271",
@@ -4433,8 +4472,8 @@
 			"url": "https://github.com/xkrishguptaa/gardevoir",
 			"desc": "The Modern CSS Reset 🚀 (Formerly Reseter.css)",
 			"lang": "SCSS",
-			"stars": 1176,
-			"watches": 1176,
+			"stars": 1186,
+			"watches": 1186,
 			"forks": 90
 		}
 	},
@@ -4738,8 +4777,8 @@
 			"url": "https://github.com/daryabsb/aron",
 			"desc": "This is an Aronium POS clone for education purposes.",
 			"lang": "Vue",
-			"stars": 3,
-			"watches": 3,
+			"stars": 4,
+			"watches": 4,
 			"forks": 2
 		}
 	},
@@ -6074,8 +6113,8 @@
 			"url": "https://github.com/terrylinooo/shieldon",
 			"desc": "Web Application Firewall (WAF) for PHP.",
 			"lang": "PHP",
-			"stars": 775,
-			"watches": 775,
+			"stars": 779,
+			"watches": 779,
 			"forks": 88
 		}
 	},
@@ -6727,7 +6766,7 @@
 			"lang": "CSS",
 			"stars": 9,
 			"watches": 9,
-			"forks": 21
+			"forks": 20
 		}
 	},
 	{
@@ -7394,9 +7433,9 @@
 			"url": "https://github.com/midas-research/audino",
 			"desc": "Open source audio annotation tool for humans",
 			"lang": "JavaScript",
-			"stars": 975,
-			"watches": 975,
-			"forks": 111
+			"stars": 977,
+			"watches": 977,
+			"forks": 110
 		}
 	},
 	{
@@ -7539,7 +7578,20 @@
 	{
 		"id": "549",
 		"name": "Lilligant",
-		"slug": "lilligant"
+		"slug": "lilligant",
+		"repo": {
+			"id": 700956448,
+			"name": "Lilligant",
+			"full_name": "Fuyukai/Lilligant",
+			"owner_name": "Fuyukai",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/8783751?v=4",
+			"url": "https://github.com/Fuyukai/Lilligant",
+			"desc": "+1 atk +1 def +1 spe",
+			"lang": "Kotlin",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "550",
@@ -8455,14 +8507,14 @@
 		"name": "Deino",
 		"slug": "deino",
 		"repo": {
-			"id": 623803539,
+			"id": 652171762,
 			"name": "deino",
-			"full_name": "PhoenixLegen/deino",
-			"owner_name": "PhoenixLegen",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/84770654?v=4",
-			"url": "https://github.com/PhoenixLegen/deino",
-			"desc": "nothing",
-			"lang": "JavaScript",
+			"full_name": "GaoYangBenYang/deino",
+			"owner_name": "GaoYangBenYang",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/98891158?v=4",
+			"url": "https://github.com/GaoYangBenYang/deino",
+			"desc": "Go API框架",
+			"lang": "Go",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -8609,20 +8661,7 @@
 	{
 		"id": "646",
 		"name": "Kyurem",
-		"slug": "kyurem",
-		"repo": {
-			"id": 489813604,
-			"name": "Kyurem",
-			"full_name": "JosephPrichard/Kyurem",
-			"owner_name": "JosephPrichard",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/58538077?v=4",
-			"url": "https://github.com/JosephPrichard/Kyurem",
-			"desc": "A Discord bot to play Othello against other players or a strong engine.",
-			"lang": "Kotlin",
-			"stars": 4,
-			"watches": 4,
-			"forks": 0
-		}
+		"slug": "kyurem"
 	},
 	{
 		"id": "647",
@@ -9040,8 +9079,8 @@
 			"url": "https://github.com/PretendoNetwork/Inkay",
 			"desc": "Wii U Pretendo Network patches (Aroma)",
 			"lang": "C++",
-			"stars": 47,
-			"watches": 47,
+			"stars": 49,
+			"watches": 49,
 			"forks": 11
 		}
 	},
@@ -9063,8 +9102,8 @@
 			"url": "https://github.com/ANSSI-FR/Binacle",
 			"desc": "Full-bin indexation of binary files",
 			"lang": "Rust",
-			"stars": 91,
-			"watches": 91,
+			"stars": 92,
+			"watches": 92,
 			"forks": 12
 		}
 	},
@@ -9285,8 +9324,8 @@
 			"url": "https://github.com/xkrishguptaa/trevenant",
 			"desc": "Beautiful Opinionated Logging for Node.js ✍️",
 			"lang": "TypeScript",
-			"stars": 2,
-			"watches": 2,
+			"stars": 3,
+			"watches": 3,
 			"forks": 0
 		}
 	},
@@ -9749,8 +9788,8 @@
 			"url": "https://github.com/kalxd/morelull",
 			"desc": "latex民科模板艺术。",
 			"lang": "TeX",
-			"stars": 21,
-			"watches": 21,
+			"stars": 22,
+			"watches": 22,
 			"forks": 6
 		}
 	},
@@ -9779,7 +9818,7 @@
 			"lang": "Rust",
 			"stars": 0,
 			"watches": 0,
-			"forks": 1
+			"forks": 2
 		}
 	},
 	{
@@ -10416,16 +10455,16 @@
 		"name": "Dottler",
 		"slug": "dottler",
 		"repo": {
-			"id": 697941507,
+			"id": 703224219,
 			"name": "Dottler",
 			"full_name": "yzee4/Dottler",
 			"owner_name": "yzee4",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/145180486?v=4",
 			"url": "https://github.com/yzee4/Dottler",
-			"desc": "Automate deauthentication attacks on wireless networks.",
+			"desc": "Dottler is an easy-to-use network deauthenticator ",
 			"lang": "Python",
-			"stars": 2,
-			"watches": 2,
+			"stars": 0,
+			"watches": 0,
 			"forks": 0
 		}
 	},
@@ -11297,8 +11336,8 @@
 			"url": "https://github.com/dxoigmn/nymble",
 			"desc": "Nymble: Anonymous IP-Address Blocking",
 			"lang": "JavaScript",
-			"stars": 13,
-			"watches": 13,
+			"stars": 14,
+			"watches": 14,
 			"forks": 5
 		}
 	},

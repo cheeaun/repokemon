@@ -1,3 +1,22 @@
+# Sun, 15 Oct 2023 00:48:51 GMT
+
+## Added: 4
+
+- yzee4/Pupitar
+- luisangelmaciel/Ho-Oh
+- MattKim97/LOTAD
+- Fuyukai/Lilligant
+
+## Removed: 1
+
+- JosephPrichard/Kyurem
+
+## Changed: 3
+
+- katt3985/Slowking → sam-atkins/slowking
+- PhoenixLegen/deino → GaoYangBenYang/deino
+- yzee4/Dottler → yzee4/Dottler
+
 # Sun, 01 Oct 2023 00:54:18 GMT
 
 ## Added: 3
