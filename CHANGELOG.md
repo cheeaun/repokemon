@@ -1,3 +1,33 @@
+# Wed, 01 Nov 2023 00:48:41 GMT
+
+## Added: 2
+
+- Nanoteck137/wimpod
+- SidneyRoberto9/hatenna
+
+## Removed: 8
+
+- Ryuux/Skiddo
+- Ryuux/Amaura
+- Ryuux/Cufant
+- Ryuux/Dracovish
+- Ryuux/Enamorus
+- Ryuux/Fuecoco
+- Ryuux/Cyclizar
+- Ryuux/Chi-Yu
+
+## Changed: 9
+
+- yxl1014/Primeape → jannis2301/primeape
+- Ryuux/Entei → cheeaun/entei
+- Ryuux/Shiftry → aayan636/shiftry
+- Ryuux/Bagon → arpan29/bagon
+- MarianVulpes/Metagross → justinleewells/metagross
+- Ryuux/Yamper → justanobdy/yamper
+- syvlorg/alcremie → SidneyRoberto9/alcremie
+- CKalt/snom → jperkins/snom
+- Ryuux/Spectrier → embersee/spectrier
+
 # Sun, 15 Oct 2023 00:48:51 GMT
 
 ## Added: 4
