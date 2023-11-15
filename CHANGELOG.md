@@ -1,3 +1,13 @@
+# Wed, 15 Nov 2023 00:48:41 GMT
+
+## Changed: 5
+
+- bleeding182/magikarp → FuzzySecurity/Magikarp
+- RandomReactAcademy/omastar → Anatr1/OMASTAR
+- DanielSanRocha/combee → ttacon/combee
+- VVoruganti/chingling → MarianVulpes/Chingling
+- jperkins/snom → CKalt/snom
+
 # Wed, 01 Nov 2023 00:48:41 GMT
 
 ## Added: 2
