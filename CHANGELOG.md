@@ -1,3 +1,12 @@
+# Fri, 01 Dec 2023 00:50:16 GMT
+
+## Changed: 4
+
+- cran/magmaR → brianneisler/magmar
+- xkrishguptaa/gardevoir → KuuhakuTeam/Gardevoir
+- ophiuchus-inc/gulpin → seangeleno/gulpin
+- iveykun/Sylveon → Ujimatsu-Chiya/Sylveon
+
 # Wed, 15 Nov 2023 00:48:41 GMT
 
 ## Changed: 5
