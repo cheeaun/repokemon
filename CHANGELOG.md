@@ -1,3 +1,33 @@
+# Mon, 01 Jan 2024 00:51:02 GMT
+
+## Added: 5
+
+- noppefoxwolf/Swinub
+- soramon0/kirlia
+- BNDKG/Conkeldurr
+- frantjc/zoroark
+- juliTorossian/Melmetal
+
+## Removed: 1
+
+- xsoma/necrozma
+
+## Changed: 13
+
+- gosu-monarq/ivysaur → domuro/Ivysaur
+- luddosaurus/Bellsprout → zamancer/bellsprout
+- sa-lee/starmie → megagonlabs/starmie
+- zoeiralabs/mr-mime → notgull/mr-mime
+- ArcNyxx/azurill → kballenegger/azurill
+- enterstudio/plusle → Brandon689/plusle
+- carmaza/spheal → CaptSiro/spheal
+- fortheusers/sealeo → Doxeno/sealeo
+- ttacon/combee → DanielSanRocha/combee
+- CristianoBarone/ShellOS → ed-henrique/shellos
+- megagonlabs/rotom → xgzlucario/rotom
+- vulpix500/Oshawott → kon3gor/oshawott
+- Ujimatsu-Chiya/Sylveon → Ultramicroscope/Sylveon
+
 # Fri, 01 Dec 2023 00:50:16 GMT
 
 ## Changed: 4
