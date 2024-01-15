@@ -1,3 +1,11 @@
+# Mon, 15 Jan 2024 00:49:27 GMT
+
+## Changed: 3
+
+- MarianVulpes/Sableye → nubbysaurus/sableye
+- xgzlucario/rotom → megagonlabs/rotom
+- lewisbarnes/axew → vinaysshenoy/axew
+
 # Mon, 01 Jan 2024 00:51:02 GMT
 
 ## Added: 5
