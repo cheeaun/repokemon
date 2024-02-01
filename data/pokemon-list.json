@@ -26639,6 +26639,52 @@
     "abilities": [
       "Weak Armor"
     ],
+    "detailPageURL": "/us/pokedex/sinistea",
+    "weight": 0.4,
+    "weakness": [
+      "Ghost",
+      "Dark"
+    ],
+    "number": "0854",
+    "height": 4,
+    "collectibles_slug": "sinistea",
+    "featured": "true",
+    "slug": "sinistea",
+    "name": "Sinistea",
+    "ThumbnailAltText": "Sinistea",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/854.png",
+    "id": 854,
+    "type": [
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Weak Armor"
+    ],
+    "detailPageURL": "/us/pokedex/polteageist",
+    "weight": 0.9,
+    "weakness": [
+      "Ghost",
+      "Dark"
+    ],
+    "number": "0855",
+    "height": 8,
+    "collectibles_slug": "polteageist",
+    "featured": "true",
+    "slug": "polteageist",
+    "name": "Polteageist",
+    "ThumbnailAltText": "Polteageist",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/855.png",
+    "id": 855,
+    "type": [
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Weak Armor"
+    ],
     "detailPageURL": "/us/pokedex/polteageist",
     "weight": 0.9,
     "weakness": [
@@ -28153,6 +28199,32 @@
     "type": [
       "bug",
       "rock"
+    ]
+  },
+  {
+    "abilities": [
+      "Mind’s Eye"
+    ],
+    "detailPageURL": "/us/pokedex/ursaluna",
+    "weight": 734.1,
+    "weakness": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting"
+    ],
+    "number": "0901",
+    "height": 106,
+    "collectibles_slug": "ursaluna",
+    "featured": "true",
+    "slug": "ursaluna",
+    "name": "Ursaluna",
+    "ThumbnailAltText": "Ursaluna",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/901.png",
+    "id": 901,
+    "type": [
+      "ground",
+      "normal"
     ]
   },
   {
@@ -31262,6 +31334,572 @@
     "type": [
       "grass",
       "psychic"
+    ]
+  },
+  {
+    "abilities": [
+      "Gluttony",
+      "Supersweet Syrup"
+    ],
+    "detailPageURL": "/us/pokedex/dipplin",
+    "weight": 9.7,
+    "weakness": [
+      "Flying",
+      "Ice",
+      "Dragon",
+      "Poison",
+      "Fairy",
+      "Bug"
+    ],
+    "number": "1011",
+    "height": 16,
+    "collectibles_slug": "dipplin",
+    "featured": "true",
+    "slug": "dipplin",
+    "name": "Dipplin",
+    "ThumbnailAltText": "Dipplin",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1011.png",
+    "id": 1011,
+    "type": [
+      "grass",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Hospitality"
+    ],
+    "detailPageURL": "/us/pokedex/poltchageist",
+    "weight": 2.4,
+    "weakness": [
+      "Ghost",
+      "Fire",
+      "Flying",
+      "Dark",
+      "Ice"
+    ],
+    "number": "1012",
+    "height": 4,
+    "collectibles_slug": "poltchageist",
+    "featured": "true",
+    "slug": "poltchageist",
+    "name": "Poltchageist",
+    "ThumbnailAltText": "Poltchageist",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1012.png",
+    "id": 1012,
+    "type": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Hospitality"
+    ],
+    "detailPageURL": "/us/pokedex/poltchageist",
+    "weight": 2.4,
+    "weakness": [
+      "Ghost",
+      "Fire",
+      "Flying",
+      "Dark",
+      "Ice"
+    ],
+    "number": "1012",
+    "height": 4,
+    "collectibles_slug": "poltchageist",
+    "featured": "true",
+    "slug": "poltchageist",
+    "name": "Poltchageist",
+    "ThumbnailAltText": "Poltchageist",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1012.png",
+    "id": 1012,
+    "type": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Hospitality"
+    ],
+    "detailPageURL": "/us/pokedex/sinistcha",
+    "weight": 4.9,
+    "weakness": [
+      "Ghost",
+      "Fire",
+      "Flying",
+      "Dark",
+      "Ice"
+    ],
+    "number": "1013",
+    "height": 8,
+    "collectibles_slug": "sinistcha",
+    "featured": "true",
+    "slug": "sinistcha",
+    "name": "Sinistcha",
+    "ThumbnailAltText": "Sinistcha",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1013.png",
+    "id": 1013,
+    "type": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Hospitality"
+    ],
+    "detailPageURL": "/us/pokedex/sinistcha",
+    "weight": 4.9,
+    "weakness": [
+      "Ghost",
+      "Fire",
+      "Flying",
+      "Dark",
+      "Ice"
+    ],
+    "number": "1013",
+    "height": 8,
+    "collectibles_slug": "sinistcha",
+    "featured": "true",
+    "slug": "sinistcha",
+    "name": "Sinistcha",
+    "ThumbnailAltText": "Sinistcha",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1013.png",
+    "id": 1013,
+    "type": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "abilities": [
+      "Toxic Chain"
+    ],
+    "detailPageURL": "/us/pokedex/okidogi",
+    "weight": 203.3,
+    "weakness": [
+      "Psychic",
+      "Flying",
+      "Ground"
+    ],
+    "number": "1014",
+    "height": 71,
+    "collectibles_slug": "okidogi",
+    "featured": "true",
+    "slug": "okidogi",
+    "name": "Okidogi",
+    "ThumbnailAltText": "Okidogi",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1014.png",
+    "id": 1014,
+    "type": [
+      "poison",
+      "fighting"
+    ]
+  },
+  {
+    "abilities": [
+      "Toxic Chain"
+    ],
+    "detailPageURL": "/us/pokedex/munkidori",
+    "weight": 26.9,
+    "weakness": [
+      "Ghost",
+      "Dark",
+      "Ground"
+    ],
+    "number": "1015",
+    "height": 39,
+    "collectibles_slug": "munkidori",
+    "featured": "true",
+    "slug": "munkidori",
+    "name": "Munkidori",
+    "ThumbnailAltText": "Munkidori",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1015.png",
+    "id": 1015,
+    "type": [
+      "poison",
+      "psychic"
+    ]
+  },
+  {
+    "abilities": [
+      "Toxic Chain"
+    ],
+    "detailPageURL": "/us/pokedex/fezandipiti",
+    "weight": 66.4,
+    "weakness": [
+      "Steel",
+      "Psychic",
+      "Ground"
+    ],
+    "number": "1016",
+    "height": 55,
+    "collectibles_slug": "fezandipiti",
+    "featured": "true",
+    "slug": "fezandipiti",
+    "name": "Fezandipiti",
+    "ThumbnailAltText": "Fezandipiti",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1016.png",
+    "id": 1016,
+    "type": [
+      "poison",
+      "fairy"
+    ]
+  },
+  {
+    "abilities": [
+      "Sturdy"
+    ],
+    "detailPageURL": "/us/pokedex/ogerpon",
+    "weight": 87.7,
+    "weakness": [
+      "Steel",
+      "Ice",
+      "Fighting",
+      "Bug"
+    ],
+    "number": "1017",
+    "height": 47,
+    "collectibles_slug": "ogerpon",
+    "featured": "true",
+    "slug": "ogerpon",
+    "name": "Ogerpon",
+    "ThumbnailAltText": "Ogerpon",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1017.png",
+    "id": 1017,
+    "type": [
+      "grass",
+      "rock"
+    ]
+  },
+  {
+    "abilities": [
+      "Mold Breaker"
+    ],
+    "detailPageURL": "/us/pokedex/ogerpon",
+    "weight": 87.7,
+    "weakness": [
+      "Flying",
+      "Poison",
+      "Rock"
+    ],
+    "number": "1017",
+    "height": 47,
+    "collectibles_slug": "ogerpon",
+    "featured": "true",
+    "slug": "ogerpon",
+    "name": "Ogerpon",
+    "ThumbnailAltText": "Ogerpon",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1017.png",
+    "id": 1017,
+    "type": [
+      "grass",
+      "fire"
+    ]
+  },
+  {
+    "abilities": [
+      "Water Absorb"
+    ],
+    "detailPageURL": "/us/pokedex/ogerpon",
+    "weight": 87.7,
+    "weakness": [
+      "Flying",
+      "Bug",
+      "Poison"
+    ],
+    "number": "1017",
+    "height": 47,
+    "collectibles_slug": "ogerpon",
+    "featured": "true",
+    "slug": "ogerpon",
+    "name": "Ogerpon",
+    "ThumbnailAltText": "Ogerpon",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1017.png",
+    "id": 1017,
+    "type": [
+      "grass",
+      "water"
+    ]
+  },
+  {
+    "abilities": [
+      "Defiant"
+    ],
+    "detailPageURL": "/us/pokedex/ogerpon",
+    "weight": 87.7,
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison",
+      "Bug"
+    ],
+    "number": "1017",
+    "height": 47,
+    "collectibles_slug": "ogerpon",
+    "featured": "true",
+    "slug": "ogerpon",
+    "name": "Ogerpon",
+    "ThumbnailAltText": "Ogerpon",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1017.png",
+    "id": 1017,
+    "type": [
+      "grass"
+    ]
+  },
+  {
+    "abilities": [
+      "Stamina",
+      "Sturdy"
+    ],
+    "detailPageURL": "/us/pokedex/archaludon",
+    "weight": 132.3,
+    "weakness": [
+      "Fighting",
+      "Ground"
+    ],
+    "number": "1018",
+    "height": 79,
+    "collectibles_slug": "archaludon",
+    "featured": "true",
+    "slug": "archaludon",
+    "name": "Archaludon",
+    "ThumbnailAltText": "Archaludon",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1018.png",
+    "id": 1018,
+    "type": [
+      "steel",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Regenerator",
+      "Supersweet Syrup"
+    ],
+    "detailPageURL": "/us/pokedex/hydrapple",
+    "weight": 205,
+    "weakness": [
+      "Flying",
+      "Ice",
+      "Dragon",
+      "Poison",
+      "Fairy",
+      "Bug"
+    ],
+    "number": "1019",
+    "height": 71,
+    "collectibles_slug": "hydrapple",
+    "featured": "true",
+    "slug": "hydrapple",
+    "name": "Hydrapple",
+    "ThumbnailAltText": "Hydrapple",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1019.png",
+    "id": 1019,
+    "type": [
+      "grass",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "detailPageURL": "/us/pokedex/gouging-fire",
+    "weight": 1300.7,
+    "weakness": [
+      "Ground",
+      "Rock",
+      "Dragon"
+    ],
+    "number": "1020",
+    "height": 138,
+    "collectibles_slug": "gouging-fire",
+    "featured": "true",
+    "slug": "gouging-fire",
+    "name": "Gouging Fire",
+    "ThumbnailAltText": "Gouging Fire",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1020.png",
+    "id": 1020,
+    "type": [
+      "fire",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "detailPageURL": "/us/pokedex/raging-bolt",
+    "weight": 1058.2,
+    "weakness": [
+      "Fairy",
+      "Ground",
+      "Ice",
+      "Dragon"
+    ],
+    "number": "1021",
+    "height": 205,
+    "collectibles_slug": "raging-bolt",
+    "featured": "true",
+    "slug": "raging-bolt",
+    "name": "Raging Bolt",
+    "ThumbnailAltText": "Raging Bolt",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1021.png",
+    "id": 1021,
+    "type": [
+      "electric",
+      "dragon"
+    ]
+  },
+  {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "detailPageURL": "/us/pokedex/iron-boulder",
+    "weight": 358.3,
+    "weakness": [
+      "Steel",
+      "Ghost",
+      "Water",
+      "Dark",
+      "Grass",
+      "Bug",
+      "Ground"
+    ],
+    "number": "1022",
+    "height": 59,
+    "collectibles_slug": "iron-boulder",
+    "featured": "true",
+    "slug": "iron-boulder",
+    "name": "Iron Boulder",
+    "ThumbnailAltText": "Iron Boulder",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1022.png",
+    "id": 1022,
+    "type": [
+      "rock",
+      "psychic"
+    ]
+  },
+  {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "detailPageURL": "/us/pokedex/iron-crown",
+    "weight": 343.9,
+    "weakness": [
+      "Ghost",
+      "Fire",
+      "Dark",
+      "Ground"
+    ],
+    "number": "1023",
+    "height": 63,
+    "collectibles_slug": "iron-crown",
+    "featured": "true",
+    "slug": "iron-crown",
+    "name": "Iron Crown",
+    "ThumbnailAltText": "Iron Crown",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1023.png",
+    "id": 1023,
+    "type": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "abilities": [
+      "Teraform Zero"
+    ],
+    "detailPageURL": "/us/pokedex/terapagos",
+    "weight": 169.8,
+    "weakness": [
+      "Fighting"
+    ],
+    "number": "1024",
+    "height": 67,
+    "collectibles_slug": "terapagos",
+    "featured": "true",
+    "slug": "terapagos",
+    "name": "Terapagos",
+    "ThumbnailAltText": "Terapagos",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1024.png",
+    "id": 1024,
+    "type": [
+      "normal"
+    ]
+  },
+  {
+    "abilities": [
+      "Tera Shell"
+    ],
+    "detailPageURL": "/us/pokedex/terapagos",
+    "weight": 35.3,
+    "weakness": [
+      "Fighting"
+    ],
+    "number": "1024",
+    "height": 12,
+    "collectibles_slug": "terapagos",
+    "featured": "true",
+    "slug": "terapagos",
+    "name": "Terapagos",
+    "ThumbnailAltText": "Terapagos",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1024.png",
+    "id": 1024,
+    "type": [
+      "normal"
+    ]
+  },
+  {
+    "abilities": [
+      "Tera Shift"
+    ],
+    "detailPageURL": "/us/pokedex/terapagos",
+    "weight": 14.3,
+    "weakness": [
+      "Fighting"
+    ],
+    "number": "1024",
+    "height": 8,
+    "collectibles_slug": "terapagos",
+    "featured": "true",
+    "slug": "terapagos",
+    "name": "Terapagos",
+    "ThumbnailAltText": "Terapagos",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1024.png",
+    "id": 1024,
+    "type": [
+      "normal"
+    ]
+  },
+  {
+    "abilities": [
+      "Poison Puppeteer"
+    ],
+    "detailPageURL": "/us/pokedex/pecharunt",
+    "weight": 0.7,
+    "weakness": [
+      "Ghost",
+      "Dark",
+      "Psychic",
+      "Ground"
+    ],
+    "number": "1025",
+    "height": 12,
+    "collectibles_slug": "pecharunt",
+    "featured": "true",
+    "slug": "pecharunt",
+    "name": "Pecharunt",
+    "ThumbnailAltText": "Pecharunt",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1025.png",
+    "id": 1025,
+    "type": [
+      "poison",
+      "ghost"
     ]
   }
 ]

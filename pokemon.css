@@ -1040,7 +1040,7 @@
 .i1000{background-position: -900px -900px;}
 [class*=i10]:not(.i1000),.i1100{
           background-image: url(data/pokemon-10.jpg);
-          background-size: 400px 300px;
+          background-size: 500px 500px;
         }
         .i1001{background-position: -0px -0px;}
 .i1002{background-position: -100px -0px;}
@@ -1052,3 +1052,18 @@
 .i1008{background-position: -100px -200px;}
 .i1009{background-position: -200px -200px;}
 .i1010{background-position: -300px -0px;}
+.i1011{background-position: -300px -100px;}
+.i1012{background-position: -300px -200px;}
+.i1013{background-position: -0px -300px;}
+.i1014{background-position: -100px -300px;}
+.i1015{background-position: -200px -300px;}
+.i1016{background-position: -300px -300px;}
+.i1017{background-position: -400px -0px;}
+.i1018{background-position: -400px -100px;}
+.i1019{background-position: -400px -200px;}
+.i1020{background-position: -400px -300px;}
+.i1021{background-position: -0px -400px;}
+.i1022{background-position: -100px -400px;}
+.i1023{background-position: -200px -400px;}
+.i1024{background-position: -300px -400px;}
+.i1025{background-position: -400px -400px;}

@@ -1,3 +1,41 @@
+# Thu, 01 Feb 2024 00:53:22 GMT
+
+## New pokemons: 15
+
+- Dipplin
+- Poltchageist
+- Sinistcha
+- Okidogi
+- Munkidori
+- Fezandipiti
+- Ogerpon
+- Archaludon
+- Hydrapple
+- Gouging Fire
+- Raging Bolt
+- Iron Boulder
+- Iron Crown
+- Terapagos
+- Pecharunt
+
+## Removed: 1
+
+- CKalt/snom
+
+## Changed: 11
+
+- E7su/growlithe → lharlan/Growlithe
+- brianneisler/magmar → cran/magmaR
+- nubbysaurus/sableye → MarianVulpes/Sableye
+- ed-henrique/shellos → ElectroBoy404NotFound/ShellOS
+- ghazi-naceur/munchlax → rotemhacks/munchlax
+- megagonlabs/rotom → xgzlucario/rotom
+- Skires/Darkrai → karan-2006/Darkrai
+- vinaysshenoy/axew → lewisbarnes/axew
+- rorygraves/shelmet → dgilland/shelmet
+- Ultramicroscope/Sylveon → red-wipet/Sylveon
+- yzee4/Dottler → lukeleppan/dottler
+
 # Mon, 15 Jan 2024 00:49:27 GMT
 
 ## Changed: 3
