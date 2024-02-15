@@ -1,3 +1,19 @@
+# Thu, 15 Feb 2024 00:51:24 GMT
+
+## Added: 1
+
+- Nanoteck137/slurpuff
+
+## Removed: 1
+
+- 1point7point4/jellicent
+
+## Changed: 3
+
+- Bert-Z/Raichu → SophieVromans/RAIChU
+- lukedavisseo/ralts → starchildluke/ralts
+- jkulba/Bronzor → zoephyr/bronzor
+
 # Thu, 01 Feb 2024 00:53:22 GMT
 
 ## New pokemons: 15
