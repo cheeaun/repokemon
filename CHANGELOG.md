@@ -1,3 +1,16 @@
+# Fri, 01 Mar 2024 00:50:09 GMT
+
+## Added: 1
+
+- evgeniyp92/wailmer
+
+## Changed: 4
+
+- picatz/flareon → jhsmith/flareon
+- bLittle1996/pineco → ondrej17/pineco
+- zoephyr/bronzor → jkulba/Bronzor
+- Protectator/Uxie → zeus-12/uxie
+
 # Thu, 15 Feb 2024 00:51:24 GMT
 
 ## Added: 1
