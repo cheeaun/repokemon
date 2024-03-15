@@ -1,3 +1,17 @@
+# Fri, 15 Mar 2024 00:50:01 GMT
+
+## Added: 2
+
+- Petuuuhhh/Tyranitar
+- Bonsoir9729/Yanmega
+
+## Changed: 4
+
+- vgjournal/blaziken → Nemoxus/blaziken
+- nexxeln/deoxys → KasarLabs/deoxys
+- MVanderloo/Fraxure → gregbove/Fraxure
+- TypicalAM/gogoat → JamesCalingo/gogoat
+
 # Fri, 01 Mar 2024 00:50:09 GMT
 
 ## Added: 1
