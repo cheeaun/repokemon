@@ -117,6 +117,12 @@ h1 + p{
 #controls input{
   vertical-align: middle;
 }
+#display-unavailable:checked ~ #list li.unavailable {
+    display: none;
+}
+#display-available:checked ~ #list li.available {
+    display: none;
+}
 </style>
 <header>
   <h1><img src="repokemon-logo.svg" width="640" heigth="204" alt="Repokémon"></h1>
@@ -127,6 +133,9 @@ h1 + p{
   <a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="repokemon" data-related="cheeaun" data-show-count="true">Tweet</a>
   <span class="fb-share-button" data-href="https://cheeaun.github.io/repokemon" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcheeaun.github.io%2Frepokemon%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></span>
 </div>
+<input type="radio" id="display-all" name="display" value="all" checked /><label for="display-all"> All</label>
+<input type="radio" id="display-unavailable" name="display" value="unavailable" /><label for="display-unavailable">Existing</label>
+<input type="radio" id="display-available" name="display" value="available" /><label for="display-available">Non-existing</label>
 <ul id="list"></ul>
 <div id="controls">
   <label><input type="radio" name="sort" value="number" checked> Pokédex number</label>
