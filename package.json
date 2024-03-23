@@ -1,43 +1,40 @@
 {
-  "name": "repokemon",
-  "version": "1.0.0",
-  "description": "Showcase of GitHub repos with Pokémon names",
-  "keywords": [
-    "pokemon",
-    "github",
-    "repositories",
-    "repository",
-    "repo"
-  ],
-  "author": "Lim Chee Aun",
-  "license": "ISC",
-  "engines": {
-    "node": ">=12.4"
-  },
-  "scripts": {
-    "pokemon": "curl https://www.pokemon.com/us/api/pokedex/kalos | json > data/pokemon-list.json",
-    "repokemon": "node scripts/repokemon",
-    "gemoji": "node scripts/gemoji.mjs",
-    "min-repokemon": "node scripts/min-repokemon",
-    "stats": "node scripts/stats",
-    "images": "node scripts/images",
-    "images-ci": "if [ \"$(git show $(git branch --show-current):data/repokemon.json | json length)\" -ne \"$(cat data/repokemon.json | json length)\" ]; then npm run images; fi",
-    "fix-images": "node scripts/fix-images",
-    "sprite": "node scripts/sprite",
-    "sprite-ci": "if [ \"$(git show $(git branch --show-current):data/repokemon.json | json length)\" -ne \"$(cat data/repokemon.json | json length)\" ]; then npm run fix-images && npm run sprite; fi",
-    "css-min": "cleancss -O2 mergeSemantically:on pokemon.css -o pokemon.min.css",
-    "changes": "echo \"$(node scripts/changes)\n\n$(cat CHANGELOG.md)\" > CHANGELOG.md",
-    "build-ci": "npm run pokemon && npm run repokemon && npm run gemoji && npm run images-ci && npm run sprite-ci && npm run min-repokemon && npm run css-min && npm run changes",
-    "start": "serve -l 1337"
-  },
-  "devDependencies": {
-    "clean-css-cli": "~5.2.2",
-    "dotenv": "~8.2.0",
-    "gemoji": "~7.0.0",
-    "jimp": "~0.16.1",
-    "json": "~10.0.0",
-    "serve": "~11.3.2",
-    "spritesmith": "~3.4.0",
-    "tinify": "~1.6.0-beta.2"
-  }
+    "name": "repokemon",
+    "version": "1.0.0",
+    "description": "Showcase of GitHub repos with Pokémon names",
+    "keywords": [
+        "pokemon",
+        "github",
+        "repositories",
+        "repository",
+        "repo"
+    ],
+    "author": "Lim Chee Aun",
+    "license": "ISC",
+    "engines": {
+        "node": ">=12.4"
+    },
+    "scripts": {
+        "pokemon": "curl https://www.pokemon.com/us/api/pokedex/kalos | json > data/langs/us/pokemon-list.json",
+        "repokemon": "node scripts/repokemon",
+        "gemoji": "node scripts/gemoji.mjs",
+        "images-ci": "if [ \"$(git show $(git branch --show-current):data/repokemon.json | json length)\" -ne \"$(cat data/langs/us/repokemon.json | json length)\" ]; then npm run images; fi",
+        "fix-images": "node scripts/fix-images",
+        "sprite": "node scripts/sprite",
+        "sprite-ci": "if [ \"$(git show $(git branch --show-current):data/repokemon.json | json length)\" -ne \"$(cat data/langs/us/repokemon.json | json length)\" ]; then npm run fix-images && npm run sprite; fi",
+        "css-min": "cleancss -O2 mergeSemantically:on pokemon.css -o pokemon.min.css",
+        "changes": "echo \"$(node scripts/changes)\n\n$(cat CHANGELOG.md)\" > CHANGELOG.md",
+        "build-ci": "npm run repokemon && npm run gemoji && npm run images-ci && npm run sprite-ci && npm run css-min && npm run changes",
+        "start": "serve -l 1337"
+    },
+    "devDependencies": {
+        "clean-css-cli": "~5.2.2",
+        "dotenv": "~8.2.0",
+        "gemoji": "~7.0.0",
+        "jimp": "~0.16.1",
+        "json": "~10.0.0",
+        "serve": "~11.3.2",
+        "spritesmith": "~3.4.0",
+        "tinify": "~1.6.0-beta.2"
+    }
 }
