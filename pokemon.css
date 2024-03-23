@@ -1,5 +1,5 @@
 [class*=i0],.i100{
-          background-image: url(data/pokemon-0.jpg);
+          background-image: url(data/imgs/pokemon-0.jpg);
           background-size: 1000px 1000px;
         }
         .i001{background-position: -0px -0px;}
@@ -103,7 +103,7 @@
 .i099{background-position: -800px -900px;}
 .i100{background-position: -900px -900px;}
 [class*=i1]:not(.i100),.i200{
-          background-image: url(data/pokemon-1.jpg);
+          background-image: url(data/imgs/pokemon-1.jpg);
           background-size: 1000px 1000px;
         }
         .i101{background-position: -0px -0px;}
@@ -207,7 +207,7 @@
 .i199{background-position: -800px -900px;}
 .i200{background-position: -900px -900px;}
 [class*=i2]:not(.i200),.i300{
-          background-image: url(data/pokemon-2.jpg);
+          background-image: url(data/imgs/pokemon-2.jpg);
           background-size: 1000px 1000px;
         }
         .i201{background-position: -0px -0px;}
@@ -311,7 +311,7 @@
 .i299{background-position: -800px -900px;}
 .i300{background-position: -900px -900px;}
 [class*=i3]:not(.i300),.i400{
-          background-image: url(data/pokemon-3.jpg);
+          background-image: url(data/imgs/pokemon-3.jpg);
           background-size: 1000px 1000px;
         }
         .i301{background-position: -0px -0px;}
@@ -415,7 +415,7 @@
 .i399{background-position: -800px -900px;}
 .i400{background-position: -900px -900px;}
 [class*=i4]:not(.i400),.i500{
-          background-image: url(data/pokemon-4.jpg);
+          background-image: url(data/imgs/pokemon-4.jpg);
           background-size: 1000px 1000px;
         }
         .i401{background-position: -0px -0px;}
@@ -519,7 +519,7 @@
 .i499{background-position: -800px -900px;}
 .i500{background-position: -900px -900px;}
 [class*=i5]:not(.i500),.i600{
-          background-image: url(data/pokemon-5.jpg);
+          background-image: url(data/imgs/pokemon-5.jpg);
           background-size: 1000px 1000px;
         }
         .i501{background-position: -0px -0px;}
@@ -623,7 +623,7 @@
 .i599{background-position: -800px -900px;}
 .i600{background-position: -900px -900px;}
 [class*=i6]:not(.i600),.i700{
-          background-image: url(data/pokemon-6.jpg);
+          background-image: url(data/imgs/pokemon-6.jpg);
           background-size: 1000px 1000px;
         }
         .i601{background-position: -0px -0px;}
@@ -727,7 +727,7 @@
 .i699{background-position: -800px -900px;}
 .i700{background-position: -900px -900px;}
 [class*=i7]:not(.i700),.i800{
-          background-image: url(data/pokemon-7.jpg);
+          background-image: url(data/imgs/pokemon-7.jpg);
           background-size: 1000px 1000px;
         }
         .i701{background-position: -0px -0px;}
@@ -831,111 +831,111 @@
 .i799{background-position: -800px -900px;}
 .i800{background-position: -900px -900px;}
 [class*=i8]:not(.i800),.i900{
-          background-image: url(data/pokemon-8.jpg);
-          background-size: 1000px 1000px;
+          background-image: url(data/imgs/pokemon-8.jpg);
+          background-size: 1120.9302325581396px 1020.9302325581396px;
         }
-        .i801{background-position: -0px -0px;}
-.i802{background-position: -100px -0px;}
-.i803{background-position: -0px -100px;}
-.i804{background-position: -100px -100px;}
-.i805{background-position: -200px -0px;}
-.i806{background-position: -200px -100px;}
-.i807{background-position: -0px -200px;}
-.i808{background-position: -100px -200px;}
-.i809{background-position: -200px -200px;}
-.i810{background-position: -300px -0px;}
-.i811{background-position: -300px -100px;}
-.i812{background-position: -300px -200px;}
-.i813{background-position: -0px -300px;}
-.i814{background-position: -100px -300px;}
-.i815{background-position: -200px -300px;}
-.i816{background-position: -300px -300px;}
-.i817{background-position: -400px -0px;}
-.i818{background-position: -400px -100px;}
-.i819{background-position: -400px -200px;}
-.i820{background-position: -400px -300px;}
-.i821{background-position: -0px -400px;}
-.i822{background-position: -100px -400px;}
-.i823{background-position: -200px -400px;}
-.i824{background-position: -300px -400px;}
-.i825{background-position: -400px -400px;}
-.i826{background-position: -500px -0px;}
-.i827{background-position: -500px -100px;}
-.i828{background-position: -500px -200px;}
-.i829{background-position: -500px -300px;}
-.i830{background-position: -500px -400px;}
-.i831{background-position: -0px -500px;}
-.i832{background-position: -100px -500px;}
-.i833{background-position: -200px -500px;}
-.i834{background-position: -300px -500px;}
-.i835{background-position: -400px -500px;}
-.i836{background-position: -500px -500px;}
-.i837{background-position: -600px -0px;}
-.i838{background-position: -600px -100px;}
-.i839{background-position: -600px -200px;}
-.i840{background-position: -600px -300px;}
-.i841{background-position: -600px -400px;}
-.i842{background-position: -600px -500px;}
-.i843{background-position: -0px -600px;}
-.i844{background-position: -100px -600px;}
-.i845{background-position: -200px -600px;}
-.i846{background-position: -300px -600px;}
-.i847{background-position: -400px -600px;}
-.i848{background-position: -500px -600px;}
-.i849{background-position: -600px -600px;}
-.i850{background-position: -700px -0px;}
-.i851{background-position: -700px -100px;}
-.i852{background-position: -700px -200px;}
-.i853{background-position: -700px -300px;}
-.i854{background-position: -700px -400px;}
-.i855{background-position: -700px -500px;}
-.i856{background-position: -700px -600px;}
-.i857{background-position: -0px -700px;}
-.i858{background-position: -100px -700px;}
-.i859{background-position: -200px -700px;}
-.i860{background-position: -300px -700px;}
-.i861{background-position: -400px -700px;}
-.i862{background-position: -500px -700px;}
-.i863{background-position: -600px -700px;}
-.i864{background-position: -700px -700px;}
-.i865{background-position: -800px -0px;}
-.i866{background-position: -800px -100px;}
-.i867{background-position: -800px -200px;}
-.i868{background-position: -800px -300px;}
-.i869{background-position: -800px -400px;}
-.i870{background-position: -800px -500px;}
-.i871{background-position: -800px -600px;}
-.i872{background-position: -800px -700px;}
-.i873{background-position: -0px -800px;}
-.i874{background-position: -100px -800px;}
-.i875{background-position: -200px -800px;}
-.i876{background-position: -300px -800px;}
-.i877{background-position: -400px -800px;}
-.i878{background-position: -500px -800px;}
-.i879{background-position: -600px -800px;}
-.i880{background-position: -700px -800px;}
-.i881{background-position: -800px -800px;}
-.i882{background-position: -900px -0px;}
-.i883{background-position: -900px -100px;}
-.i884{background-position: -900px -200px;}
-.i885{background-position: -900px -300px;}
-.i886{background-position: -900px -400px;}
-.i887{background-position: -900px -500px;}
-.i888{background-position: -900px -600px;}
-.i889{background-position: -900px -700px;}
-.i890{background-position: -900px -800px;}
-.i891{background-position: -0px -900px;}
-.i892{background-position: -100px -900px;}
-.i893{background-position: -200px -900px;}
-.i894{background-position: -300px -900px;}
-.i895{background-position: -400px -900px;}
-.i896{background-position: -500px -900px;}
-.i897{background-position: -600px -900px;}
-.i898{background-position: -700px -900px;}
-.i899{background-position: -800px -900px;}
-.i900{background-position: -900px -900px;}
+        .i801{background-position: -220.93023255813955px -0px;}
+.i802{background-position: -220.93023255813955px -100px;}
+.i803{background-position: -0px -220.93023255813955px;}
+.i804{background-position: -0px -0px;}
+.i805{background-position: -100px -220.93023255813955px;}
+.i806{background-position: -200px -220.93023255813955px;}
+.i807{background-position: -320.93023255813955px -0px;}
+.i808{background-position: -320.93023255813955px -100px;}
+.i809{background-position: -320.93023255813955px -200px;}
+.i810{background-position: -0px -320.93023255813955px;}
+.i811{background-position: -100px -320.93023255813955px;}
+.i812{background-position: -200px -320.93023255813955px;}
+.i813{background-position: -300px -320.93023255813955px;}
+.i814{background-position: -420.93023255813955px -0px;}
+.i815{background-position: -420.93023255813955px -100px;}
+.i816{background-position: -420.93023255813955px -200px;}
+.i817{background-position: -420.93023255813955px -300px;}
+.i818{background-position: -0px -420.93023255813955px;}
+.i819{background-position: -100px -420.93023255813955px;}
+.i820{background-position: -200px -420.93023255813955px;}
+.i821{background-position: -300px -420.93023255813955px;}
+.i822{background-position: -400px -420.93023255813955px;}
+.i823{background-position: -520.9302325581396px -0px;}
+.i824{background-position: -520.9302325581396px -100px;}
+.i825{background-position: -520.9302325581396px -200px;}
+.i826{background-position: -520.9302325581396px -300px;}
+.i827{background-position: -520.9302325581396px -400px;}
+.i828{background-position: -0px -520.9302325581396px;}
+.i829{background-position: -100px -520.9302325581396px;}
+.i830{background-position: -200px -520.9302325581396px;}
+.i831{background-position: -300px -520.9302325581396px;}
+.i832{background-position: -400px -520.9302325581396px;}
+.i833{background-position: -500px -520.9302325581396px;}
+.i834{background-position: -620.9302325581396px -0px;}
+.i835{background-position: -620.9302325581396px -100px;}
+.i836{background-position: -620.9302325581396px -200px;}
+.i837{background-position: -620.9302325581396px -300px;}
+.i838{background-position: -620.9302325581396px -400px;}
+.i839{background-position: -620.9302325581396px -500px;}
+.i840{background-position: -0px -620.9302325581396px;}
+.i841{background-position: -100px -620.9302325581396px;}
+.i842{background-position: -200px -620.9302325581396px;}
+.i843{background-position: -300px -620.9302325581396px;}
+.i844{background-position: -400px -620.9302325581396px;}
+.i845{background-position: -500px -620.9302325581396px;}
+.i846{background-position: -600px -620.9302325581396px;}
+.i847{background-position: -720.9302325581396px -0px;}
+.i848{background-position: -720.9302325581396px -100px;}
+.i849{background-position: -720.9302325581396px -200px;}
+.i850{background-position: -720.9302325581396px -300px;}
+.i851{background-position: -720.9302325581396px -400px;}
+.i852{background-position: -720.9302325581396px -500px;}
+.i853{background-position: -720.9302325581396px -600px;}
+.i854{background-position: -0px -720.9302325581396px;}
+.i855{background-position: -100px -720.9302325581396px;}
+.i856{background-position: -200px -720.9302325581396px;}
+.i857{background-position: -300px -720.9302325581396px;}
+.i858{background-position: -400px -720.9302325581396px;}
+.i859{background-position: -500px -720.9302325581396px;}
+.i860{background-position: -600px -720.9302325581396px;}
+.i861{background-position: -700px -720.9302325581396px;}
+.i862{background-position: -820.9302325581396px -0px;}
+.i863{background-position: -820.9302325581396px -100px;}
+.i864{background-position: -820.9302325581396px -200px;}
+.i865{background-position: -820.9302325581396px -300px;}
+.i866{background-position: -820.9302325581396px -400px;}
+.i867{background-position: -820.9302325581396px -500px;}
+.i868{background-position: -820.9302325581396px -600px;}
+.i869{background-position: -820.9302325581396px -700px;}
+.i870{background-position: -0px -820.9302325581396px;}
+.i871{background-position: -100px -820.9302325581396px;}
+.i872{background-position: -200px -820.9302325581396px;}
+.i873{background-position: -300px -820.9302325581396px;}
+.i874{background-position: -400px -820.9302325581396px;}
+.i875{background-position: -500px -820.9302325581396px;}
+.i876{background-position: -600px -820.9302325581396px;}
+.i877{background-position: -700px -820.9302325581396px;}
+.i878{background-position: -800px -820.9302325581396px;}
+.i879{background-position: -920.9302325581396px -0px;}
+.i880{background-position: -920.9302325581396px -100px;}
+.i881{background-position: -920.9302325581396px -200px;}
+.i882{background-position: -920.9302325581396px -300px;}
+.i883{background-position: -920.9302325581396px -400px;}
+.i884{background-position: -920.9302325581396px -500px;}
+.i885{background-position: -920.9302325581396px -600px;}
+.i886{background-position: -920.9302325581396px -700px;}
+.i887{background-position: -920.9302325581396px -800px;}
+.i888{background-position: -0px -920.9302325581396px;}
+.i889{background-position: -100px -920.9302325581396px;}
+.i890{background-position: -200px -920.9302325581396px;}
+.i891{background-position: -300px -920.9302325581396px;}
+.i892{background-position: -400px -920.9302325581396px;}
+.i893{background-position: -500px -920.9302325581396px;}
+.i894{background-position: -600px -920.9302325581396px;}
+.i895{background-position: -700px -920.9302325581396px;}
+.i896{background-position: -800px -920.9302325581396px;}
+.i897{background-position: -900px -920.9302325581396px;}
+.i898{background-position: -1020.9302325581396px -0px;}
+.i899{background-position: -1020.9302325581396px -100px;}
+.i900{background-position: -1020.9302325581396px -200px;}
 [class*=i9]:not(.i900),.i1000{
-          background-image: url(data/pokemon-9.jpg);
+          background-image: url(data/imgs/pokemon-9.jpg);
           background-size: 1000px 1000px;
         }
         .i901{background-position: -0px -0px;}
@@ -1039,7 +1039,7 @@
 .i999{background-position: -800px -900px;}
 .i1000{background-position: -900px -900px;}
 [class*=i10]:not(.i1000),.i1100{
-          background-image: url(data/pokemon-10.jpg);
+          background-image: url(data/imgs/pokemon-10.jpg);
           background-size: 500px 500px;
         }
         .i1001{background-position: -0px -0px;}
