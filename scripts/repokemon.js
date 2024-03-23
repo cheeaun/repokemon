@@ -283,7 +283,7 @@ class Repokemon {
             }
             return newD;
         });
-        fs.writeFileSync(join(pathToPokemonList, "data/repokemon.min.json"), JSON.stringify(minData));
+        fs.writeFileSync(join(pathToPokemonList, "repokemon.min.json"), JSON.stringify(minData));
     }
 }
 
