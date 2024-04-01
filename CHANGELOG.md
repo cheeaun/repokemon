@@ -1,3 +1,17 @@
+# Mon, 01 Apr 2024 00:50:54 GMT
+
+## Added: 1
+
+- TheJoshGriffith/Houndoom
+
+## Changed: 5
+
+- joacopaz/Mankey → ryn-cx/mankey
+- megagonlabs/doduo → UT-Austin-RPL/Doduo
+- Petuuuhhh/Tyranitar → Intenzi/Tyranitar
+- shmoe6/Altaria → Lautab/altaria
+- Doxeno/sealeo → fortheusers/sealeo
+
 # Fri, 15 Mar 2024 00:50:01 GMT
 
 ## Added: 2
