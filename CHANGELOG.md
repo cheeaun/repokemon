@@ -1,3 +1,18 @@
+# Mon, 15 Apr 2024 03:03:44 GMT
+
+## Added: 2
+
+- anirudh-hegde/Exploud
+- wyvernbw/finneon
+
+## Changed: 5
+
+- LA1CH3/graveler → mat-sz/graveler
+- tristanlievens/unown → crypto0627/Unown
+- fortheusers/sealeo → Doxeno/sealeo
+- danielxchang/grubbin → skiz/grubbin
+- SidneyRoberto9/alcremie → medeirosJose/alcremie
+
 # Mon, 01 Apr 2024 00:50:54 GMT
 
 ## Added: 1
