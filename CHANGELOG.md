@@ -1,3 +1,18 @@
+# Wed, 01 May 2024 03:01:25 GMT
+
+## Added: 3
+
+- alanolv/Bergmite
+- chimerror/orbeetle
+- azevedo-pedro/iron-crown
+
+## Changed: 4
+
+- Metallipod/beedrill → michaelskyba/beedrill
+- richard-remote/Lickitung → EmptyOne4K/Lickitung
+- skiz/grubbin → danielxchang/grubbin
+- ftIight/quaxly → alanolv/Quaxly
+
 # Mon, 15 Apr 2024 03:03:44 GMT
 
 ## Added: 2
