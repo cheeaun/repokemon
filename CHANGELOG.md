@@ -1,3 +1,16 @@
+# Wed, 15 May 2024 00:50:07 GMT
+
+## Added: 1
+
+- yzee4/Dustox
+
+## Changed: 4
+
+- UT-Austin-RPL/Doduo → megagonlabs/doduo
+- rahulganesamani/Chikorita → PocketSWPU/Chikorita
+- tapris-bot/furret → Callytek/Furret
+- yushengzh/Aipom → MeixDev/aipom
+
 # Wed, 01 May 2024 03:01:25 GMT
 
 ## Added: 3
