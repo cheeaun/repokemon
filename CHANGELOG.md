@@ -1,3 +1,22 @@
+# Sat, 01 Jun 2024 00:50:58 GMT
+
+## Added: 2
+
+- BIubberBernd/Necrozma
+- azevedo-pedro/iron-jugulis
+
+## Changed: 9
+
+- megagonlabs/doduo → UT-Austin-RPL/Doduo
+- EmptyOne4K/Lickitung → kalxd/lickitung
+- jonathan-markland/Jynx → ScottAlexanderCameron/Jynx
+- PocketSWPU/Chikorita → rahulganesamani/Chikorita
+- Callytek/Furret → tapris-bot/furret
+- katzenbar/wooper → gonz9682/wooper
+- justinc646/beldum → nubbysaurus/beldum
+- filipedaniel/torterra → FelixSchlembach/torterra
+- GaoYangBenYang/deino → Night-Coder2/deino
+
 # Wed, 15 May 2024 00:50:07 GMT
 
 ## Added: 1
