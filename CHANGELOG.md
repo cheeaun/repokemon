@@ -1,3 +1,13 @@
+# Sat, 15 Jun 2024 00:51:00 GMT
+
+## Changed: 5
+
+- Doxeno/sealeo → fortheusers/sealeo
+- DanielSanRocha/combee → zeetwii/combee
+- darthelit/Glaceon → Twi/glaceon
+- ericgbanta/crustle → Nanoteck137/crustle
+- brian-ding/Rowlet → SimbaTheCuteDog/rowlet
+
 # Sat, 01 Jun 2024 00:50:58 GMT
 
 ## Added: 2
