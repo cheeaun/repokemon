@@ -1,3 +1,17 @@
+# Mon, 01 Jul 2024 00:52:26 GMT
+
+## Added: 3
+
+- kalxd/unfezant
+- aegislash525/aegislash
+- azevedo-pedro/iron-boulder
+
+## Changed: 3
+
+- cptkorea/slowbro → jmhobbs/slowbro
+- Leaderofepic134/cyndaquil → Cpt-Karthik/cyndaquil
+- RoboSubLA/lanturn → solver099/Lanturn
+
 # Sat, 15 Jun 2024 00:51:00 GMT
 
 ## Changed: 5
