@@ -1,3 +1,21 @@
+# Mon, 15 Jul 2024 00:49:44 GMT
+
+## Added: 2
+
+- Vinnie444444444/vullaby
+- irvingdinh/zamazenta
+
+## Removed: 2
+
+- yzee4/Pupitar
+- yzee4/Dustox
+
+## Changed: 3
+
+- ElectroBoy404NotFound/ShellOS → Maxwell317898/shellOS
+- sunxuening/tynamo → charmingruby/tynamo
+- danielxchang/grubbin → skiz/grubbin
+
 # Mon, 01 Jul 2024 00:52:26 GMT
 
 ## Added: 3
