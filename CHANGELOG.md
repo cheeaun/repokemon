@@ -1,3 +1,16 @@
+# Thu, 01 Aug 2024 00:53:44 GMT
+
+## Added: 3
+
+- Francois238/Bastiodon
+- shaurmyauu/meowscarada
+- VVoruganti/fuecoco
+
+## Changed: 2
+
+- KasarLabs/deoxys → nexxeln/deoxys
+- Twi/glaceon → emrekirman/glaceon
+
 # Mon, 15 Jul 2024 00:49:44 GMT
 
 ## Added: 2
