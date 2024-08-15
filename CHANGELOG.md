@@ -1,3 +1,19 @@
+# Thu, 15 Aug 2024 00:53:12 GMT
+
+## Removed: 3
+
+- ondrej17/pineco
+- aegislash525/aegislash
+- BIubberBernd/Necrozma
+
+## Changed: 5
+
+- mat-sz/graveler → LokiFawkes/graveler
+- jhsmith/flareon → picatz/flareon
+- starchildluke/ralts → RonaldKroening/ralts
+- ryanccn/vanillish → brightsole/vanillish
+- justanobdy/yamper → useDeep/yamper
+
 # Thu, 01 Aug 2024 00:53:44 GMT
 
 ## Added: 3
