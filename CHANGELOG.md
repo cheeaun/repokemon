@@ -1,3 +1,25 @@
+# Sun, 01 Sep 2024 00:53:33 GMT
+
+## Added: 2
+
+- Denelix/Decidueye
+- b4ck5p4c3/brionne
+
+## Removed: 1
+
+- Nanoteck137/wimpod
+
+## Changed: 8
+
+- s-ekai/dugtrio → cvishnuvardhan02/dugtrio
+- LokiFawkes/graveler → LMBernardo/graveler
+- solver099/Lanturn → RoboSubLA/lanturn
+- nickdchristian/shinx → captainsafia/shinx
+- emrekirman/glaceon → Twi/glaceon
+- senny-nicolau/Patrat → Nanoteck137/patrat
+- Lacrymosaa/Meloetta → spktrm/meloetta
+- red-wipet/Sylveon → Ultramicroscope/Sylveon
+
 # Thu, 15 Aug 2024 00:53:12 GMT
 
 ## Removed: 3
