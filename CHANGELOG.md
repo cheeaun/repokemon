@@ -1,3 +1,13 @@
+# Sun, 15 Sep 2024 00:54:07 GMT
+
+## Removed: 1
+
+- starchildluke/palafin
+
+## Changed: 1
+
+- LMBernardo/graveler → 2sugarcubes/graveler
+
 # Sun, 01 Sep 2024 00:53:33 GMT
 
 ## Added: 2
