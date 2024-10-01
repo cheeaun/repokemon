@@ -1,3 +1,19 @@
+# Tue, 01 Oct 2024 00:55:13 GMT
+
+## Added: 1
+
+- SimonOneNineEight/lechonk
+
+## Removed: 1
+
+- irvingdinh/zamazenta
+
+## Changed: 3
+
+- 2sugarcubes/graveler → ThaBluNate/graveler
+- asproz/Rayquaza → seg1-exe/rayquaza
+- OptimusMinus/WishiWashi → VVoruganti/wishiwashi
+
 # Sun, 15 Sep 2024 00:54:07 GMT
 
 ## Removed: 1
