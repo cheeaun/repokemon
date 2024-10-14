@@ -1,3 +1,14 @@
+# Mon, 14 Oct 2024 12:17:00 GMT
+
+## Added: 1
+
+- bijij/malamar
+
+## Removed: 2
+
+- xaslilac/nidorina
+- SimbaTheCuteDog/rowlet
+
 # Tue, 01 Oct 2024 00:55:13 GMT
 
 ## Added: 1
