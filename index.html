@@ -176,13 +176,15 @@ var sortFuncs = {
     return (b.repo ? b.repo.stars : 0) - (a.repo ? a.repo.stars : 0);
   },
 };
+var chunkSize = 100;
 function renderList(sort){
   if (!data) return;
   if (!sort) sort = 'number';
-  $list.innerHTML = data.sort(sortFuncs[sort]).map(function(d){
+  $list.innerHTML = data.sort(sortFuncs[sort]).map(function(d, i){
     var repo = d.repo;
+    var chunkID = Math.floor(i / chunkSize);
     if (!repo) return '<li class="unavailable">'
-      + '<div class="img i' + d.id + '"></div>'
+      + '<div class="img i' + d.id + ' c' + chunkID + '"></div>'
       + '<h2>' + d.name + '</h2>'
     + '</li>';
     var longDesc = repo.desc || '';
@@ -191,7 +193,7 @@ function renderList(sort){
     var desc = veryLongDesc ? longDesc.slice(0, descLimit-1) + '&hellip;' : longDesc;
     return '<li class="available">'
         + '<a href="https://github.com/' + repo.full_name + '" title="' + (veryLongDesc ? longDesc : '') + '" target="_blank" rel="noopener noreferrer" ontouchstart>'
-          + '<div class="img i' + d.id + '"></div>'
+          + '<div class="img i' + d.id + ' c' + chunkID + '"></div>'
           + '<h2>' + d.name + '</h2>'
           + '<div class="metadata">' + desc + '</div>'
           + '<div class="metadata">⭐️ ' + repo.stars + ' 🍴' + repo.forks + '</div>'
