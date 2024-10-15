@@ -10,7 +10,7 @@
 			"owner_name": "alibaba",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
 			"url": "https://github.com/alibaba/bulbasaur",
-			"desc": "💡 A pluggable, scalable process engine. You can use it to develop business-process, approval-process, retry-process and so on. Hope you enjoy it! 💖 可插拔的精简流程引擎，可快速实现流程、审批、业务���败重试等场景。",
+			"desc": "💡 A pluggable, scalable process engine. You can use it to develop business-process, approval-process, retry-process and so on. Hope you enjoy it! 💖 可插拔的精简流程引擎，可快速实现流程、审批、业务��败重试等场景。",
 			"lang": "Java",
 			"stars": 753,
 			"watches": 753,
@@ -888,8 +888,8 @@
 			"url": "https://github.com/SmartKeyerror/Psyduck",
 			"desc": "Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计",
 			"lang": "Go",
-			"stars": 4438,
-			"watches": 4438,
+			"stars": 4437,
+			"watches": 4437,
 			"forks": 519
 		}
 	},
@@ -2240,8 +2240,8 @@
 			"url": "https://github.com/sabrogden/Ditto",
 			"desc": "Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.",
 			"lang": "C",
-			"stars": 3736,
-			"watches": 3736,
+			"stars": 3737,
+			"watches": 3737,
 			"forks": 195
 		}
 	},
@@ -2492,8 +2492,8 @@
 			"url": "https://github.com/arfc/moltres",
 			"desc": "Repository for Moltres, a code for simulating Molten Salt Reactors",
 			"lang": "C++",
-			"stars": 66,
-			"watches": 66,
+			"stars": 65,
+			"watches": 65,
 			"forks": 41
 		}
 	},
@@ -3711,9 +3711,9 @@
 			"url": "https://github.com/mantinedev/mantine",
 			"desc": "A fully featured React components library",
 			"lang": "TypeScript",
-			"stars": 26436,
-			"watches": 26436,
-			"forks": 1874
+			"stars": 26441,
+			"watches": 26441,
+			"forks": 1875
 		}
 	},
 	{
@@ -4032,7 +4032,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套高效并且开箱即用���前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 460,
 			"watches": 460,
@@ -9196,8 +9196,8 @@
 			"url": "https://github.com/PretendoNetwork/Inkay",
 			"desc": "Wii U Pretendo Network patches (Aroma)",
 			"lang": "C++",
-			"stars": 151,
-			"watches": 151,
+			"stars": 152,
+			"watches": 152,
 			"forks": 40
 		}
 	},
@@ -9600,7 +9600,20 @@
 	{
 		"id": "722",
 		"name": "Rowlet",
-		"slug": "rowlet"
+		"slug": "rowlet",
+		"repo": {
+			"id": 775812962,
+			"name": "rowlet",
+			"full_name": "SimbaTheCuteDog/rowlet",
+			"owner_name": "SimbaTheCuteDog",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/132993268?v=4",
+			"url": "https://github.com/SimbaTheCuteDog/rowlet",
+			"desc": "A MakeCode project",
+			"lang": "TypeScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "723",
