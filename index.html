@@ -178,7 +178,7 @@ var sortFuncs = {
     return parseInt(a.id, 10) - parseInt(b.id, 10);
   },
   stars: function(a, b){
-    return (b.repo ? b.repo.stars : 0) - (a.repo ? a.repo.stars : 0);
+    return (b.repo ? b.repo.stars : -1) - (a.repo ? a.repo.stars : -1);
   },
 };
 var chunkSize = 100;
