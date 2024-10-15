@@ -151,9 +151,14 @@ h1 + p{
 <script>
 var $list = document.getElementById('list');
 var xhr = new XMLHttpRequest();
-var data;
+var data, dataWithChunks;
 xhr.onload = function(){
   data = JSON.parse(this.responseText);
+  dataWithChunks = data.map(function(d, i){
+    var chunkID = Math.floor(i / chunkSize);
+    d.chunkID = chunkID;
+    return d;
+  });
   renderList();
 };
 xhr.open('GET', 'data/repokemon.min.json');
@@ -178,11 +183,11 @@ var sortFuncs = {
 };
 var chunkSize = 100;
 function renderList(sort){
-  if (!data) return;
+  if (!dataWithChunks) return;
   if (!sort) sort = 'number';
-  $list.innerHTML = data.sort(sortFuncs[sort]).map(function(d, i){
+  $list.innerHTML = dataWithChunks.sort(sortFuncs[sort]).map(function(d, i){
     var repo = d.repo;
-    var chunkID = Math.floor(i / chunkSize);
+    var chunkID = d.chunkID;
     if (!repo) return '<li class="unavailable">'
       + '<div class="img i' + d.id + ' c' + chunkID + '"></div>'
       + '<h2>' + d.name + '</h2>'
