@@ -1,3 +1,25 @@
+# Fri, 01 Nov 2024 00:54:42 GMT
+
+## Added: 2
+
+- CoralLeiCN/lairon
+- oldillusion/amaura
+
+## Removed: 1
+
+- azevedo-pedro/iron-boulder
+
+## Changed: 8
+
+- supeffective/koffing → atmoschem/koffing
+- fortheusers/spinarak → pagvac/spinarak
+- Nemoxus/blaziken → RhyanLima/blaziken
+- RonaldKroening/ralts → starchildluke/ralts
+- JulioCGH/Roserade → VVoruganti/roserade
+- rotemhacks/munchlax → ghazi-naceur/munchlax
+- cutekibry/solosis → haniffalab/solosis
+- m-sanchez-dev/Komala → cloutsocks/komala
+
 # Tue, 15 Oct 2024 00:53:14 GMT
 
 ## Added: 1
