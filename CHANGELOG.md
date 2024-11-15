@@ -1,3 +1,16 @@
+# Fri, 15 Nov 2024 00:55:32 GMT
+
+## Added: 2
+
+- rogeru13/meditite
+- Nanoteck137/kricketune
+
+## Changed: 3
+
+- arturoalviar/taillow → ForwardFeed/taillow
+- noateden/empoleon → YlanzinhoY/Empoleon
+- spktrm/meloetta → Lacrymosaa/Meloetta
+
 # Fri, 01 Nov 2024 00:54:42 GMT
 
 ## Added: 2
