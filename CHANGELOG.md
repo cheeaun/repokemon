@@ -1,3 +1,26 @@
+# Sun, 01 Dec 2024 00:58:05 GMT
+
+## Added: 2
+
+- TheLokj/HEATraN
+- ecao77/pawmi
+
+## Changed: 13
+
+- xaslilac/venusaur → TienYoung/Venusaur
+- FuzzySecurity/Magikarp → cohere-ai/magikarp
+- luoxp183/ledian → aleclearmind/ledian
+- xaslilac/corsola → twitchard/corsola
+- ForwardFeed/taillow → arturoalviar/taillow
+- fanzeyi/seviper → BrownCoatAndKhakis/Seviper
+- Maxwell317898/shellOS → MattiasICP/ShellOS
+- Nanoteck137/patrat → senny-nicolau/Patrat
+- xaslilac/whimsicott → Deteerm/whimsicott
+- Nanoteck137/crustle → ericgbanta/crustle
+- NilsNathorst/scrafty → asallh/Scrafty
+- mcNETDev/CLauncher → mlm-games/CLauncher
+- syvlorg/falinks → lucka-me/falinks
+
 # Fri, 15 Nov 2024 00:55:32 GMT
 
 ## Added: 2
