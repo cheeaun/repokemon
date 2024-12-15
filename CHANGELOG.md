@@ -1,3 +1,22 @@
+# Sun, 15 Dec 2024 00:56:50 GMT
+
+## Added: 1
+
+- GirardiMatheus/Gallade
+
+## Removed: 2
+
+- domuro/Ivysaur
+- jkulba/Bronzor
+
+## Changed: 5
+
+- lharlan/Growlithe → ubc-cirrus-lab/growlithe
+- tryswift/Snorlax → moonbeam-nyc/snorlax
+- Lautab/altaria → SrGaabriel/altaria
+- MattiasICP/ShellOS → Bebao24/ShellOS
+- alexandraktang/Applin → YamiKawa1/Applin
+
 # Sun, 01 Dec 2024 00:58:05 GMT
 
 ## Added: 2
