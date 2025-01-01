@@ -1,3 +1,19 @@
+# Wed, 01 Jan 2025 00:54:29 GMT
+
+## Added: 3
+
+- ahhcash/grotle
+- TogekissTube/togekiss
+- mimvoid/fletchling
+
+## Changed: 5
+
+- twitchard/corsola → nenodias/corsola
+- soramon0/kirlia → surajgoraya/kirlia
+- CorraHeart/Swalot → cpfy/swalot
+- ethanimooney/swablu → cheeaun/swablu
+- ghazi-naceur/munchlax → rotemhacks/munchlax
+
 # Sun, 15 Dec 2024 00:56:50 GMT
 
 ## Added: 1
