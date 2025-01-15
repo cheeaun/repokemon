@@ -1,3 +1,28 @@
+# Wed, 15 Jan 2025 00:55:18 GMT
+
+## Added: 2
+
+- VowSoftware/starly
+- Team-Phoenix07/Nihilego
+
+## Removed: 7
+
+- Lacrymosaa/Chingling
+- rauhs/klang
+- eevee/klinklang
+- charmingruby/tynamo
+- 110Percent/beheeyem
+- lewisbarnes/axew
+- PanisSupraOmnia/cryogonal
+
+## Changed: 5
+
+- ThaBluNate/graveler → 2sugarcubes/graveler
+- kalxd/lickitung → EmptyOne4K/Lickitung
+- sam-atkins/slowking → poketch/Slowking
+- nenodias/corsola → twitchard/corsola
+- MattKim97/LOTAD → WillNye/lotad
+
 # Wed, 01 Jan 2025 00:54:29 GMT
 
 ## Added: 3
