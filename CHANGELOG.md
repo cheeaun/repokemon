@@ -1,3 +1,25 @@
+# Sat, 01 Feb 2025 00:56:25 GMT
+
+## Added: 9
+
+- b3nten/ivysaur
+- Lacrymosaa/Chingling
+- rauhs/klang
+- eevee/klinklang
+- charmingruby/tynamo
+- 110Percent/beheeyem
+- lewisbarnes/axew
+- PanisSupraOmnia/cryogonal
+- DeathRay1251/Charcadet
+
+## Changed: 5
+
+- silvncr/Celebi → po5/celebi
+- WillNye/lotad → thomasychen/LOTaD
+- GirardiMatheus/Gallade → ahhcash/gallade
+- karan-2006/Darkrai → BrianCassriel/Darkrai
+- gastrodon/cutiefly → SidneyRoberto9/cutiefly
+
 # Wed, 15 Jan 2025 00:55:18 GMT
 
 ## Added: 2
