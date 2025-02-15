@@ -1,3 +1,26 @@
+# Sat, 15 Feb 2025 00:53:37 GMT
+
+## Added: 1
+
+- FluffyLoaf254/swirlix
+
+## Removed: 3
+
+- CoralLeiCN/lairon
+- Nanoteck137/buzzwole
+- DeathRay1251/Charcadet
+
+## Changed: 8
+
+- Ajinkgupta/Blissey → aviary-developer/blissey
+- kumar8999/Pelipper → Lacrymosaa/Pelipper
+- SfAcodes/flygon → KrishBharadwaj5678/Flygon
+- justinleewells/metagross → ItCouldHaveBeenGreat/Metagross
+- Lacrymosaa/Chatot → SchusterLab/ChaToT
+- D2TA/Garchomp → wzen67/garchomp
+- FirezTheGreat/Arceus → 99nil/arceus
+- SimbaTheCuteDog/rowlet → vellalala/Rowlet
+
 # Sat, 01 Feb 2025 00:56:25 GMT
 
 ## Added: 9
