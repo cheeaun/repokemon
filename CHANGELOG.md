@@ -1,3 +1,20 @@
+# Sat, 01 Mar 2025 00:54:56 GMT
+
+## Added: 4
+
+- pl-PkMn/aurorus
+- darryldejong/Noivern
+- zqxwce/appletun
+- sxiang028/dachsbun
+
+## Changed: 5
+
+- 5310/exeggutor → michaeleisel/Exeggutor
+- thomasychen/LOTaD → WillNye/lotad
+- seg1-exe/rayquaza → bijij/rayquaza
+- 99nil/arceus → FirezTheGreat/Arceus
+- cloutsocks/komala → m-sanchez-dev/Komala
+
 # Sat, 15 Feb 2025 00:53:37 GMT
 
 ## Added: 1
