@@ -1,3 +1,18 @@
+# Tue, 01 Apr 2025 00:58:33 GMT
+
+## Added: 2
+
+- CodeHariK/solgaleo
+- pixeldesu/tinkaton
+
+## Changed: 5
+
+- rgbkrk/vaporeon → Hexcles/Vaporeon
+- picatz/flareon → jhsmith/flareon
+- oliviale/noctowl → GirardiMatheus/Noctowl
+- MeixDev/aipom → megagonlabs/aipom
+- ryaangu/shuckle → GirardiMatheus/Shuckle
+
 # Sat, 15 Mar 2025 00:54:42 GMT
 
 ## Changed: 4
