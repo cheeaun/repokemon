@@ -1,3 +1,18 @@
+# Tue, 15 Apr 2025 00:54:33 GMT
+
+## Added: 1
+
+- AmberByte/flamigo
+
+## Changed: 6
+
+- umangrmehta/pichu → Pedro-Moreno/Pichu
+- SchusterLab/ChaToT → Huddle01/chatot
+- kon3gor/oshawott → Nightwing000/oshawott
+- misterjinx/durant → lokimonoton/durant
+- PrayStarJirachi/Reshiram → WiLLzFPS/Reshiram
+- NotTheRealWallyx/Komala → cloutsocks/komala
+
 # Tue, 01 Apr 2025 00:58:33 GMT
 
 ## Added: 2
