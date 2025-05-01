@@ -1,3 +1,27 @@
+# Thu, 01 May 2025 00:57:44 GMT
+
+## Added: 4
+
+- konradag/remoraid
+- KryonicNapkin/snover
+- n3rr/Diggersby
+- cheeaun/stakataka
+
+## Removed: 1
+
+- ahhcash/grotle
+
+## Changed: 8
+
+- niharokz/pidgeotto → augustohp/pidgeotto
+- Pedro-Moreno/Pichu → umangrmehta/pichu
+- AstroCoder14/Aggron → SophieChenly/aggron
+- BrianCassriel/Darkrai → rastr1sr/Darkrai
+- Nightwing000/oshawott → Kesh17/Oshawott
+- BemusedLeader10/Vanilluxe → brightsole/vanilluxe
+- cloutsocks/komala → NotTheRealWallyx/Komala
+- SimonOneNineEight/lechonk → Kansloos12345/Lechonk
+
 # Tue, 15 Apr 2025 00:54:33 GMT
 
 ## Added: 1
