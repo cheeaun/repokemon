@@ -444,9 +444,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞���试平台",
 			"lang": "PHP",
-			"stars": 3927,
-			"watches": 3927,
-			"forks": 770
+			"stars": 3942,
+			"watches": 3942,
+			"forks": 771
 		}
 	},
 	{
@@ -721,8 +721,8 @@
 			"url": "https://github.com/MateriiApps/Gloom",
 			"desc": "GitHub reimagined with Material You",
 			"lang": "Kotlin",
-			"stars": 717,
-			"watches": 717,
+			"stars": 721,
+			"watches": 721,
 			"forks": 27
 		}
 	},
@@ -888,8 +888,8 @@
 			"url": "https://github.com/SmartKeyerror/Psyduck",
 			"desc": "Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计",
 			"lang": "Go",
-			"stars": 4435,
-			"watches": 4435,
+			"stars": 4436,
+			"watches": 4436,
 			"forks": 525
 		}
 	},
@@ -1127,8 +1127,8 @@
 			"url": "https://github.com/machamp-nlp/machamp",
 			"desc": "Repository with code for MaChAmp: https://aclanthology.org/2021.eacl-demos.22/",
 			"lang": "Python",
-			"stars": 86,
-			"watches": 86,
+			"stars": 87,
+			"watches": 87,
 			"forks": 22
 		}
 	},
@@ -1258,8 +1258,8 @@
 			"url": "https://github.com/ThinkR-open/golem",
 			"desc": "A Framework for Building Robust Shiny Apps ",
 			"lang": "R",
-			"stars": 923,
-			"watches": 923,
+			"stars": 922,
+			"watches": 922,
 			"forks": 131
 		}
 	},
@@ -1312,8 +1312,8 @@
 			"url": "https://github.com/ankane/slowpoke",
 			"desc": "Rack::Timeout enhancements for Rails",
 			"lang": "Ruby",
-			"stars": 373,
-			"watches": 373,
+			"stars": 374,
+			"watches": 374,
 			"forks": 15
 		}
 	},
@@ -1474,8 +1474,8 @@
 			"url": "https://github.com/pirovc/grimer",
 			"desc": "GRIMER performs analysis of microbiome studies and generates a portable and interactive dashboard integrating annotation, taxonomy and metadata with focus on contamination detection.",
 			"lang": "Python",
-			"stars": 22,
-			"watches": 22,
+			"stars": 23,
+			"watches": 23,
 			"forks": 3
 		}
 	},
@@ -1582,8 +1582,8 @@
 			"url": "https://github.com/v4p0r/gengar",
 			"desc": "Baixar videos do Alura para assistir offline e se aperfeiçoar. ",
 			"lang": "JavaScript",
-			"stars": 47,
-			"watches": 47,
+			"stars": 48,
+			"watches": 48,
 			"forks": 18
 		}
 	},
@@ -1600,9 +1600,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 795,
-			"watches": 795,
-			"forks": 155
+			"stars": 796,
+			"watches": 796,
+			"forks": 156
 		}
 	},
 	{
@@ -1636,8 +1636,8 @@
 			"url": "https://github.com/kmaork/hypno",
 			"desc": "Inject python code into a running python process",
 			"lang": "Python",
-			"stars": 91,
-			"watches": 91,
+			"stars": 92,
+			"watches": 92,
 			"forks": 12
 		}
 	},
@@ -1710,7 +1710,7 @@
 			"lang": "HTML",
 			"stars": 2104,
 			"watches": 2104,
-			"forks": 302
+			"forks": 301
 		}
 	},
 	{
@@ -1893,8 +1893,8 @@
 			"url": "https://github.com/SciresM/Rhydon",
 			"desc": "Save file editor for Pokemon Red/Blue/Yellow.",
 			"lang": "C#",
-			"stars": 81,
-			"watches": 81,
+			"stars": 82,
+			"watches": 82,
 			"forks": 14
 		}
 	},
@@ -2188,7 +2188,7 @@
 			"lang": "Python",
 			"stars": 155,
 			"watches": 155,
-			"forks": 12
+			"forks": 14
 		}
 	},
 	{
@@ -2240,9 +2240,9 @@
 			"url": "https://github.com/sabrogden/Ditto",
 			"desc": "Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.",
 			"lang": "C",
-			"stars": 4534,
-			"watches": 4534,
-			"forks": 243
+			"stars": 4577,
+			"watches": 4577,
+			"forks": 247
 		}
 	},
 	{
@@ -2258,8 +2258,8 @@
 			"url": "https://github.com/pizn/eevee",
 			"desc": "基于 github page 的在线编辑 blog 平台",
 			"lang": "JavaScript",
-			"stars": 175,
-			"watches": 175,
+			"stars": 176,
+			"watches": 176,
 			"forks": 29
 		}
 	},
@@ -2582,8 +2582,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1495,
-			"watches": 1495,
+			"stars": 1494,
+			"watches": 1494,
 			"forks": 28
 		}
 	},
@@ -2854,8 +2854,8 @@
 			"url": "https://github.com/orderbooktools/crobat",
 			"desc": "Academic python library that records changes to instances of the limit order book for pairs supported on the coinbase exchange.",
 			"lang": "Jupyter Notebook",
-			"stars": 50,
-			"watches": 50,
+			"stars": 51,
+			"watches": 51,
 			"forks": 14
 		}
 	},
@@ -2900,17 +2900,17 @@
 		"name": "Pichu",
 		"slug": "pichu",
 		"repo": {
-			"id": 114966945,
-			"name": "pichu",
-			"full_name": "umangrmehta/pichu",
-			"owner_name": "umangrmehta",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/32974691?v=4",
-			"url": "https://github.com/umangrmehta/pichu",
-			"desc": "Simplified version of Chess to recommend next move for the input board using Minimax Game Search Algorithm with Alpha-Beta Pruning",
-			"lang": "Python",
+			"id": 939665687,
+			"name": "Pichu",
+			"full_name": "Pedro-Moreno/Pichu",
+			"owner_name": "Pedro-Moreno",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/60677791?v=4",
+			"url": "https://github.com/Pedro-Moreno/Pichu",
+			"desc": "Projeto Web de compra de ingressos",
+			"lang": "CSS",
 			"stars": 1,
 			"watches": 1,
-			"forks": 1
+			"forks": 0
 		}
 	},
 	{
@@ -3688,8 +3688,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 195,
-			"watches": 195,
+			"stars": 198,
+			"watches": 198,
 			"forks": 30
 		}
 	},
@@ -3724,9 +3724,9 @@
 			"url": "https://github.com/mantinedev/mantine",
 			"desc": "A fully featured React components library",
 			"lang": "TypeScript",
-			"stars": 28465,
-			"watches": 28465,
-			"forks": 2022
+			"stars": 28664,
+			"watches": 28664,
+			"forks": 2037
 		}
 	},
 	{
@@ -3788,9 +3788,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1239,
-			"watches": 1239,
-			"forks": 131
+			"stars": 1247,
+			"watches": 1247,
+			"forks": 132
 		}
 	},
 	{
@@ -4045,7 +4045,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一���高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一��高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 457,
 			"watches": 457,
@@ -5083,7 +5083,7 @@
 			"owner_name": "Garrett7k",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/60473870?v=4",
 			"url": "https://github.com/Garrett7k/torkoal",
-			"desc": "Rust Discord Music Bot. Named after the Pokémon. ",
+			"desc": "Rust Discord Scryfall Bot. Named after the Pokémon. ",
 			"lang": "Rust",
 			"stars": 1,
 			"watches": 1,
@@ -5973,7 +5973,7 @@
 			"lang": "R",
 			"stars": 4,
 			"watches": 4,
-			"forks": 3
+			"forks": 4
 		}
 	},
 	{
@@ -6206,7 +6206,7 @@
 			"lang": "PHP",
 			"stars": 865,
 			"watches": 865,
-			"forks": 101
+			"forks": 102
 		}
 	},
 	{
@@ -6654,8 +6654,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 816,
-			"watches": 816,
+			"stars": 815,
+			"watches": 815,
 			"forks": 74
 		}
 	},
@@ -6909,7 +6909,7 @@
 			"lang": "CSS",
 			"stars": 9,
 			"watches": 9,
-			"forks": 20
+			"forks": 19
 		}
 	},
 	{
@@ -7022,9 +7022,9 @@
 			"url": "https://github.com/zeus-12/uxie",
 			"desc": "pdf reader app with note taking, annotations, collaboration, ai features (chat, flashcards generation w. ai-feedbacks), tts and ocr.",
 			"lang": "TypeScript",
-			"stars": 146,
-			"watches": 146,
-			"forks": 21
+			"stars": 153,
+			"watches": 153,
+			"forks": 22
 		}
 	},
 	{
@@ -7615,8 +7615,8 @@
 			"url": "https://github.com/midas-research/audino",
 			"desc": "Open source audio annotation tool for humans",
 			"lang": "JavaScript",
-			"stars": 1090,
-			"watches": 1090,
+			"stars": 1092,
+			"watches": 1092,
 			"forks": 134
 		}
 	},
@@ -8717,10 +8717,10 @@
 		"repo": {
 			"id": 623803539,
 			"name": "deino",
-			"full_name": "Night-Coder2/deino",
-			"owner_name": "Night-Coder2",
+			"full_name": "phoenixlegen/deino",
+			"owner_name": "phoenixlegen",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/84770654?v=4",
-			"url": "https://github.com/Night-Coder2/deino",
+			"url": "https://github.com/phoenixlegen/deino",
 			"desc": "nothing",
 			"lang": "JavaScript",
 			"stars": 0,
@@ -9326,8 +9326,8 @@
 			"url": "https://github.com/PretendoNetwork/Inkay",
 			"desc": "Wii U Pretendo Network patches (Aroma)",
 			"lang": "C++",
-			"stars": 177,
-			"watches": 177,
+			"stars": 176,
+			"watches": 176,
 			"forks": 43
 		}
 	},
@@ -9395,8 +9395,8 @@
 			"url": "https://github.com/mlm-games/CLauncher",
 			"desc": "Minimal Launcher for Android. Don't open random apps without thinking and reduce your screen time.",
 			"lang": "Kotlin",
-			"stars": 24,
-			"watches": 24,
+			"stars": 31,
+			"watches": 31,
 			"forks": 4
 		}
 	},
@@ -9533,9 +9533,9 @@
 			"url": "https://github.com/vberlier/goomy",
 			"desc": "A tiny, experimental ECS framework.",
 			"lang": "C++",
-			"stars": 12,
-			"watches": 12,
-			"forks": 0
+			"stars": 13,
+			"watches": 13,
+			"forks": 1
 		}
 	},
 	{
@@ -9672,11 +9672,11 @@
 		"slug": "noivern",
 		"repo": {
 			"id": 936695381,
-			"name": "Noivern",
-			"full_name": "darryldejong/Noivern",
+			"name": "noivern",
+			"full_name": "darryldejong/noivern",
 			"owner_name": "darryldejong",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/138932444?v=4",
-			"url": "https://github.com/darryldejong/Noivern",
+			"url": "https://github.com/darryldejong/noivern",
 			"desc": "React-based chatbot with customization options, designed for personalized user interactions",
 			"lang": "JavaScript",
 			"stars": 1,
@@ -10472,8 +10472,8 @@
 			"url": "https://github.com/Team-Phoenix07/Nihilego",
 			"desc": "A tool for creation of malicious DLL files used for DLL-Sideloading",
 			"lang": "Python",
-			"stars": 2,
-			"watches": 2,
+			"stars": 3,
+			"watches": 3,
 			"forks": 0
 		}
 	},
@@ -10597,8 +10597,8 @@
 			"url": "https://github.com/cheeaun/stakataka",
 			"desc": "A browser extension that visualizes (Service Worker) Cache Storage for web sites",
 			"lang": "JavaScript",
-			"stars": 7,
-			"watches": 7,
+			"stars": 8,
+			"watches": 8,
 			"forks": 0
 		}
 	},
@@ -11016,8 +11016,8 @@
 			"url": "https://github.com/zqxwce/appletun",
 			"desc": "A utility for creating and connecting to a local VPN for iOS devices allowing HTTP proxy without device supervision for all connections (not limited to Wi-Fi)",
 			"lang": "Python",
-			"stars": 35,
-			"watches": 35,
+			"stars": 36,
+			"watches": 36,
 			"forks": 1
 		}
 	},
@@ -11661,10 +11661,10 @@
 		"repo": {
 			"id": 890877204,
 			"name": "Lechonk",
-			"full_name": "Kansloos12345/Lechonk",
-			"owner_name": "Kansloos12345",
+			"full_name": "kanlilolilo/Lechonk",
+			"owner_name": "kanlilolilo",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/108752066?v=4",
-			"url": "https://github.com/Kansloos12345/Lechonk",
+			"url": "https://github.com/kanlilolilo/Lechonk",
 			"desc": "lechonk FAN club",
 			"lang": "Game Maker Language",
 			"stars": 0,
@@ -11978,8 +11978,8 @@
 			"url": "https://github.com/pixeldesu/tinkaton",
 			"desc": "Library to extract information from frontend frameworks",
 			"lang": "TypeScript",
-			"stars": 6,
-			"watches": 6,
+			"stars": 7,
+			"watches": 7,
 			"forks": 0
 		}
 	},
