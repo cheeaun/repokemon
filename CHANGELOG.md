@@ -1,3 +1,21 @@
+# Sun, 01 Jun 2025 00:57:31 GMT
+
+## Added: 3
+
+- meyerlabneuro/Nidorina
+- CoralLeiCN/lairon
+- softnetics/swadloon
+
+## Changed: 7
+
+- megagonlabs/aipom → MeixDev/aipom
+- fortheusers/sealeo → andrlime/sealeo
+- BNDKG/Conkeldurr → andrlime/conkeldurr
+- wycliff-ochieng/sandile → Sandlie101G12B/sandile
+- Grenco/Reuniclus → tabris-doll/reuniclus
+- Lacrymosaa/Noibat → Amin-Asadullayev/Noibat
+- NotTheRealWallyx/Komala → Strato-5/komala
+
 # Thu, 15 May 2025 00:54:13 GMT
 
 ## Changed: 1
