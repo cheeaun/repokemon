@@ -1,3 +1,15 @@
+# Sun, 15 Jun 2025 00:58:13 GMT
+
+## Added: 1
+
+- andrlime/wigglytuff
+
+## Changed: 3
+
+- Pedro-Moreno/Pichu → bahlo/pichu
+- bijij/rayquaza → iamVici/rayquaza
+- rastr1sr/Darkrai → monzey/darkrai
+
 # Sun, 01 Jun 2025 00:57:31 GMT
 
 ## Added: 3
