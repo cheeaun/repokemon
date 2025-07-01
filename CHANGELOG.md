@@ -1,3 +1,24 @@
+# Tue, 01 Jul 2025 00:56:54 GMT
+
+## Added: 6
+
+- BEAMMWorks/Nidoking
+- BEAMMWorks/Breloom
+- guilherme-marques-de-sa/nincada
+- Lacrymosaa/Honedge
+- travisfrels/fomantis
+- JadeSamLee/Glimmora
+
+## Changed: 7
+
+- Lacrymosaa/Slaking → ElementTech/slaking
+- BrownCoatAndKhakis/Seviper → Hochfrequenz/seviper
+- ItCouldHaveBeenGreat/Metagross → cbdevsec/Metagross
+- ivarley/jirachi → IfanTsai/jirachi
+- monzey/darkrai → rastr1sr/Darkrai
+- WaveHack/Meowstic → Majestic-Pako/meowstic
+- pl-PkMn/aurorus → irvingdinh/aurorus
+
 # Sun, 15 Jun 2025 00:58:13 GMT
 
 ## Added: 1
