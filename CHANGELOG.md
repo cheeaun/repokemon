@@ -1,3 +1,11 @@
+# Tue, 15 Jul 2025 00:56:32 GMT
+
+## Changed: 3
+
+- tvkhoa/hoothoot → replit-discord/HootHoot
+- MeixDev/aipom → megagonlabs/aipom
+- crnvl/cosmoem → syvlorg/cosmoem
+
 # Tue, 01 Jul 2025 00:56:54 GMT
 
 ## Added: 6
