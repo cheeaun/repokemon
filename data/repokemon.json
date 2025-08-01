@@ -10,7 +10,7 @@
 			"owner_name": "alibaba",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
 			"url": "https://github.com/alibaba/bulbasaur",
-			"desc": "💡 A pluggable, scalable process engine. You can use it to develop business-process, approval-process, retry-process and so on. Hope you enjoy it! 💖 可插拔的精简流程引擎，可快速实现��程、审批、业务失败重试等场景。",
+			"desc": "💡 A pluggable, scalable process engine. You can use it to develop business-process, approval-process, retry-process and so on. Hope you enjoy it! 💖 可插拔的精简流程引擎，可快速实现流程、审批、业务失败重试等场景。",
 			"lang": "Java",
 			"stars": 753,
 			"watches": 753,
@@ -66,8 +66,8 @@
 			"url": "https://github.com/att-innovate/charmander",
 			"desc": "Charmander Scheduler Lab - Mesos, Docker, InfluxDB, Spark",
 			"lang": "Shell",
-			"stars": 67,
-			"watches": 67,
+			"stars": 68,
+			"watches": 68,
 			"forks": 11
 		}
 	},
@@ -210,8 +210,8 @@
 			"url": "https://github.com/quintoandar/butterfree",
 			"desc": "A tool for building feature stores.",
 			"lang": "Python",
-			"stars": 308,
-			"watches": 308,
+			"stars": 310,
+			"watches": 310,
 			"forks": 36
 		}
 	},
@@ -222,10 +222,10 @@
 		"repo": {
 			"id": 130528965,
 			"name": "weedle",
-			"full_name": "rustwasm/weedle",
-			"owner_name": "rustwasm",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/37272798?v=4",
-			"url": "https://github.com/rustwasm/weedle",
+			"full_name": "wasm-bindgen/weedle",
+			"owner_name": "wasm-bindgen",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/220058222?v=4",
+			"url": "https://github.com/wasm-bindgen/weedle",
 			"desc": "A WebIDL Parser",
 			"lang": "WebIDL",
 			"stars": 45,
@@ -442,10 +442,10 @@
 			"owner_name": "zhuifengshaonianhanlu",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/18732692?v=4",
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
-			"desc": "一个好玩的Web安全-漏洞测试平台",
+			"desc": "一个好玩的Web安全-漏洞���试平台",
 			"lang": "PHP",
-			"stars": 4034,
-			"watches": 4034,
+			"stars": 4063,
+			"watches": 4063,
 			"forks": 772
 		}
 	},
@@ -598,8 +598,8 @@
 			"url": "https://github.com/suchipi/clefairy",
 			"desc": "Typed CLI argv parser and main function wrapper",
 			"lang": "TypeScript",
-			"stars": 4,
-			"watches": 4,
+			"stars": 5,
+			"watches": 5,
 			"forks": 0
 		}
 	},
@@ -760,9 +760,9 @@
 			"url": "https://github.com/MateriiApps/Gloom",
 			"desc": "GitHub reimagined with Material You",
 			"lang": "Kotlin",
-			"stars": 746,
-			"watches": 746,
-			"forks": 27
+			"stars": 754,
+			"watches": 754,
+			"forks": 26
 		}
 	},
 	{
@@ -909,8 +909,8 @@
 			"url": "https://github.com/rezkam/persian",
 			"desc": "Simple Python tool for Persian language localization.",
 			"lang": "Python",
-			"stars": 201,
-			"watches": 201,
+			"stars": 202,
+			"watches": 202,
 			"forks": 30
 		}
 	},
@@ -927,8 +927,8 @@
 			"url": "https://github.com/SmartKeyerror/Psyduck",
 			"desc": "Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计",
 			"lang": "Go",
-			"stars": 4440,
-			"watches": 4440,
+			"stars": 4442,
+			"watches": 4442,
 			"forks": 525
 		}
 	},
@@ -1078,7 +1078,7 @@
 			"lang": "Java",
 			"stars": 74,
 			"watches": 74,
-			"forks": 12
+			"forks": 10
 		}
 	},
 	{
@@ -1168,7 +1168,7 @@
 			"lang": "Python",
 			"stars": 87,
 			"watches": 87,
-			"forks": 23
+			"forks": 24
 		}
 	},
 	{
@@ -1297,9 +1297,9 @@
 			"url": "https://github.com/ThinkR-open/golem",
 			"desc": "A Framework for Building Robust Shiny Apps ",
 			"lang": "R",
-			"stars": 926,
-			"watches": 926,
-			"forks": 133
+			"stars": 927,
+			"watches": 927,
+			"forks": 134
 		}
 	},
 	{
@@ -1551,7 +1551,7 @@
 			"lang": "Shell",
 			"stars": 296,
 			"watches": 296,
-			"forks": 52
+			"forks": 53
 		}
 	},
 	{
@@ -1639,9 +1639,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 810,
-			"watches": 810,
-			"forks": 159
+			"stars": 814,
+			"watches": 814,
+			"forks": 160
 		}
 	},
 	{
@@ -1675,8 +1675,8 @@
 			"url": "https://github.com/kmaork/hypno",
 			"desc": "Inject python code into a running python process",
 			"lang": "Python",
-			"stars": 98,
-			"watches": 98,
+			"stars": 99,
+			"watches": 99,
 			"forks": 12
 		}
 	},
@@ -1693,8 +1693,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 308,
-			"watches": 308,
+			"stars": 307,
+			"watches": 307,
 			"forks": 20
 		}
 	},
@@ -2081,9 +2081,9 @@
 			"url": "https://github.com/megagonlabs/starmie",
 			"desc": "Resources for PVLDB 2023 submission",
 			"lang": "Python",
-			"stars": 25,
-			"watches": 25,
-			"forks": 11
+			"stars": 24,
+			"watches": 24,
+			"forks": 10
 		}
 	},
 	{
@@ -2225,8 +2225,8 @@
 			"url": "https://github.com/cohere-ai/magikarp",
 			"desc": "Code for the paper \"Fishing for Magikarp\"",
 			"lang": "Python",
-			"stars": 158,
-			"watches": 158,
+			"stars": 160,
+			"watches": 160,
 			"forks": 14
 		}
 	},
@@ -2279,9 +2279,9 @@
 			"url": "https://github.com/sabrogden/Ditto",
 			"desc": "Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.",
 			"lang": "C",
-			"stars": 4770,
-			"watches": 4770,
-			"forks": 255
+			"stars": 4826,
+			"watches": 4826,
+			"forks": 257
 		}
 	},
 	{
@@ -2477,9 +2477,9 @@
 			"url": "https://github.com/moonbeam-nyc/snorlax",
 			"desc": "wake and sleep Kubernetes deployments on a schedule",
 			"lang": "Go",
-			"stars": 320,
-			"watches": 320,
-			"forks": 23
+			"stars": 342,
+			"watches": 342,
+			"forks": 22
 		}
 	},
 	{
@@ -2531,9 +2531,9 @@
 			"url": "https://github.com/arfc/moltres",
 			"desc": "Repository for Moltres, a code for simulating Molten Salt Reactors",
 			"lang": "C++",
-			"stars": 69,
-			"watches": 69,
-			"forks": 41
+			"stars": 70,
+			"watches": 70,
+			"forks": 42
 		}
 	},
 	{
@@ -2621,8 +2621,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1497,
-			"watches": 1497,
+			"stars": 1496,
+			"watches": 1496,
 			"forks": 28
 		}
 	},
@@ -2893,8 +2893,8 @@
 			"url": "https://github.com/orderbooktools/crobat",
 			"desc": "Academic python library that records changes to instances of the limit order book for pairs supported on the coinbase exchange.",
 			"lang": "Jupyter Notebook",
-			"stars": 51,
-			"watches": 51,
+			"stars": 52,
+			"watches": 52,
 			"forks": 15
 		}
 	},
@@ -2921,17 +2921,17 @@
 		"name": "Lanturn",
 		"slug": "lanturn",
 		"repo": {
-			"id": 530078659,
+			"id": 892256946,
 			"name": "lanturn",
-			"full_name": "RoboSubLA/lanturn",
-			"owner_name": "RoboSubLA",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/61601144?v=4",
-			"url": "https://github.com/RoboSubLA/lanturn",
-			"desc": "A meta repository used for guides, scripts and other useful information for the Lanturn RoboSub",
-			"lang": "TeX",
-			"stars": 1,
-			"watches": 1,
-			"forks": 5
+			"full_name": "massivebird/lanturn",
+			"owner_name": "massivebird",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/33991373?v=4",
+			"url": "https://github.com/massivebird/lanturn",
+			"desc": "Website connectivity monitor written in Rust 🦀",
+			"lang": "Rust",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
 		}
 	},
 	{
@@ -3037,8 +3037,8 @@
 			"url": "https://github.com/exelotl/natu",
 			"desc": "Toolkit for writing Game Boy Advance games in Nim",
 			"lang": "Nim",
-			"stars": 237,
-			"watches": 237,
+			"stars": 238,
+			"watches": 238,
 			"forks": 6
 		}
 	},
@@ -3055,9 +3055,9 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 88,
-			"watches": 88,
-			"forks": 20
+			"stars": 89,
+			"watches": 89,
+			"forks": 21
 		}
 	},
 	{
@@ -3499,8 +3499,8 @@
 			"url": "https://github.com/OpenSooq/Gligar",
 			"desc": "📸Image Picker for Android, Pick an image from Gallery or Capture a new image with Camera.",
 			"lang": "Kotlin",
-			"stars": 157,
-			"watches": 157,
+			"stars": 158,
+			"watches": 158,
 			"forks": 36
 		}
 	},
@@ -3727,8 +3727,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 199,
-			"watches": 199,
+			"stars": 198,
+			"watches": 198,
 			"forks": 30
 		}
 	},
@@ -3763,9 +3763,9 @@
 			"url": "https://github.com/mantinedev/mantine",
 			"desc": "A fully featured React components library",
 			"lang": "TypeScript",
-			"stars": 29166,
-			"watches": 29166,
-			"forks": 2096
+			"stars": 29290,
+			"watches": 29290,
+			"forks": 2110
 		}
 	},
 	{
@@ -3827,9 +3827,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1283,
-			"watches": 1283,
-			"forks": 136
+			"stars": 1294,
+			"watches": 1294,
+			"forks": 141
 		}
 	},
 	{
@@ -4084,7 +4084,7 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一套���效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整的工程构建工具链，以及一��高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
 			"stars": 456,
 			"watches": 456,
@@ -4999,8 +4999,8 @@
 			"url": "https://github.com/megagonlabs/minun",
 			"desc": "Evaluating Counterfactual Explanations for Entity Matching",
 			"lang": "Python",
-			"stars": 3,
-			"watches": 3,
+			"stars": 4,
+			"watches": 4,
 			"forks": 3
 		}
 	},
@@ -5376,7 +5376,20 @@
 	{
 		"id": "340",
 		"name": "Whiscash",
-		"slug": "whiscash"
+		"slug": "whiscash",
+		"repo": {
+			"id": 930800478,
+			"name": "whiscash",
+			"full_name": "arixpsy/whiscash",
+			"owner_name": "arixpsy",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/42609059?v=4",
+			"url": "https://github.com/arixpsy/whiscash",
+			"desc": "Expense Tracker",
+			"lang": "TypeScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "341",
@@ -5792,16 +5805,16 @@
 		"name": "Metagross",
 		"slug": "metagross",
 		"repo": {
-			"id": 1003259465,
-			"name": "Metagross",
-			"full_name": "cbdevsec/Metagross",
-			"owner_name": "cbdevsec",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/180472274?v=4",
-			"url": "https://github.com/cbdevsec/Metagross",
-			"desc": "school-manager",
-			"lang": "JavaScript",
-			"stars": 0,
-			"watches": 0,
+			"id": 1023193992,
+			"name": "MetaGross",
+			"full_name": "AtomicScript/MetaGross",
+			"owner_name": "AtomicScript",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/46688597?v=4",
+			"url": "https://github.com/AtomicScript/MetaGross",
+			"desc": "Learning Alg Trading",
+			"lang": "Jupyter Notebook",
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -6082,16 +6095,16 @@
 		"name": "Empoleon",
 		"slug": "empoleon",
 		"repo": {
-			"id": 881725446,
-			"name": "Empoleon",
-			"full_name": "YlanzinhoY/Empoleon",
-			"owner_name": "YlanzinhoY",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/102574758?v=4",
-			"url": "https://github.com/YlanzinhoY/Empoleon",
-			"desc": "java's shortcut for intellij",
-			"lang": "Go",
-			"stars": 1,
-			"watches": 1,
+			"id": 1022122913,
+			"name": "empoleon",
+			"full_name": "empoleondev/empoleon",
+			"owner_name": "empoleondev",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/221365440?v=4",
+			"url": "https://github.com/empoleondev/empoleon",
+			"desc": "A fully featured SolidJS components library",
+			"lang": "TypeScript",
+			"stars": 6,
+			"watches": 6,
 			"forks": 0
 		}
 	},
@@ -6282,9 +6295,9 @@
 			"url": "https://github.com/terrylinooo/shieldon",
 			"desc": "Web Application Firewall (WAF) for PHP.",
 			"lang": "PHP",
-			"stars": 866,
-			"watches": 866,
-			"forks": 103
+			"stars": 869,
+			"watches": 869,
+			"forks": 104
 		}
 	},
 	{
@@ -6732,8 +6745,8 @@
 			"url": "https://github.com/raphamorim/lucario",
 			"desc": "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm",
 			"lang": "Vim Script",
-			"stars": 819,
-			"watches": 819,
+			"stars": 821,
+			"watches": 821,
 			"forks": 73
 		}
 	},
@@ -7100,8 +7113,8 @@
 			"url": "https://github.com/zeus-12/uxie",
 			"desc": "pdf reader app with note taking, annotations, collaboration, ai features (chat, flashcards generation w. ai-feedbacks), tts and ocr.",
 			"lang": "TypeScript",
-			"stars": 157,
-			"watches": 157,
+			"stars": 160,
+			"watches": 160,
 			"forks": 22
 		}
 	},
@@ -7693,9 +7706,9 @@
 			"url": "https://github.com/midas-research/audino",
 			"desc": "Open source audio annotation tool for humans",
 			"lang": "JavaScript",
-			"stars": 1103,
-			"watches": 1103,
-			"forks": 135
+			"stars": 1104,
+			"watches": 1104,
+			"forks": 136
 		}
 	},
 	{
@@ -7734,8 +7747,8 @@
 			"url": "https://github.com/andrlime/conkeldurr",
 			"desc": "OCaml CSV to TypeScript compiler to bundle static content into frontend deployments at build time (\"constexpr for React\")",
 			"lang": "OCaml",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -7859,7 +7872,20 @@
 	{
 		"id": "548",
 		"name": "Petilil",
-		"slug": "petilil"
+		"slug": "petilil",
+		"repo": {
+			"id": 1027730932,
+			"name": "petilil",
+			"full_name": "Fuyukai/petilil",
+			"owner_name": "Fuyukai",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/8783751?v=4",
+			"url": "https://github.com/Fuyukai/petilil",
+			"desc": "Lilligant's first stage of evolution",
+			"lang": "Java",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "549",
@@ -8119,14 +8145,14 @@
 		"name": "Zoroark",
 		"slug": "zoroark",
 		"repo": {
-			"id": 734906322,
-			"name": "zoroark",
-			"full_name": "frantjc/zoroark",
-			"owner_name": "frantjc",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/39865011?v=4",
-			"url": "https://github.com/frantjc/zoroark",
-			"desc": "Play Linux Steam games on macOS using containers.",
-			"lang": "Go",
+			"id": 1029151606,
+			"name": "Zoroark",
+			"full_name": "prodkiran/Zoroark",
+			"owner_name": "prodkiran",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/141020283?v=4",
+			"url": "https://github.com/prodkiran/Zoroark",
+			"desc": "Edgy illusion fox with main character energy",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -8137,17 +8163,17 @@
 		"name": "Minccino",
 		"slug": "minccino",
 		"repo": {
-			"id": 139065842,
-			"name": "Minccino",
-			"full_name": "dain98/Minccino",
-			"owner_name": "dain98",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/27909219?v=4",
-			"url": "https://github.com/dain98/Minccino",
-			"desc": "The Little Sister of Chinchou",
-			"lang": "Python",
+			"id": 852006818,
+			"name": "minccino",
+			"full_name": "pocketrice/minccino",
+			"owner_name": "pocketrice",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/79682953?v=4",
+			"url": "https://github.com/pocketrice/minccino",
+			"desc": "Main repo for all things mincci.no",
+			"lang": "HTML",
 			"stars": 1,
 			"watches": 1,
-			"forks": 1
+			"forks": 0
 		}
 	},
 	{
@@ -9185,7 +9211,20 @@
 	{
 		"id": "665",
 		"name": "Spewpa",
-		"slug": "spewpa"
+		"slug": "spewpa",
+		"repo": {
+			"id": 1022910298,
+			"name": "spewpa",
+			"full_name": "Sudhanshu084/spewpa",
+			"owner_name": "Sudhanshu084",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/219807449?v=4",
+			"url": "https://github.com/Sudhanshu084/spewpa",
+			"desc": "A Text-to-Image Generation Platform",
+			"lang": "TypeScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "666",
@@ -9499,8 +9538,8 @@
 			"url": "https://github.com/mlm-games/CLauncher",
 			"desc": "Minimal Launcher for Android. Don't open random apps without thinking and reduce your screen time.",
 			"lang": "Kotlin",
-			"stars": 36,
-			"watches": 36,
+			"stars": 38,
+			"watches": 38,
 			"forks": 4
 		}
 	},
@@ -10571,8 +10610,8 @@
 			"url": "https://github.com/LunalaProject/lunala",
 			"desc": "💎│ The official Lunala's source code! Yet a modern space exploration bot.",
 			"lang": "Kotlin",
-			"stars": 23,
-			"watches": 23,
+			"stars": 22,
+			"watches": 22,
 			"forks": 1
 		}
 	},
@@ -11230,8 +11269,8 @@
 			"url": "https://github.com/starchildluke/centiskorch",
 			"desc": "A Pokémon fan site dedicated to Centiskorch, a dual-type Fire/Bug Pokémon from the Galar region.",
 			"lang": "MDX",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -11538,7 +11577,7 @@
 			"owner_name": "diareuse",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/5982859?v=4",
 			"url": "https://github.com/diareuse/dragapult",
-			"desc": "i18n consumer & generator for managing translations across Android, iOS and Web",
+			"desc": "i18n consumer & generator for managing translations across Android, iOS, Web and Unity",
 			"lang": "Kotlin",
 			"stars": 0,
 			"watches": 0,

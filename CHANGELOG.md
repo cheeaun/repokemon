@@ -1,3 +1,19 @@
+# Fri, 01 Aug 2025 00:58:04 GMT
+
+## Added: 3
+
+- arixpsy/whiscash
+- Fuyukai/petilil
+- Sudhanshu084/spewpa
+
+## Changed: 5
+
+- RoboSubLA/lanturn → massivebird/lanturn
+- cbdevsec/Metagross → AtomicScript/MetaGross
+- YlanzinhoY/Empoleon → empoleondev/empoleon
+- frantjc/zoroark → prodkiran/Zoroark
+- dain98/Minccino → pocketrice/minccino
+
 # Tue, 15 Jul 2025 00:56:32 GMT
 
 ## Changed: 3
