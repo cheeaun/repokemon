@@ -1,3 +1,17 @@
+# Fri, 15 Aug 2025 00:56:19 GMT
+
+## Removed: 2
+
+- VowSoftware/starly
+- YamiKawa1/Applin
+
+## Changed: 4
+
+- chistopher/arbok → mr-karan/arbok
+- megagonlabs/aipom → 25icecreamflavors/AIpom
+- Kijimi/shaymin → Rhplx/Shaymin
+- Eyal-Davidi/Bewear → lucasadsr/bewear
+
 # Fri, 01 Aug 2025 00:58:04 GMT
 
 ## Added: 3
