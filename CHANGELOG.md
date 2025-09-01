@@ -1,3 +1,27 @@
+# Mon, 01 Sep 2025 00:58:50 GMT
+
+## Added: 4
+
+- VowSoftware/starly
+- callisto-lang/drifblim
+- Sudhanshu062/bronzor
+- kampootee/eternatus
+
+## Removed: 1
+
+- bronymiau/meowscarada
+
+## Changed: 8
+
+- ryn-cx/mankey → sakib/mankey
+- replit-discord/HootHoot → tvkhoa/hoothoot
+- andrlime/sealeo → fortheusers/sealeo
+- asallh/Scrafty → Kunal-Prasad657/Scrafty
+- prodkiran/Zoroark → Sudhanshu062/zoroark
+- Sudhanshu084/spewpa → Sudhanshu062/spewpa
+- lucasadsr/bewear → wmsalves/bewear
+- sxiang028/dachsbun → sudhanshu923/dachsbun
+
 # Fri, 15 Aug 2025 00:56:19 GMT
 
 ## Removed: 2
