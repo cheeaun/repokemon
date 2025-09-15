@@ -1,3 +1,28 @@
+# Mon, 15 Sep 2025 00:56:01 GMT
+
+## Added: 2
+
+- Sudhanshu062/mareanie
+- PCG06/iron-bundle
+
+## Removed: 5
+
+- BEAMMWorks/Nidoking
+- BEAMMWorks/Breloom
+- guilherme-marques-de-sa/nincada
+- n3rr/Diggersby
+- Lacrymosaa/Honedge
+
+## Changed: 7
+
+- ElementTech/slaking → Lacrymosaa/Slaking
+- iamVici/rayquaza → IndacoSub/Rayquaza
+- FelixSchlembach/torterra → rezmayyy/Torterra
+- Zarmakuizz/woobat → matills/woobat
+- Sudhanshu062/spewpa → Sudhanshu088/spewpa
+- irvingdinh/aurorus → pl-PkMn/aurorus
+- wmsalves/bewear → SpeedyxBR/bewear
+
 # Mon, 01 Sep 2025 00:58:50 GMT
 
 ## Added: 4
