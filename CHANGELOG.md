@@ -1,3 +1,36 @@
+# Wed, 01 Oct 2025 01:00:06 GMT
+
+## Added: 7
+
+- BEAMMWorks/Nidoking
+- BEAMMWorks/Breloom
+- guilherme-marques-de-sa/nincada
+- kabdullah27/absol
+- Toshinaki/mantyke
+- Lacrymosaa/Honedge
+- yu-test-gif/gholdengo
+
+## Removed: 3
+
+- Sudhanshu062/bronzor
+- GabrieleAsaro/Floette
+- Sudhanshu062/mareanie
+
+## Changed: 12
+
+- SuchayParimi/aerodactyl → Crater-Industries/AeroDactyl
+- massivebird/lanturn → guaiguadigital/lanturn
+- haskellcamargo/sudowoodo → megagonlabs/sudowoodo
+- Lacrymosaa/Slaking → ElementTech/slaking
+- IndacoSub/Rayquaza → iamVici/rayquaza
+- matills/woobat → matills/woobat
+- Sudhanshu062/zoroark → prodkiran/Zoroark
+- lewisbarnes/axew → anishfathima22/axew
+- Lacrymosaa/Meloetta → spktrm/meloetta
+- pl-PkMn/aurorus → irvingdinh/aurorus
+- SpeedyxBR/bewear → Gildaciolopes/Bewear
+- cmarcusdimarco/iron-valiant → azevedo-pedro/iron-valiant
+
 # Mon, 15 Sep 2025 00:56:01 GMT
 
 ## Added: 2
