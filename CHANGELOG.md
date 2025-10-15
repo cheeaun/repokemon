@@ -1,3 +1,25 @@
+# Wed, 15 Oct 2025 00:59:12 GMT
+
+## Added: 4
+
+- Saphereye/haxorus
+- alanolv/Froakie
+- GabrielN1404/Golisopod
+- Glauco-Siq/Chi-yu
+
+## Removed: 1
+
+- JadeSamLee/Glimmora
+
+## Changed: 6
+
+- vitoman8899/spearow → agas1/spearow
+- cpfy/swalot → CorraHeart/Swalot
+- KryonicNapkin/snover → PhilippZie/snover
+- Sudhanshu088/spewpa → sdnshu/spewpa
+- 52poke/meltan → mas72tatan-gif/meltan
+- enbaocao/pawmi → alanolv/Pawmi
+
 # Wed, 01 Oct 2025 01:00:06 GMT
 
 ## Added: 7
