@@ -15,7 +15,8 @@
     "node": ">=12.4"
   },
   "scripts": {
-    "pokemon": "curl https://www.pokemon.com/us/api/pokedex/kalos | json > data/pokemon-list.json",
+    "pokemon": "curl --http2 https://www.pokemon.com/us/api/pokedex/kalos | json > data/pokemon-list.json",
+    "pokemon-scrape": "./scripts/pokemon.sh | json result.content | json > data/pokemon-list.json",
     "repokemon": "node scripts/repokemon",
     "gemoji": "node scripts/gemoji.mjs",
     "min-repokemon": "node scripts/min-repokemon",
@@ -27,7 +28,7 @@
     "sprite-ci": "if [ \"$(git show $(git branch --show-current):data/repokemon.json | json length)\" -ne \"$(cat data/repokemon.json | json length)\" ]; then npm run fix-images && npm run sprite; fi",
     "css-min": "cleancss -O2 mergeSemantically:on pokemon.css -o pokemon.min.css",
     "changes": "echo \"$(node scripts/changes)\n\n$(cat CHANGELOG.md)\" > CHANGELOG.md",
-    "build-ci": "npm run pokemon && npm run repokemon && npm run gemoji && npm run images-ci && npm run sprite-ci && npm run min-repokemon && npm run css-min && npm run changes",
+    "build-ci": "npm run pokemon-scrape && npm run repokemon && npm run gemoji && npm run images-ci && npm run sprite-ci && npm run min-repokemon && npm run css-min && npm run changes",
     "start": "serve -l 1337"
   },
   "devDependencies": {
