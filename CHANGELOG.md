@@ -1,3 +1,17 @@
+# Sat, 01 Nov 2025 05:08:46 GMT
+
+## Removed: 1
+
+- arixpsy/whiscash
+
+## Changed: 5
+
+- weirdyang/drowzee → timtulang/Drowzee
+- rpokemon/Ampharos → Ampharos-FTC/Ampharos
+- crypto0627/Unown → dangkhoasdc/unown
+- therealnv6/heracross → Sreejith-nair511/HeraCross
+- Kesh17/Oshawott → Nightwing000/oshawott
+
 # Wed, 15 Oct 2025 00:59:12 GMT
 
 ## Added: 4
