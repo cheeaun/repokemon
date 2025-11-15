@@ -1,3 +1,20 @@
+# Sat, 15 Nov 2025 00:59:13 GMT
+
+## Added: 1
+
+- splinkered/FiniZen
+
+## Changed: 8
+
+- zamancer/bellsprout → braxtondiggs/Bellsprout
+- 25icecreamflavors/AIpom → megagonlabs/aipom
+- dangkhoasdc/unown → crypto0627/Unown
+- g2r4i6e8/beautifly → juli01100001/beautifly
+- icebear42069/wingull → HamzaZahid29/wingull
+- rauhs/klang → nashaudio/klang
+- rootapish/komala → NotTheRealWallyx/Komala
+- Yuki-git-test/gholdengo → Kesh17/gholdengo
+
 # Sat, 01 Nov 2025 05:08:46 GMT
 
 ## Removed: 1
