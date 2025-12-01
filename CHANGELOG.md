@@ -1,3 +1,25 @@
+# Mon, 01 Dec 2025 01:00:43 GMT
+
+## Added: 4
+
+- infat0x/magby
+- shanmukanaks/snivy
+- ruanwensheng/serperior
+- itcodehery/Heliolisk
+
+## Removed: 2
+
+- VowSoftware/starly
+- polygonal-stew/swirlix
+
+## Changed: 5
+
+- veilm/beedrill → Metallipod/beedrill
+- Ampharos-FTC/Ampharos → Mathijs-Vanrespaille/AMPHAROS
+- juli01100001/beautifly → g2r4i6e8/beautifly
+- rastr1sr/Darkrai → BrianCassriel/Darkrai
+- NotTheRealWallyx/Komala → rootapish/komala
+
 # Sat, 15 Nov 2025 00:59:13 GMT
 
 ## Added: 1
