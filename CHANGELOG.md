@@ -1,3 +1,10 @@
+# Mon, 15 Dec 2025 01:00:50 GMT
+
+## Changed: 2
+
+- cvishnuvardhan02/dugtrio → Fred-Porlock/Dugtrio
+- Tiernebre/ninjask → waldh4ri/ninjask
+
 # Mon, 01 Dec 2025 01:00:43 GMT
 
 ## Added: 4
