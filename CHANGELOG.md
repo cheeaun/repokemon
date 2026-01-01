@@ -1,3 +1,20 @@
+# Thu, 01 Jan 2026 01:00:28 GMT
+
+## Added: 5
+
+- unifuu/weezing
+- unifuu/spiritomb
+- unifuu/bounsweet
+- Lacrymosaa/Skeledirge
+- unifuu/maushold
+
+## Changed: 4
+
+- guaiguadigital/lanturn → massivebird/lanturn
+- Bebao24/ShellOS → Juicywoowowow/ShellOS
+- Nightwing000/oshawott → geedbee/oshawott
+- bijij/malamar → MichaelRuns/malamar
+
 # Mon, 15 Dec 2025 01:00:50 GMT
 
 ## Changed: 2
