@@ -1,3 +1,24 @@
+# Thu, 15 Jan 2026 00:59:28 GMT
+
+## Added: 2
+
+- reown/seaking
+- aaaiuiuiu/rufflet
+
+## Removed: 1
+
+- unifuu/spiritomb
+
+## Changed: 7
+
+- ThinkR-open/golem → golemcloud/golem
+- crypto0627/Unown → tristanlievens/unown
+- Rhplx/Shaymin → Bittorn/Shaymin
+- ruanwensheng/serperior → ruanwensheng/serperior
+- MichaelRuns/malamar → irvingdinh/malamar
+- rootapish/komala → cloutsocks/komala
+- hiimfish/pawmo → ksiwon/pawmo
+
 # Thu, 01 Jan 2026 01:00:28 GMT
 
 ## Added: 5

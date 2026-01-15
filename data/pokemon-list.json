@@ -3030,8 +3030,8 @@
   },
   {
     "abilities": [
-      "Natural Cure",
-      "Illuminate"
+      "Illuminate",
+      "Natural Cure"
     ],
     "detailPageURL": "/us/pokedex/starmie",
     "weight": 176.4,
@@ -11228,8 +11228,8 @@
   },
   {
     "abilities": [
-      "Inner Focus",
-      "Steadfast"
+      "Steadfast",
+      "Inner Focus"
     ],
     "detailPageURL": "/us/pokedex/lucario",
     "weight": 119,
@@ -13672,8 +13672,8 @@
   },
   {
     "abilities": [
-      "Swarm",
-      "Poison Point"
+      "Poison Point",
+      "Swarm"
     ],
     "detailPageURL": "/us/pokedex/scolipede",
     "weight": 442,
@@ -17285,8 +17285,8 @@
   },
   {
     "abilities": [
-      "Suction Cups",
-      "Contrary"
+      "Contrary",
+      "Suction Cups"
     ],
     "detailPageURL": "/us/pokedex/malamar",
     "weight": 103.6,
@@ -17337,8 +17337,8 @@
   },
   {
     "abilities": [
-      "Sniper",
-      "Tough Claws"
+      "Tough Claws",
+      "Sniper"
     ],
     "detailPageURL": "/us/pokedex/barbaracle",
     "weight": 211.6,
@@ -18093,7 +18093,8 @@
   },
   {
     "abilities": [
-      "Aura Break"
+      "Aura Break",
+      "Power Construct"
     ],
     "detailPageURL": "/us/pokedex/zygarde",
     "weight": 672.4,
@@ -19671,8 +19672,8 @@
   },
   {
     "abilities": [
-      "Sap Sipper",
-      "Berserk"
+      "Berserk",
+      "Sap Sipper"
     ],
     "detailPageURL": "/us/pokedex/drampa",
     "weight": 407.9,
