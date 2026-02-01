@@ -1,3 +1,26 @@
+# Sun, 01 Feb 2026 01:04:26 GMT
+
+## Added: 1
+
+- MasterBhuvnesh/Furfrou
+
+## Removed: 4
+
+- unifuu/weezing
+- alanolv/Froakie
+- unifuu/bounsweet
+- unifuu/maushold
+
+## Changed: 7
+
+- Crater-Industries/AeroDactyl → SuchayParimi/aerodactyl
+- Juicywoowowow/ShellOS → ENux-Distro/ShellOS
+- wzen67/garchomp → gardesk/garchomp
+- shanmukanaks/snivy → literallyrounak/Snivy
+- WiLLzFPS/Reshiram → alanolv/reshiram
+- irvingdinh/malamar → malamar-dev/malamar
+- alanolv/Pawmi → enbaocao/pawmi
+
 # Thu, 15 Jan 2026 00:59:28 GMT
 
 ## Added: 2
