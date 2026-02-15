@@ -1,3 +1,25 @@
+# Sun, 15 Feb 2026 01:05:32 GMT
+
+## Added: 3
+
+- irvingdinh/espurr
+- codyuehara/Vikavolt
+- Alexcairo2/Pyukumuku
+
+## Removed: 1
+
+- Saphereye/haxorus
+
+## Changed: 7
+
+- massivebird/lanturn → guaiguadigital/lanturn
+- TheJoshGriffith/Houndoom → IvanShishkin/houndoom
+- ENux-Distro/ShellOS → MattiasICP/ShellOS
+- Sowiriro/Manaphy → RunTime256/Manaphy
+- o-p/morpeko → SamwiseByte/Morpeko
+- ShiftCodeEU/Regieleki → irvingdinh/regieleki
+- Kesh17/gholdengo → Yuki-git-test/gholdengo
+
 # Sun, 01 Feb 2026 01:04:26 GMT
 
 ## Added: 1
