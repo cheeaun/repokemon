@@ -1,3 +1,22 @@
+# Sun, 01 Mar 2026 01:03:04 GMT
+
+## Added: 2
+
+- gsonolento/aegislash
+- didicoh-svg/Miraidon
+
+## Removed: 1
+
+- cloutsocks/komala
+
+## Changed: 5
+
+- halilkaya/golbat → visible/golbat
+- michaeleisel/Exeggutor → 5310/exeggutor
+- CristianFernan/Electabuzz → Omii345/electabuzz
+- arpan29/bagon → taibamohammadfrancisco-oss/bagon
+- SamwiseByte/Morpeko → o-p/morpeko
+
 # Sun, 15 Feb 2026 01:05:32 GMT
 
 ## Added: 3
