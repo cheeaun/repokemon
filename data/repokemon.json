@@ -12,9 +12,9 @@
 			"url": "https://github.com/alibaba/bulbasaur",
 			"desc": "💡 A pluggable, scalable process engine. You can use it to develop business-process, approval-process, retry-process and so on. Hope you enjoy it! 💖 可插拔的精简流程引擎，可快速实现流程、审批、业务失败重试等场景。",
 			"lang": "Java",
-			"stars": 756,
-			"watches": 756,
-			"forks": 240
+			"stars": 755,
+			"watches": 755,
+			"forks": 241
 		}
 	},
 	{
@@ -120,8 +120,8 @@
 			"url": "https://github.com/grutz/squirtle",
 			"desc": "Squirtle the Browser-based NTLM Attack Toolkit",
 			"lang": "Ruby",
-			"stars": 17,
-			"watches": 17,
+			"stars": 16,
+			"watches": 16,
 			"forks": 4
 		}
 	},
@@ -210,8 +210,8 @@
 			"url": "https://github.com/quintoandar/butterfree",
 			"desc": "A tool for building feature stores.",
 			"lang": "Python",
-			"stars": 317,
-			"watches": 317,
+			"stars": 318,
+			"watches": 318,
 			"forks": 38
 		}
 	},
@@ -444,9 +444,9 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 4323,
-			"watches": 4323,
-			"forks": 785
+			"stars": 4338,
+			"watches": 4338,
+			"forks": 786
 		}
 	},
 	{
@@ -724,8 +724,8 @@
 			"url": "https://github.com/visible/golbat",
 			"desc": "metadata inspector for developers",
 			"lang": "TypeScript",
-			"stars": 31,
-			"watches": 31,
+			"stars": 32,
+			"watches": 32,
 			"forks": 3
 		}
 	},
@@ -742,8 +742,8 @@
 			"url": "https://github.com/puppylpg/oddish",
 			"desc": "Crawl csgo skin info from `buff.163.com` and steam, then find the most suitable one to buy from the former and to sell to the latter.",
 			"lang": "Python",
-			"stars": 323,
-			"watches": 323,
+			"stars": 321,
+			"watches": 321,
 			"forks": 78
 		}
 	},
@@ -760,9 +760,9 @@
 			"url": "https://github.com/MateriiApps/Gloom",
 			"desc": "GitHub reimagined with Material You",
 			"lang": "Kotlin",
-			"stars": 775,
-			"watches": 775,
-			"forks": 30
+			"stars": 780,
+			"watches": 780,
+			"forks": 31
 		}
 	},
 	{
@@ -1053,8 +1053,8 @@
 			"url": "https://github.com/FlashLight13/poliwhirl",
 			"desc": "Little image processing library",
 			"lang": "Kotlin",
-			"stars": 24,
-			"watches": 24,
+			"stars": 25,
+			"watches": 25,
 			"forks": 4
 		}
 	},
@@ -1279,8 +1279,8 @@
 			"url": "https://github.com/indig3na/Graveler",
 			"desc": "Polymarket trading bot that profits from BTC price lag",
 			"lang": "Rust",
-			"stars": 0,
-			"watches": 0,
+			"stars": 1,
+			"watches": 1,
 			"forks": 0
 		}
 	},
@@ -1297,9 +1297,9 @@
 			"url": "https://github.com/golemcloud/golem",
 			"desc": "Golem Cloud is the agent-native platform for building AI agents and distributed applications that never lose state, never duplicate work, and never require you to build infrastructure.",
 			"lang": "Rust",
-			"stars": 979,
-			"watches": 979,
-			"forks": 187
+			"stars": 986,
+			"watches": 986,
+			"forks": 192
 		}
 	},
 	{
@@ -1459,8 +1459,8 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1241,
-			"watches": 1241,
+			"stars": 1240,
+			"watches": 1240,
 			"forks": 46
 		}
 	},
@@ -1639,9 +1639,9 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 850,
-			"watches": 850,
-			"forks": 165
+			"stars": 851,
+			"watches": 851,
+			"forks": 164
 		}
 	},
 	{
@@ -1659,7 +1659,7 @@
 			"lang": "Jupyter Notebook",
 			"stars": 4,
 			"watches": 4,
-			"forks": 3
+			"forks": 4
 		}
 	},
 	{
@@ -1747,9 +1747,9 @@
 			"url": "https://github.com/electrode-io/electrode",
 			"desc": "Web applications with node.js and React",
 			"lang": "HTML",
-			"stars": 2112,
-			"watches": 2112,
-			"forks": 303
+			"stars": 2111,
+			"watches": 2111,
+			"forks": 300
 		}
 	},
 	{
@@ -2096,7 +2096,7 @@
 			"lang": "Python",
 			"stars": 27,
 			"watches": 27,
-			"forks": 12
+			"forks": 11
 		}
 	},
 	{
@@ -2292,9 +2292,9 @@
 			"url": "https://github.com/sabrogden/Ditto",
 			"desc": "Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.",
 			"lang": "C",
-			"stars": 6201,
-			"watches": 6201,
-			"forks": 368
+			"stars": 6249,
+			"watches": 6249,
+			"forks": 377
 		}
 	},
 	{
@@ -2346,8 +2346,8 @@
 			"url": "https://github.com/fluffgfx/jolteon",
 			"desc": "💡 Babel + Electron + React + Browserify + SASS application stack. Electron Made Easy ™️",
 			"lang": "JavaScript",
-			"stars": 943,
-			"watches": 943,
+			"stars": 938,
+			"watches": 938,
 			"forks": 24
 		}
 	},
@@ -2434,10 +2434,10 @@
 			"owner_name": "kokimame",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/20820227?v=4",
 			"url": "https://github.com/kokimame/kabuto",
-			"desc": "日本株取��Bot開発 | freqtrade for Japanese stock trading",
+			"desc": "日本株取引Bot開発 | freqtrade for Japanese stock trading",
 			"lang": "Python",
-			"stars": 17,
-			"watches": 17,
+			"stars": 18,
+			"watches": 18,
 			"forks": 2
 		}
 	},
@@ -2634,8 +2634,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1491,
-			"watches": 1491,
+			"stars": 1492,
+			"watches": 1492,
 			"forks": 28
 		}
 	},
@@ -3081,8 +3081,8 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 92,
-			"watches": 92,
+			"stars": 93,
+			"watches": 93,
 			"forks": 26
 		}
 	},
@@ -3753,8 +3753,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 201,
-			"watches": 201,
+			"stars": 200,
+			"watches": 200,
 			"forks": 31
 		}
 	},
@@ -3789,9 +3789,9 @@
 			"url": "https://github.com/mantinedev/mantine",
 			"desc": "A fully featured React components library",
 			"lang": "TypeScript",
-			"stars": 30871,
-			"watches": 30871,
-			"forks": 2269
+			"stars": 30999,
+			"watches": 30999,
+			"forks": 2280
 		}
 	},
 	{
@@ -3855,7 +3855,7 @@
 			"lang": "JavaScript",
 			"stars": 1439,
 			"watches": 1439,
-			"forks": 165
+			"forks": 167
 		}
 	},
 	{
@@ -4612,8 +4612,8 @@
 			"url": "https://github.com/studiosi/masquerain",
 			"desc": "Masquerain is a tool to convert images into Teletext stills, as per Teletext Level 1 standard.",
 			"lang": "C++",
-			"stars": 8,
-			"watches": 8,
+			"stars": 9,
+			"watches": 9,
 			"forks": 2
 		}
 	},
@@ -5182,7 +5182,20 @@
 	{
 		"id": "322",
 		"name": "Numel",
-		"slug": "numel"
+		"slug": "numel",
+		"repo": {
+			"id": 1199949266,
+			"name": "numel",
+			"full_name": "tawfeeq1227/numel",
+			"owner_name": "tawfeeq1227",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/227375577?v=4",
+			"url": "https://github.com/tawfeeq1227/numel",
+			"desc": "travel",
+			"lang": "TypeScript",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "323",
@@ -6321,8 +6334,8 @@
 			"url": "https://github.com/terrylinooo/shieldon",
 			"desc": "Web Application Firewall (WAF) for PHP.",
 			"lang": "PHP",
-			"stars": 871,
-			"watches": 871,
+			"stars": 872,
+			"watches": 872,
 			"forks": 107
 		}
 	},
@@ -6374,7 +6387,7 @@
 			"lang": "Python",
 			"stars": 6,
 			"watches": 6,
-			"forks": 6
+			"forks": 8
 		}
 	},
 	{
@@ -7147,8 +7160,8 @@
 			"url": "https://github.com/xgzlucario/rotom",
 			"desc": "A tiny Redis server built with Golang, compatible with RESP protocols.",
 			"lang": "Go",
-			"stars": 40,
-			"watches": 40,
+			"stars": 41,
+			"watches": 41,
 			"forks": 4
 		}
 	},
@@ -7167,7 +7180,7 @@
 			"lang": "TypeScript",
 			"stars": 185,
 			"watches": 185,
-			"forks": 26
+			"forks": 28
 		}
 	},
 	{
@@ -7453,7 +7466,20 @@
 	{
 		"id": "498",
 		"name": "Tepig",
-		"slug": "tepig"
+		"slug": "tepig",
+		"repo": {
+			"id": 1191066860,
+			"name": "TEPIG",
+			"full_name": "aleczzhang/TEPIG",
+			"owner_name": "aleczzhang",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/107577299?v=4",
+			"url": "https://github.com/aleczzhang/TEPIG",
+			"desc": "Scalar-on-Tensor Regression with Unbalanced Tensor Predictors",
+			"lang": "Python",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "499",
@@ -7784,9 +7810,9 @@
 			"url": "https://github.com/midas-research/audino",
 			"desc": "Open source audio annotation tool for humans",
 			"lang": "TypeScript",
-			"stars": 1132,
-			"watches": 1132,
-			"forks": 141
+			"stars": 1131,
+			"watches": 1131,
+			"forks": 142
 		}
 	},
 	{
@@ -8545,8 +8571,8 @@
 			"url": "https://github.com/nashaudio/klang",
 			"desc": "A modern C++ dialect for audio processing.",
 			"lang": "C++",
-			"stars": 113,
-			"watches": 113,
+			"stars": 114,
+			"watches": 114,
 			"forks": 5
 		}
 	},
@@ -8898,7 +8924,20 @@
 	{
 		"id": "631",
 		"name": "Heatmor",
-		"slug": "heatmor"
+		"slug": "heatmor",
+		"repo": {
+			"id": 1204177674,
+			"name": "heatmor",
+			"full_name": "wrinkledeth/heatmor",
+			"owner_name": "wrinkledeth",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/97406595?v=4",
+			"url": "https://github.com/wrinkledeth/heatmor",
+			"desc": "● Terminal system monitor for temps, fans, CPU, and GPU stats",
+			"lang": "Python",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "632",
@@ -9795,14 +9834,14 @@
 		"name": "Goodra",
 		"slug": "goodra",
 		"repo": {
-			"id": 1180328736,
+			"id": 315357073,
 			"name": "goodra",
-			"full_name": "santana-org/goodra",
-			"owner_name": "santana-org",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/261693066?v=4",
-			"url": "https://github.com/santana-org/goodra",
-			"desc": "🧬 Tool to scan dev environments and recover disk space.",
-			"lang": "TypeScript",
+			"full_name": "lar-dragon/goodra",
+			"owner_name": "lar-dragon",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/7447335?v=4",
+			"url": "https://github.com/lar-dragon/goodra",
+			"desc": "Automatise work witch Laradock",
+			"lang": "Shell",
 			"stars": 1,
 			"watches": 1,
 			"forks": 0
@@ -12066,7 +12105,20 @@
 	{
 		"id": "924",
 		"name": "Tandemaus",
-		"slug": "tandemaus"
+		"slug": "tandemaus",
+		"repo": {
+			"id": 1201488795,
+			"name": "tandemaus",
+			"full_name": "charmingruby/tandemaus",
+			"owner_name": "charmingruby",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/87430386?v=4",
+			"url": "https://github.com/charmingruby/tandemaus",
+			"desc": "Gossip Protocol sample, made with Lua.",
+			"lang": "Lua",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "925",

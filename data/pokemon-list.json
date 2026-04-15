@@ -7,8 +7,8 @@
     "weight": 15.2,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0001",
@@ -33,8 +33,8 @@
     "weight": 28.7,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0002",
@@ -59,8 +59,8 @@
     "weight": 220.5,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0003",
@@ -85,8 +85,8 @@
     "weight": 18.7,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0004",
     "height": 24,
@@ -109,8 +109,8 @@
     "weight": 41.9,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0005",
     "height": 43,
@@ -276,9 +276,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0012",
     "height": 43,
@@ -303,8 +303,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0013",
     "height": 12,
@@ -329,8 +329,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0014",
     "height": 24,
@@ -355,8 +355,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0015",
     "height": 39,
@@ -381,8 +381,8 @@
     "weight": 4,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0016",
     "height": 12,
@@ -407,8 +407,8 @@
     "weight": 66.1,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0017",
     "height": 43,
@@ -433,8 +433,8 @@
     "weight": 87.1,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0018",
     "height": 59,
@@ -504,8 +504,8 @@
     "weight": 4.4,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0021",
     "height": 12,
@@ -529,8 +529,8 @@
     "weight": 83.8,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0022",
     "height": 47,
@@ -645,8 +645,8 @@
     "detailPageURL": "/us/pokedex/sandshrew",
     "weight": 26.5,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0027",
@@ -669,8 +669,8 @@
     "detailPageURL": "/us/pokedex/sandslash",
     "weight": 65,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0028",
@@ -743,8 +743,8 @@
     "weight": 132.3,
     "weakness": [
       "Water",
-      "Ice",
       "Ground",
+      "Ice",
       "Psychic"
     ],
     "number": "0031",
@@ -818,8 +818,8 @@
     "weight": 136.7,
     "weakness": [
       "Water",
-      "Ice",
       "Ground",
+      "Ice",
       "Psychic"
     ],
     "number": "0034",
@@ -892,8 +892,8 @@
     "weight": 21.8,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0037",
     "height": 24,
@@ -916,8 +916,8 @@
     "weight": 43.9,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0038",
     "height": 43,
@@ -990,9 +990,9 @@
     "weight": 16.5,
     "weakness": [
       "Electric",
+      "Rock",
       "Ice",
-      "Psychic",
-      "Rock"
+      "Psychic"
     ],
     "number": "0041",
     "height": 31,
@@ -1016,9 +1016,9 @@
     "weight": 121.3,
     "weakness": [
       "Electric",
+      "Rock",
       "Ice",
-      "Psychic",
-      "Rock"
+      "Psychic"
     ],
     "number": "0042",
     "height": 63,
@@ -1042,8 +1042,8 @@
     "weight": 11.9,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0043",
@@ -1068,8 +1068,8 @@
     "weight": 19,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0044",
@@ -1094,8 +1094,8 @@
     "weight": 41,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0045",
@@ -1121,11 +1121,11 @@
     "weight": 11.9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
-      "Rock"
+      "Flying",
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0046",
     "height": 12,
@@ -1150,11 +1150,11 @@
     "weight": 65,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
-      "Rock"
+      "Flying",
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0047",
     "height": 39,
@@ -1180,8 +1180,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0048",
     "height": 39,
@@ -1207,8 +1207,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0049",
     "height": 59,
@@ -1232,8 +1232,8 @@
     "detailPageURL": "/us/pokedex/diglett",
     "weight": 1.8,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0050",
@@ -1257,8 +1257,8 @@
     "detailPageURL": "/us/pokedex/dugtrio",
     "weight": 73.4,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0051",
@@ -1427,8 +1427,8 @@
     "weight": 41.9,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0058",
     "height": 28,
@@ -1452,8 +1452,8 @@
     "weight": 341.7,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0059",
     "height": 75,
@@ -1702,8 +1702,8 @@
     "weight": 8.8,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0069",
@@ -1728,8 +1728,8 @@
     "weight": 14.1,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0070",
@@ -1754,8 +1754,8 @@
     "weight": 34.2,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0071",
@@ -1832,11 +1832,11 @@
     "detailPageURL": "/us/pokedex/geodude",
     "weight": 44.1,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Ground",
       "Ice",
       "Fighting",
-      "Ground",
       "Steel"
     ],
     "number": "0074",
@@ -1861,11 +1861,11 @@
     "detailPageURL": "/us/pokedex/graveler",
     "weight": 231.5,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Ground",
       "Ice",
       "Fighting",
-      "Ground",
       "Steel"
     ],
     "number": "0075",
@@ -1890,11 +1890,11 @@
     "detailPageURL": "/us/pokedex/golem",
     "weight": 661.4,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Ground",
       "Ice",
       "Fighting",
-      "Ground",
       "Steel"
     ],
     "number": "0076",
@@ -1920,8 +1920,8 @@
     "weight": 66.1,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0077",
     "height": 39,
@@ -1945,8 +1945,8 @@
     "weight": 209.4,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0078",
     "height": 67,
@@ -2026,8 +2026,8 @@
     "weight": 13.2,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0081",
     "height": 12,
@@ -2052,8 +2052,8 @@
     "weight": 132.3,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0082",
     "height": 39,
@@ -2078,8 +2078,8 @@
     "weight": 33.1,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0083",
     "height": 31,
@@ -2104,8 +2104,8 @@
     "weight": 86.4,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0084",
     "height": 55,
@@ -2130,8 +2130,8 @@
     "weight": 187.8,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0085",
     "height": 71,
@@ -2181,8 +2181,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Rock"
+      "Rock",
+      "Fighting"
     ],
     "number": "0087",
     "height": 67,
@@ -2280,8 +2280,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Rock"
+      "Rock",
+      "Fighting"
     ],
     "number": "0091",
     "height": 59,
@@ -2383,11 +2383,11 @@
     "detailPageURL": "/us/pokedex/onix",
     "weight": 463,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Ground",
       "Ice",
       "Fighting",
-      "Ground",
       "Steel"
     ],
     "number": "0095",
@@ -2556,10 +2556,10 @@
     "weight": 5.5,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
+      "Poison",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -2585,10 +2585,10 @@
     "weight": 264.6,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
+      "Poison",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -2614,8 +2614,8 @@
     "detailPageURL": "/us/pokedex/cubone",
     "weight": 14.3,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0104",
@@ -2639,8 +2639,8 @@
     "detailPageURL": "/us/pokedex/marowak",
     "weight": 99.2,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0105",
@@ -2785,11 +2785,11 @@
     "detailPageURL": "/us/pokedex/rhyhorn",
     "weight": 253.5,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Ground",
       "Ice",
       "Fighting",
-      "Ground",
       "Steel"
     ],
     "number": "0111",
@@ -2814,11 +2814,11 @@
     "detailPageURL": "/us/pokedex/rhydon",
     "weight": 264.6,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Ground",
       "Ice",
       "Fighting",
-      "Ground",
       "Steel"
     ],
     "number": "0112",
@@ -2867,10 +2867,10 @@
     "weight": 77.2,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0114",
     "height": 39,
@@ -3092,9 +3092,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0123",
     "height": 59,
@@ -3169,8 +3169,8 @@
     "weight": 98.1,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0126",
     "height": 51,
@@ -3290,8 +3290,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Rock"
+      "Rock",
+      "Fighting"
     ],
     "number": "0131",
     "height": 98,
@@ -3405,8 +3405,8 @@
     "weight": 55.1,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0136",
     "height": 35,
@@ -3454,8 +3454,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0138",
     "height": 16,
@@ -3481,8 +3481,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0139",
     "height": 39,
@@ -3508,8 +3508,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0140",
     "height": 20,
@@ -3535,8 +3535,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0141",
     "height": 51,
@@ -3562,8 +3562,8 @@
     "weakness": [
       "Water",
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Steel"
     ],
     "number": "0142",
@@ -3636,8 +3636,8 @@
     "detailPageURL": "/us/pokedex/zapdos",
     "weight": 116,
     "weakness": [
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0145",
     "height": 63,
@@ -3733,8 +3733,8 @@
     "detailPageURL": "/us/pokedex/dragonite",
     "weight": 463,
     "weakness": [
-      "Ice",
       "Rock",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -3808,10 +3808,10 @@
     "weight": 14.1,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0152",
     "height": 35,
@@ -3834,10 +3834,10 @@
     "weight": 34.8,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0153",
     "height": 47,
@@ -3860,10 +3860,10 @@
     "weight": 221.6,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0154",
     "height": 71,
@@ -3886,8 +3886,8 @@
     "weight": 17.4,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0155",
     "height": 20,
@@ -3910,8 +3910,8 @@
     "weight": 41.9,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0156",
     "height": 35,
@@ -3934,8 +3934,8 @@
     "weight": 175.3,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0157",
     "height": 67,
@@ -4074,8 +4074,8 @@
     "weight": 46.7,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0163",
     "height": 28,
@@ -4100,8 +4100,8 @@
     "weight": 89.9,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0164",
     "height": 63,
@@ -4127,9 +4127,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0165",
     "height": 39,
@@ -4155,9 +4155,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0166",
     "height": 55,
@@ -4183,8 +4183,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0167",
     "height": 20,
@@ -4210,8 +4210,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0168",
     "height": 43,
@@ -4235,9 +4235,9 @@
     "weight": 165.3,
     "weakness": [
       "Electric",
+      "Rock",
       "Ice",
-      "Psychic",
-      "Rock"
+      "Psychic"
     ],
     "number": "0169",
     "height": 71,
@@ -4407,9 +4407,9 @@
     "weight": 7.1,
     "weakness": [
       "Electric",
-      "Ice",
-      "Poison",
       "Rock",
+      "Poison",
+      "Ice",
       "Steel"
     ],
     "number": "0176",
@@ -4435,8 +4435,8 @@
     "weight": 4.4,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -4463,8 +4463,8 @@
     "weight": 33.1,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -4556,10 +4556,10 @@
     "weight": 12.8,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0182",
     "height": 16,
@@ -4634,10 +4634,10 @@
     "detailPageURL": "/us/pokedex/sudowoodo",
     "weight": 83.8,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0185",
@@ -4686,10 +4686,10 @@
     "weight": 1.1,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
-      "Rock"
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0187",
     "height": 16,
@@ -4714,10 +4714,10 @@
     "weight": 2.2,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
-      "Rock"
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0188",
     "height": 24,
@@ -4742,10 +4742,10 @@
     "weight": 6.6,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
-      "Rock"
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0189",
     "height": 31,
@@ -4793,10 +4793,10 @@
     "weight": 4,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0191",
     "height": 12,
@@ -4820,10 +4820,10 @@
     "weight": 18.7,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0192",
     "height": 31,
@@ -4848,9 +4848,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0193",
     "height": 47,
@@ -4945,8 +4945,8 @@
     "detailPageURL": "/us/pokedex/umbreon",
     "weight": 59.5,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0197",
@@ -4971,8 +4971,8 @@
     "weight": 4.6,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Fairy"
     ],
     "number": "0198",
@@ -5218,8 +5218,8 @@
     "weakness": [
       "Fire",
       "Water",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0208",
     "height": 362,
@@ -5395,9 +5395,9 @@
     "weight": 61.7,
     "weakness": [
       "Fire",
-      "Fighting",
       "Bug",
       "Rock",
+      "Fighting",
       "Steel",
       "Fairy"
     ],
@@ -5470,8 +5470,8 @@
     "weight": 77.2,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0218",
     "height": 28,
@@ -5495,9 +5495,9 @@
     "weight": 121.3,
     "weakness": [
       "Water",
-      "Fighting",
+      "Rock",
       "Ground",
-      "Rock"
+      "Fighting"
     ],
     "number": "0219",
     "height": 31,
@@ -5521,9 +5521,9 @@
     "detailPageURL": "/us/pokedex/swinub",
     "weight": 14.3,
     "weakness": [
+      "Grass",
       "Fire",
       "Water",
-      "Grass",
       "Fighting",
       "Steel"
     ],
@@ -5549,9 +5549,9 @@
     "detailPageURL": "/us/pokedex/piloswine",
     "weight": 123,
     "weakness": [
+      "Grass",
       "Fire",
       "Water",
-      "Grass",
       "Fighting",
       "Steel"
     ],
@@ -5579,8 +5579,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0222",
     "height": 24,
@@ -5730,9 +5730,9 @@
     "weight": 23.8,
     "weakness": [
       "Water",
-      "Fighting",
+      "Rock",
       "Ground",
-      "Rock"
+      "Fighting"
     ],
     "number": "0228",
     "height": 24,
@@ -5757,9 +5757,9 @@
     "weight": 77.2,
     "weakness": [
       "Water",
-      "Fighting",
+      "Rock",
       "Ground",
-      "Rock"
+      "Fighting"
     ],
     "number": "0229",
     "height": 55,
@@ -5807,8 +5807,8 @@
     "detailPageURL": "/us/pokedex/phanpy",
     "weight": 73.9,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0231",
@@ -5831,8 +5831,8 @@
     "detailPageURL": "/us/pokedex/donphan",
     "weight": 264.6,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0232",
@@ -6026,8 +6026,8 @@
     "weight": 47.2,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0240",
     "height": 28,
@@ -6118,8 +6118,8 @@
     "weight": 436.5,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0244",
     "height": 83,
@@ -6164,11 +6164,11 @@
     "detailPageURL": "/us/pokedex/larvitar",
     "weight": 158.7,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Ground",
       "Ice",
       "Fighting",
-      "Ground",
       "Steel"
     ],
     "number": "0246",
@@ -6192,11 +6192,11 @@
     "detailPageURL": "/us/pokedex/pupitar",
     "weight": 335.1,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Ground",
       "Ice",
       "Fighting",
-      "Ground",
       "Steel"
     ],
     "number": "0247",
@@ -6220,11 +6220,11 @@
     "detailPageURL": "/us/pokedex/tyranitar",
     "weight": 445.3,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
-      "Ground",
+      "Water",
       "Bug",
+      "Ground",
+      "Fighting",
       "Steel",
       "Fairy"
     ],
@@ -6250,8 +6250,8 @@
     "weight": 476.2,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -6302,10 +6302,10 @@
     "weight": 11,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
+      "Poison",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -6331,10 +6331,10 @@
     "weight": 11,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0252",
     "height": 20,
@@ -6357,10 +6357,10 @@
     "weight": 47.6,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0253",
     "height": 35,
@@ -6383,10 +6383,10 @@
     "weight": 115.1,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0254",
     "height": 67,
@@ -6409,8 +6409,8 @@
     "weight": 5.5,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0255",
     "height": 16,
@@ -6433,8 +6433,8 @@
     "weight": 43,
     "weakness": [
       "Water",
-      "Ground",
       "Flying",
+      "Ground",
       "Psychic"
     ],
     "number": "0256",
@@ -6459,8 +6459,8 @@
     "weight": 114.6,
     "weakness": [
       "Water",
-      "Ground",
       "Flying",
+      "Ground",
       "Psychic"
     ],
     "number": "0257",
@@ -6554,8 +6554,8 @@
     "detailPageURL": "/us/pokedex/poochyena",
     "weight": 30,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0261",
@@ -6579,8 +6579,8 @@
     "detailPageURL": "/us/pokedex/mightyena",
     "weight": 81.6,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0262",
@@ -6699,9 +6699,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0267",
     "height": 39,
@@ -6750,8 +6750,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0269",
     "height": 47,
@@ -6775,9 +6775,9 @@
     "detailPageURL": "/us/pokedex/lotad",
     "weight": 5.7,
     "weakness": [
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison"
     ],
     "number": "0270",
     "height": 20,
@@ -6801,9 +6801,9 @@
     "detailPageURL": "/us/pokedex/lombre",
     "weight": 71.7,
     "weakness": [
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison"
     ],
     "number": "0271",
     "height": 47,
@@ -6827,9 +6827,9 @@
     "detailPageURL": "/us/pokedex/ludicolo",
     "weight": 121.3,
     "weakness": [
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison"
     ],
     "number": "0272",
     "height": 59,
@@ -6854,10 +6854,10 @@
     "weight": 8.8,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0273",
     "height": 20,
@@ -6881,11 +6881,11 @@
     "weight": 61.7,
     "weakness": [
       "Fire",
+      "Bug",
+      "Flying",
+      "Poison",
       "Ice",
       "Fighting",
-      "Poison",
-      "Flying",
-      "Bug",
       "Fairy"
     ],
     "number": "0274",
@@ -6911,11 +6911,11 @@
     "weight": 131.4,
     "weakness": [
       "Fire",
+      "Bug",
+      "Flying",
+      "Poison",
       "Ice",
       "Fighting",
-      "Poison",
-      "Flying",
-      "Bug",
       "Fairy"
     ],
     "number": "0275",
@@ -6940,8 +6940,8 @@
     "weight": 5.1,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0276",
     "height": 12,
@@ -6965,8 +6965,8 @@
     "weight": 43.7,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0277",
     "height": 28,
@@ -7144,9 +7144,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0284",
     "height": 31,
@@ -7171,10 +7171,10 @@
     "weight": 9.9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0285",
     "height": 16,
@@ -7198,9 +7198,9 @@
     "weight": 86.4,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
+      "Poison",
+      "Ice",
       "Psychic",
       "Fairy"
     ],
@@ -7293,8 +7293,8 @@
     "weakness": [
       "Fire",
       "Water",
-      "Ice",
-      "Flying"
+      "Flying",
+      "Ice"
     ],
     "number": "0290",
     "height": 20,
@@ -7319,9 +7319,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0291",
     "height": 31,
@@ -7513,10 +7513,10 @@
     "detailPageURL": "/us/pokedex/nosepass",
     "weight": 213.8,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0299",
@@ -7636,8 +7636,8 @@
     "weight": 132.3,
     "weakness": [
       "Water",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0304",
     "height": 16,
@@ -7662,8 +7662,8 @@
     "weight": 264.6,
     "weakness": [
       "Water",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0305",
     "height": 35,
@@ -7688,8 +7688,8 @@
     "weight": 793.7,
     "weakness": [
       "Water",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0306",
     "height": 83,
@@ -7904,8 +7904,8 @@
     "weight": 4.4,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0315",
@@ -7979,8 +7979,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0318",
@@ -8006,8 +8006,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0319",
@@ -8131,8 +8131,8 @@
     "weight": 177.3,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0324",
     "height": 20,
@@ -8228,8 +8228,8 @@
     "detailPageURL": "/us/pokedex/trapinch",
     "weight": 33.1,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0328",
@@ -8303,10 +8303,10 @@
     "weight": 113.1,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0331",
     "height": 16,
@@ -8329,11 +8329,11 @@
     "weight": 170.6,
     "weakness": [
       "Fire",
+      "Bug",
+      "Flying",
+      "Poison",
       "Ice",
       "Fighting",
-      "Poison",
-      "Flying",
-      "Bug",
       "Fairy"
     ],
     "number": "0332",
@@ -8358,8 +8358,8 @@
     "weight": 2.6,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0333",
     "height": 16,
@@ -8382,8 +8382,8 @@
     "detailPageURL": "/us/pokedex/altaria",
     "weight": 45.4,
     "weakness": [
-      "Ice",
       "Rock",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -8453,10 +8453,10 @@
     "detailPageURL": "/us/pokedex/lunatone",
     "weight": 370.4,
     "weakness": [
-      "Water",
       "Grass",
-      "Ground",
+      "Water",
       "Bug",
+      "Ground",
       "Ghost",
       "Dark",
       "Steel"
@@ -8482,10 +8482,10 @@
     "detailPageURL": "/us/pokedex/solrock",
     "weight": 339.5,
     "weakness": [
-      "Water",
       "Grass",
-      "Ground",
+      "Water",
       "Bug",
+      "Ground",
       "Ghost",
       "Dark",
       "Steel"
@@ -8586,8 +8586,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0342",
@@ -8611,10 +8611,10 @@
     "detailPageURL": "/us/pokedex/baltoy",
     "weight": 47.4,
     "weakness": [
-      "Water",
       "Grass",
-      "Ice",
+      "Water",
       "Bug",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -8639,10 +8639,10 @@
     "detailPageURL": "/us/pokedex/claydol",
     "weight": 238.1,
     "weakness": [
-      "Water",
       "Grass",
-      "Ice",
+      "Water",
       "Bug",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -8667,9 +8667,9 @@
     "detailPageURL": "/us/pokedex/lileep",
     "weight": 52.5,
     "weakness": [
+      "Bug",
       "Ice",
       "Fighting",
-      "Bug",
       "Steel"
     ],
     "number": "0345",
@@ -8693,9 +8693,9 @@
     "detailPageURL": "/us/pokedex/cradily",
     "weight": 133.2,
     "weakness": [
+      "Bug",
       "Ice",
       "Fighting",
-      "Bug",
       "Steel"
     ],
     "number": "0346",
@@ -8957,10 +8957,10 @@
     "weight": 220.5,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
-      "Rock"
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0357",
     "height": 79,
@@ -9008,8 +9008,8 @@
     "detailPageURL": "/us/pokedex/absol",
     "weight": 103.6,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0359",
@@ -9058,8 +9058,8 @@
     "weight": 37,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0361",
@@ -9084,8 +9084,8 @@
     "weight": 565.5,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0362",
@@ -9111,8 +9111,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Rock"
+      "Rock",
+      "Fighting"
     ],
     "number": "0363",
     "height": 31,
@@ -9138,8 +9138,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Rock"
+      "Rock",
+      "Fighting"
     ],
     "number": "0364",
     "height": 43,
@@ -9165,8 +9165,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Rock"
+      "Rock",
+      "Fighting"
     ],
     "number": "0365",
     "height": 55,
@@ -9261,8 +9261,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0369",
     "height": 39,
@@ -9356,8 +9356,8 @@
     "detailPageURL": "/us/pokedex/salamence",
     "weight": 226.2,
     "weakness": [
-      "Ice",
       "Rock",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -9460,10 +9460,10 @@
     "detailPageURL": "/us/pokedex/regirock",
     "weight": 507.1,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0377",
@@ -9487,8 +9487,8 @@
     "weight": 385.8,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0378",
@@ -9512,8 +9512,8 @@
     "weight": 451.9,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0379",
     "height": 75,
@@ -9535,8 +9535,8 @@
     "detailPageURL": "/us/pokedex/latias",
     "weight": 88.2,
     "weakness": [
-      "Ice",
       "Bug",
+      "Ice",
       "Ghost",
       "Dragon",
       "Dark",
@@ -9563,8 +9563,8 @@
     "detailPageURL": "/us/pokedex/latios",
     "weight": 132.3,
     "weakness": [
-      "Ice",
       "Bug",
+      "Ice",
       "Ghost",
       "Dragon",
       "Dark",
@@ -9614,8 +9614,8 @@
     "detailPageURL": "/us/pokedex/groudon",
     "weight": 2094.4,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0383",
@@ -9638,8 +9638,8 @@
     "detailPageURL": "/us/pokedex/rayquaza",
     "weight": 455.3,
     "weakness": [
-      "Ice",
       "Rock",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -9715,10 +9715,10 @@
     "weight": 22.5,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0387",
     "height": 16,
@@ -9741,10 +9741,10 @@
     "weight": 213.8,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0388",
     "height": 43,
@@ -9767,9 +9767,9 @@
     "weight": 683.4,
     "weakness": [
       "Fire",
-      "Ice",
+      "Bug",
       "Flying",
-      "Bug"
+      "Ice"
     ],
     "number": "0389",
     "height": 87,
@@ -9793,8 +9793,8 @@
     "weight": 13.7,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0390",
     "height": 20,
@@ -9817,8 +9817,8 @@
     "weight": 48.5,
     "weakness": [
       "Water",
-      "Ground",
       "Flying",
+      "Ground",
       "Psychic"
     ],
     "number": "0391",
@@ -9843,8 +9843,8 @@
     "weight": 121.3,
     "weakness": [
       "Water",
-      "Ground",
       "Flying",
+      "Ground",
       "Psychic"
     ],
     "number": "0392",
@@ -9915,8 +9915,8 @@
     "weight": 186.3,
     "weakness": [
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0395",
     "height": 67,
@@ -9940,8 +9940,8 @@
     "weight": 4.4,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0396",
     "height": 12,
@@ -9965,8 +9965,8 @@
     "weight": 34.2,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0397",
     "height": 24,
@@ -9990,8 +9990,8 @@
     "weight": 54.9,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0398",
     "height": 47,
@@ -10182,8 +10182,8 @@
     "weight": 2.6,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0406",
@@ -10209,8 +10209,8 @@
     "weight": 32,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0407",
@@ -10234,10 +10234,10 @@
     "detailPageURL": "/us/pokedex/cranidos",
     "weight": 69.4,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0408",
@@ -10260,10 +10260,10 @@
     "detailPageURL": "/us/pokedex/rampardos",
     "weight": 226,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0409",
@@ -10287,8 +10287,8 @@
     "weight": 125.7,
     "weakness": [
       "Water",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0410",
     "height": 20,
@@ -10312,8 +10312,8 @@
     "weight": 329.6,
     "weakness": [
       "Water",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0411",
     "height": 51,
@@ -10361,11 +10361,11 @@
     "weight": 14.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
-      "Rock"
+      "Flying",
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0413",
     "height": 20,
@@ -10390,9 +10390,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0414",
     "height": 35,
@@ -10417,9 +10417,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0415",
     "height": 12,
@@ -10444,9 +10444,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0416",
     "height": 47,
@@ -10539,10 +10539,10 @@
     "weight": 7.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0420",
     "height": 16,
@@ -10565,10 +10565,10 @@
     "weight": 20.5,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0421",
     "height": 20,
@@ -10663,8 +10663,8 @@
     "weight": 2.6,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -10691,8 +10691,8 @@
     "weight": 33.1,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -10788,8 +10788,8 @@
     "weight": 60.2,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Fairy"
     ],
     "number": "0430",
@@ -10986,10 +10986,10 @@
     "detailPageURL": "/us/pokedex/bonsly",
     "weight": 33.1,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0438",
@@ -11063,8 +11063,8 @@
     "weight": 4.2,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0441",
     "height": 20,
@@ -11235,8 +11235,8 @@
     "weight": 119,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0448",
     "height": 47,
@@ -11259,8 +11259,8 @@
     "detailPageURL": "/us/pokedex/hippopotas",
     "weight": 109.1,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0449",
@@ -11283,8 +11283,8 @@
     "detailPageURL": "/us/pokedex/hippowdon",
     "weight": 661.4,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0450",
@@ -11310,8 +11310,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0451",
     "height": 31,
@@ -11359,8 +11359,8 @@
     "detailPageURL": "/us/pokedex/croagunk",
     "weight": 50.7,
     "weakness": [
-      "Ground",
       "Flying",
+      "Ground",
       "Psychic"
     ],
     "number": "0453",
@@ -11385,8 +11385,8 @@
     "detailPageURL": "/us/pokedex/toxicroak",
     "weight": 97.9,
     "weakness": [
-      "Ground",
       "Flying",
+      "Ground",
       "Psychic"
     ],
     "number": "0454",
@@ -11411,10 +11411,10 @@
     "weight": 59.5,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0455",
     "height": 55,
@@ -11510,11 +11510,11 @@
     "weight": 111.3,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
       "Rock",
+      "Poison",
+      "Fighting",
       "Steel"
     ],
     "number": "0459",
@@ -11539,11 +11539,11 @@
     "weight": 298.7,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
       "Rock",
+      "Poison",
+      "Fighting",
       "Steel"
     ],
     "number": "0460",
@@ -11568,9 +11568,9 @@
     "weight": 75,
     "weakness": [
       "Fire",
-      "Fighting",
       "Bug",
       "Rock",
+      "Fighting",
       "Steel",
       "Fairy"
     ],
@@ -11597,8 +11597,8 @@
     "weight": 396.8,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0462",
     "height": 47,
@@ -11645,11 +11645,11 @@
     "detailPageURL": "/us/pokedex/rhyperior",
     "weight": 623.5,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Ground",
       "Ice",
       "Fighting",
-      "Ground",
       "Steel"
     ],
     "number": "0464",
@@ -11675,10 +11675,10 @@
     "weight": 283.5,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0465",
     "height": 79,
@@ -11723,8 +11723,8 @@
     "weight": 149.9,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0467",
     "height": 63,
@@ -11748,9 +11748,9 @@
     "weight": 83.8,
     "weakness": [
       "Electric",
-      "Ice",
-      "Poison",
       "Rock",
+      "Poison",
+      "Ice",
       "Steel"
     ],
     "number": "0468",
@@ -11777,9 +11777,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0469",
     "height": 75,
@@ -11803,10 +11803,10 @@
     "weight": 56.2,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0470",
     "height": 39,
@@ -11829,8 +11829,8 @@
     "weight": 57.1,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0471",
@@ -11879,9 +11879,9 @@
     "detailPageURL": "/us/pokedex/mamoswine",
     "weight": 641.5,
     "weakness": [
+      "Grass",
       "Fire",
       "Water",
-      "Grass",
       "Fighting",
       "Steel"
     ],
@@ -11957,8 +11957,8 @@
     "weight": 749.6,
     "weakness": [
       "Water",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0476",
     "height": 55,
@@ -12128,8 +12128,8 @@
     "detailPageURL": "/us/pokedex/dialga",
     "weight": 1505.8,
     "weakness": [
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0483",
     "height": 213,
@@ -12177,8 +12177,8 @@
     "weight": 948,
     "weakness": [
       "Water",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0485",
     "height": 67,
@@ -12320,8 +12320,8 @@
     "detailPageURL": "/us/pokedex/darkrai",
     "weight": 111.3,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0491",
@@ -12345,10 +12345,10 @@
     "weight": 4.6,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0492",
     "height": 8,
@@ -12393,8 +12393,8 @@
     "weight": 8.8,
     "weakness": [
       "Water",
-      "Ground",
       "Rock",
+      "Ground",
       "Ghost",
       "Dark"
     ],
@@ -12420,10 +12420,10 @@
     "weight": 17.9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0495",
     "height": 24,
@@ -12446,10 +12446,10 @@
     "weight": 35.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0496",
     "height": 31,
@@ -12472,10 +12472,10 @@
     "weight": 138.9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0497",
     "height": 130,
@@ -12498,8 +12498,8 @@
     "weight": 21.8,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0498",
     "height": 20,
@@ -12522,8 +12522,8 @@
     "weight": 122.4,
     "weakness": [
       "Water",
-      "Ground",
       "Flying",
+      "Ground",
       "Psychic"
     ],
     "number": "0499",
@@ -12548,8 +12548,8 @@
     "weight": 330.7,
     "weakness": [
       "Water",
-      "Ground",
       "Flying",
+      "Ground",
       "Psychic"
     ],
     "number": "0500",
@@ -12758,8 +12758,8 @@
     "detailPageURL": "/us/pokedex/purrloin",
     "weight": 22.3,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0509",
@@ -12783,8 +12783,8 @@
     "detailPageURL": "/us/pokedex/liepard",
     "weight": 82.7,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0510",
@@ -12808,10 +12808,10 @@
     "weight": 23.1,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0511",
     "height": 24,
@@ -12834,10 +12834,10 @@
     "weight": 67.2,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0512",
     "height": 43,
@@ -12860,8 +12860,8 @@
     "weight": 24.3,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0513",
     "height": 24,
@@ -12884,8 +12884,8 @@
     "weight": 61.7,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0514",
     "height": 39,
@@ -13005,8 +13005,8 @@
     "weight": 4.6,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0519",
     "height": 12,
@@ -13031,8 +13031,8 @@
     "weight": 33.1,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0520",
     "height": 24,
@@ -13057,8 +13057,8 @@
     "weight": 63.9,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0521",
     "height": 47,
@@ -13128,10 +13128,10 @@
     "detailPageURL": "/us/pokedex/roggenrola",
     "weight": 39.7,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0524",
@@ -13155,10 +13155,10 @@
     "detailPageURL": "/us/pokedex/boldore",
     "weight": 224.9,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0525",
@@ -13182,10 +13182,10 @@
     "detailPageURL": "/us/pokedex/gigalith",
     "weight": 573.2,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0526",
@@ -13210,8 +13210,8 @@
     "weight": 4.6,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -13238,8 +13238,8 @@
     "weight": 23.1,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -13265,8 +13265,8 @@
     "detailPageURL": "/us/pokedex/drilbur",
     "weight": 18.7,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0529",
@@ -13292,8 +13292,8 @@
     "weakness": [
       "Fire",
       "Water",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0530",
     "height": 28,
@@ -13538,11 +13538,11 @@
     "weight": 5.5,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
-      "Rock"
+      "Flying",
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0540",
     "height": 12,
@@ -13567,11 +13567,11 @@
     "weight": 16.1,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
-      "Rock"
+      "Flying",
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0541",
     "height": 20,
@@ -13596,11 +13596,11 @@
     "weight": 45.2,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
-      "Rock"
+      "Flying",
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0542",
     "height": 47,
@@ -13626,8 +13626,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0543",
     "height": 16,
@@ -13653,8 +13653,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0544",
     "height": 47,
@@ -13680,8 +13680,8 @@
     "weakness": [
       "Fire",
       "Flying",
-      "Psychic",
-      "Rock"
+      "Rock",
+      "Psychic"
     ],
     "number": "0545",
     "height": 98,
@@ -13706,9 +13706,9 @@
     "weight": 1.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
+      "Poison",
+      "Ice",
       "Steel"
     ],
     "number": "0546",
@@ -13734,9 +13734,9 @@
     "weight": 14.6,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
+      "Poison",
+      "Ice",
       "Steel"
     ],
     "number": "0547",
@@ -13762,10 +13762,10 @@
     "weight": 14.6,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0548",
     "height": 20,
@@ -13789,10 +13789,10 @@
     "weight": 35.9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0549",
     "height": 43,
@@ -13839,11 +13839,11 @@
     "detailPageURL": "/us/pokedex/sandile",
     "weight": 33.5,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Bug",
       "Ice",
       "Fighting",
-      "Bug",
       "Fairy"
     ],
     "number": "0551",
@@ -13868,11 +13868,11 @@
     "detailPageURL": "/us/pokedex/krokorok",
     "weight": 73.6,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Bug",
       "Ice",
       "Fighting",
-      "Bug",
       "Fairy"
     ],
     "number": "0552",
@@ -13897,11 +13897,11 @@
     "detailPageURL": "/us/pokedex/krookodile",
     "weight": 212.3,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Bug",
       "Ice",
       "Fighting",
-      "Bug",
       "Fairy"
     ],
     "number": "0553",
@@ -13926,8 +13926,8 @@
     "weight": 82.7,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0554",
     "height": 24,
@@ -13950,8 +13950,8 @@
     "weight": 204.8,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0555",
     "height": 51,
@@ -13975,10 +13975,10 @@
     "weight": 61.7,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0556",
     "height": 39,
@@ -14053,8 +14053,8 @@
     "detailPageURL": "/us/pokedex/scraggy",
     "weight": 26,
     "weakness": [
-      "Fighting",
       "Flying",
+      "Fighting",
       "Fairy"
     ],
     "number": "0559",
@@ -14079,8 +14079,8 @@
     "detailPageURL": "/us/pokedex/scrafty",
     "weight": 66.1,
     "weakness": [
-      "Fighting",
       "Flying",
+      "Fighting",
       "Fairy"
     ],
     "number": "0560",
@@ -14106,8 +14106,8 @@
     "weight": 30.9,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -14181,8 +14181,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0564",
     "height": 28,
@@ -14208,8 +14208,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0565",
     "height": 47,
@@ -14234,8 +14234,8 @@
     "weakness": [
       "Water",
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Steel"
     ],
     "number": "0566",
@@ -14261,8 +14261,8 @@
     "weakness": [
       "Water",
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Steel"
     ],
     "number": "0567",
@@ -14334,8 +14334,8 @@
     "detailPageURL": "/us/pokedex/zorua",
     "weight": 27.6,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0570",
@@ -14358,8 +14358,8 @@
     "detailPageURL": "/us/pokedex/zoroark",
     "weight": 178.8,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0571",
@@ -14630,8 +14630,8 @@
     "weight": 12.6,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0582",
@@ -14656,8 +14656,8 @@
     "weight": 90.4,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0583",
@@ -14682,8 +14682,8 @@
     "weight": 126.8,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0584",
@@ -14708,11 +14708,11 @@
     "weight": 43,
     "weakness": [
       "Fire",
-      "Ice",
-      "Fighting",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice",
+      "Fighting"
     ],
     "number": "0585",
     "height": 24,
@@ -14737,11 +14737,11 @@
     "weight": 203.9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Fighting",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice",
+      "Fighting"
     ],
     "number": "0586",
     "height": 75,
@@ -14764,8 +14764,8 @@
     "detailPageURL": "/us/pokedex/emolga",
     "weight": 11,
     "weakness": [
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0587",
     "height": 16,
@@ -14838,8 +14838,8 @@
     "weight": 2.2,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0590",
@@ -14864,8 +14864,8 @@
     "weight": 23.1,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "number": "0591",
@@ -15067,8 +15067,8 @@
     "weight": 46.3,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0599",
     "height": 12,
@@ -15092,8 +15092,8 @@
     "weight": 112.4,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0600",
     "height": 24,
@@ -15117,8 +15117,8 @@
     "weight": 178.6,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0601",
     "height": 24,
@@ -15258,8 +15258,8 @@
     "weight": 6.8,
     "weakness": [
       "Water",
-      "Ground",
       "Rock",
+      "Ground",
       "Ghost",
       "Dark"
     ],
@@ -15286,8 +15286,8 @@
     "weight": 28.7,
     "weakness": [
       "Water",
-      "Ground",
       "Rock",
+      "Ground",
       "Ghost",
       "Dark"
     ],
@@ -15314,8 +15314,8 @@
     "weight": 75.6,
     "weakness": [
       "Water",
-      "Ground",
       "Rock",
+      "Ground",
       "Ghost",
       "Dark"
     ],
@@ -15417,8 +15417,8 @@
     "weight": 18.7,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0613",
@@ -15443,8 +15443,8 @@
     "weight": 573.2,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0614",
@@ -15468,8 +15468,8 @@
     "weight": 326.3,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0615",
@@ -15543,10 +15543,10 @@
     "detailPageURL": "/us/pokedex/stunfisk",
     "weight": 24.3,
     "weakness": [
-      "Water",
       "Grass",
-      "Ice",
-      "Ground"
+      "Water",
+      "Ground",
+      "Ice"
     ],
     "number": "0618",
     "height": 28,
@@ -15645,8 +15645,8 @@
     "detailPageURL": "/us/pokedex/golett",
     "weight": 202.8,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice",
       "Ghost",
       "Dark"
@@ -15673,8 +15673,8 @@
     "detailPageURL": "/us/pokedex/golurk",
     "weight": 727.5,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice",
       "Ghost",
       "Dark"
@@ -15702,8 +15702,8 @@
     "weight": 22.5,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0624",
     "height": 20,
@@ -15728,8 +15728,8 @@
     "weight": 154.3,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0625",
     "height": 63,
@@ -15777,8 +15777,8 @@
     "weight": 23.1,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0627",
     "height": 20,
@@ -15803,8 +15803,8 @@
     "weight": 90.4,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0628",
     "height": 59,
@@ -15829,8 +15829,8 @@
     "weight": 19.8,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Fairy"
     ],
     "number": "0629",
@@ -15856,8 +15856,8 @@
     "weight": 87.1,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Fairy"
     ],
     "number": "0630",
@@ -15883,8 +15883,8 @@
     "weight": 127.9,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0631",
     "height": 55,
@@ -15930,9 +15930,9 @@
     "detailPageURL": "/us/pokedex/deino",
     "weight": 38.1,
     "weakness": [
+      "Bug",
       "Ice",
       "Fighting",
-      "Bug",
       "Dragon",
       "Fairy"
     ],
@@ -15957,9 +15957,9 @@
     "detailPageURL": "/us/pokedex/zweilous",
     "weight": 110.2,
     "weakness": [
+      "Bug",
       "Ice",
       "Fighting",
-      "Bug",
       "Dragon",
       "Fairy"
     ],
@@ -15984,9 +15984,9 @@
     "detailPageURL": "/us/pokedex/hydreigon",
     "weight": 352.7,
     "weakness": [
+      "Bug",
       "Ice",
       "Fighting",
-      "Bug",
       "Dragon",
       "Fairy"
     ],
@@ -16062,8 +16062,8 @@
     "weight": 551.2,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0638",
     "height": 83,
@@ -16086,10 +16086,10 @@
     "detailPageURL": "/us/pokedex/terrakion",
     "weight": 573.2,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Psychic",
       "Steel",
       "Fairy"
@@ -16116,9 +16116,9 @@
     "weight": 440.9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
+      "Poison",
+      "Ice",
       "Psychic",
       "Fairy"
     ],
@@ -16144,8 +16144,8 @@
     "weight": 138.9,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0641",
     "height": 59,
@@ -16167,8 +16167,8 @@
     "detailPageURL": "/us/pokedex/thundurus",
     "weight": 134.5,
     "weakness": [
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0642",
     "height": 59,
@@ -16191,8 +16191,8 @@
     "detailPageURL": "/us/pokedex/reshiram",
     "weight": 727.5,
     "weakness": [
-      "Ground",
       "Rock",
+      "Ground",
       "Dragon"
     ],
     "number": "0643",
@@ -16216,8 +16216,8 @@
     "detailPageURL": "/us/pokedex/zekrom",
     "weight": 760.6,
     "weakness": [
-      "Ice",
       "Ground",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -16266,8 +16266,8 @@
     "detailPageURL": "/us/pokedex/kyurem",
     "weight": 716.5,
     "weakness": [
-      "Fighting",
       "Rock",
+      "Fighting",
       "Dragon",
       "Steel",
       "Fairy"
@@ -16368,10 +16368,10 @@
     "weight": 19.8,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0650",
     "height": 16,
@@ -16394,10 +16394,10 @@
     "weight": 63.9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0651",
     "height": 28,
@@ -16420,9 +16420,9 @@
     "weight": 198.4,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
+      "Poison",
+      "Ice",
       "Psychic",
       "Fairy"
     ],
@@ -16448,8 +16448,8 @@
     "weight": 20.7,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0653",
     "height": 16,
@@ -16472,8 +16472,8 @@
     "weight": 32,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0654",
     "height": 39,
@@ -16496,8 +16496,8 @@
     "weight": 86,
     "weakness": [
       "Water",
-      "Ground",
       "Rock",
+      "Ground",
       "Ghost",
       "Dark"
     ],
@@ -16570,8 +16570,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0658",
@@ -16619,8 +16619,8 @@
     "detailPageURL": "/us/pokedex/diggersby",
     "weight": 93.5,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice",
       "Fighting"
     ],
@@ -16646,8 +16646,8 @@
     "weight": 3.7,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0661",
     "height": 12,
@@ -16772,9 +16772,9 @@
     "weakness": [
       "Fire",
       "Electric",
-      "Ice",
       "Flying",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0666",
     "height": 47,
@@ -16799,9 +16799,9 @@
     "weight": 29.8,
     "weakness": [
       "Water",
-      "Fighting",
+      "Rock",
       "Ground",
-      "Rock"
+      "Fighting"
     ],
     "number": "0667",
     "height": 24,
@@ -16826,9 +16826,9 @@
     "weight": 179.7,
     "weakness": [
       "Water",
-      "Fighting",
+      "Rock",
       "Ground",
-      "Rock"
+      "Fighting"
     ],
     "number": "0668",
     "height": 59,
@@ -16921,10 +16921,10 @@
     "weight": 68.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0672",
     "height": 35,
@@ -16947,10 +16947,10 @@
     "weight": 200.6,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0673",
     "height": 67,
@@ -16998,8 +16998,8 @@
     "detailPageURL": "/us/pokedex/pangoro",
     "weight": 299.8,
     "weakness": [
-      "Fighting",
       "Flying",
+      "Fighting",
       "Fairy"
     ],
     "number": "0675",
@@ -17318,8 +17318,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0688",
     "height": 20,
@@ -17345,8 +17345,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0689",
     "height": 51,
@@ -17396,8 +17396,8 @@
     "detailPageURL": "/us/pokedex/dragalge",
     "weight": 179.7,
     "weakness": [
-      "Ice",
       "Ground",
+      "Ice",
       "Psychic",
       "Dragon"
     ],
@@ -17469,8 +17469,8 @@
     "detailPageURL": "/us/pokedex/helioptile",
     "weight": 13.2,
     "weakness": [
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0694",
     "height": 20,
@@ -17494,8 +17494,8 @@
     "detailPageURL": "/us/pokedex/heliolisk",
     "weight": 46.3,
     "weakness": [
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0695",
     "height": 39,
@@ -17518,9 +17518,9 @@
     "detailPageURL": "/us/pokedex/tyrunt",
     "weight": 57.3,
     "weakness": [
+      "Ground",
       "Ice",
       "Fighting",
-      "Ground",
       "Dragon",
       "Steel",
       "Fairy"
@@ -17546,9 +17546,9 @@
     "detailPageURL": "/us/pokedex/tyrantrum",
     "weight": 595.2,
     "weakness": [
+      "Ground",
       "Ice",
       "Fighting",
-      "Ground",
       "Dragon",
       "Steel",
       "Fairy"
@@ -17574,11 +17574,11 @@
     "detailPageURL": "/us/pokedex/amaura",
     "weight": 55.6,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
-      "Ground",
+      "Water",
       "Rock",
+      "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0698",
@@ -17602,11 +17602,11 @@
     "detailPageURL": "/us/pokedex/aurorus",
     "weight": 496,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
-      "Ground",
+      "Water",
       "Rock",
+      "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0699",
@@ -17655,8 +17655,8 @@
     "weight": 47.4,
     "weakness": [
       "Electric",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic",
       "Fairy"
     ],
@@ -17706,8 +17706,8 @@
     "detailPageURL": "/us/pokedex/carbink",
     "weight": 12.6,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ground",
       "Steel"
     ],
@@ -17833,8 +17833,8 @@
     "weight": 15.4,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -17861,8 +17861,8 @@
     "weight": 156.5,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -17889,8 +17889,8 @@
     "weight": 11,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -17917,8 +17917,8 @@
     "weight": 27.6,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -17945,8 +17945,8 @@
     "weight": 219.4,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0712",
@@ -17971,8 +17971,8 @@
     "weight": 1113.3,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0713",
@@ -17996,8 +17996,8 @@
     "detailPageURL": "/us/pokedex/noibat",
     "weight": 17.6,
     "weakness": [
-      "Ice",
       "Rock",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -18023,8 +18023,8 @@
     "detailPageURL": "/us/pokedex/noivern",
     "weight": 187.4,
     "weakness": [
-      "Ice",
       "Rock",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -18073,8 +18073,8 @@
     "weight": 447.5,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Fairy"
     ],
     "number": "0717",
@@ -18124,8 +18124,8 @@
     "detailPageURL": "/us/pokedex/diancie",
     "weight": 19.4,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ground",
       "Steel"
     ],
@@ -18175,8 +18175,8 @@
     "weight": 429.9,
     "weakness": [
       "Electric",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0721",
     "height": 67,
@@ -18200,10 +18200,10 @@
     "weight": 3.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
-      "Rock"
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0722",
     "height": 12,
@@ -18227,10 +18227,10 @@
     "weight": 35.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
-      "Rock"
+      "Rock",
+      "Poison",
+      "Ice"
     ],
     "number": "0723",
     "height": 28,
@@ -18254,8 +18254,8 @@
     "weight": 80.7,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -18281,8 +18281,8 @@
     "weight": 9.5,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0725",
     "height": 16,
@@ -18305,8 +18305,8 @@
     "weight": 55.1,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0726",
     "height": 28,
@@ -18329,9 +18329,9 @@
     "weight": 183,
     "weakness": [
       "Water",
-      "Fighting",
+      "Rock",
       "Ground",
-      "Rock"
+      "Fighting"
     ],
     "number": "0727",
     "height": 71,
@@ -18427,8 +18427,8 @@
     "weight": 2.6,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0731",
     "height": 12,
@@ -18453,8 +18453,8 @@
     "weight": 32.6,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0732",
     "height": 24,
@@ -18479,8 +18479,8 @@
     "weight": 57.3,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0733",
     "height": 43,
@@ -18648,8 +18648,8 @@
     "weight": 396.8,
     "weakness": [
       "Fire",
-      "Fighting",
       "Flying",
+      "Fighting",
       "Psychic",
       "Steel",
       "Fairy"
@@ -18702,9 +18702,9 @@
     "weight": 0.4,
     "weakness": [
       "Fire",
-      "Poison",
       "Flying",
       "Rock",
+      "Poison",
       "Steel"
     ],
     "number": "0742",
@@ -18730,9 +18730,9 @@
     "weight": 1.1,
     "weakness": [
       "Fire",
-      "Poison",
       "Flying",
       "Rock",
+      "Poison",
       "Steel"
     ],
     "number": "0743",
@@ -18758,10 +18758,10 @@
     "detailPageURL": "/us/pokedex/rockruff",
     "weight": 20.3,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0744",
@@ -18785,10 +18785,10 @@
     "detailPageURL": "/us/pokedex/lycanroc",
     "weight": 55.1,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0745",
@@ -18887,8 +18887,8 @@
     "detailPageURL": "/us/pokedex/mudbray",
     "weight": 242.5,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0749",
@@ -18912,8 +18912,8 @@
     "detailPageURL": "/us/pokedex/mudsdale",
     "weight": 2028.3,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0750",
@@ -18987,10 +18987,10 @@
     "weight": 3.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0753",
     "height": 12,
@@ -19013,10 +19013,10 @@
     "weight": 40.8,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0754",
     "height": 35,
@@ -19040,9 +19040,9 @@
     "weight": 3.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
+      "Poison",
+      "Ice",
       "Steel"
     ],
     "number": "0755",
@@ -19068,9 +19068,9 @@
     "weight": 25.4,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
+      "Poison",
+      "Ice",
       "Steel"
     ],
     "number": "0756",
@@ -19095,9 +19095,9 @@
     "weight": 10.6,
     "weakness": [
       "Water",
+      "Rock",
       "Ground",
-      "Psychic",
-      "Rock"
+      "Psychic"
     ],
     "number": "0757",
     "height": 24,
@@ -19121,9 +19121,9 @@
     "weight": 48.9,
     "weakness": [
       "Water",
+      "Rock",
       "Ground",
-      "Psychic",
-      "Rock"
+      "Psychic"
     ],
     "number": "0758",
     "height": 47,
@@ -19147,8 +19147,8 @@
     "detailPageURL": "/us/pokedex/stufful",
     "weight": 15,
     "weakness": [
-      "Fighting",
       "Flying",
+      "Fighting",
       "Psychic",
       "Fairy"
     ],
@@ -19174,8 +19174,8 @@
     "detailPageURL": "/us/pokedex/bewear",
     "weight": 297.6,
     "weakness": [
-      "Fighting",
       "Flying",
+      "Fighting",
       "Psychic",
       "Fairy"
     ],
@@ -19202,10 +19202,10 @@
     "weight": 7.1,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0761",
     "height": 12,
@@ -19229,10 +19229,10 @@
     "weight": 18.1,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0762",
     "height": 28,
@@ -19256,10 +19256,10 @@
     "weight": 47.2,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0763",
     "height": 47,
@@ -19404,8 +19404,8 @@
     "detailPageURL": "/us/pokedex/sandygast",
     "weight": 154.3,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice",
       "Ghost",
       "Dark"
@@ -19431,8 +19431,8 @@
     "detailPageURL": "/us/pokedex/palossand",
     "weight": 551.2,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice",
       "Ghost",
       "Dark"
@@ -19527,8 +19527,8 @@
     "weakness": [
       "Water",
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Steel"
     ],
     "number": "0774",
@@ -19574,8 +19574,8 @@
     "detailPageURL": "/us/pokedex/turtonator",
     "weight": 467.4,
     "weakness": [
-      "Ground",
       "Rock",
+      "Ground",
       "Dragon"
     ],
     "number": "0776",
@@ -19601,8 +19601,8 @@
     "weight": 7.3,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0777",
     "height": 12,
@@ -19705,8 +19705,8 @@
     "weight": 463,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -19757,8 +19757,8 @@
     "detailPageURL": "/us/pokedex/hakamo-o",
     "weight": 103.6,
     "weakness": [
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic",
       "Dragon",
       "Fairy"
@@ -19785,8 +19785,8 @@
     "detailPageURL": "/us/pokedex/kommo-o",
     "weight": 172.4,
     "weakness": [
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic",
       "Dragon",
       "Fairy"
@@ -19862,9 +19862,9 @@
     "weight": 100.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
       "Flying",
+      "Poison",
+      "Ice",
       "Steel"
     ],
     "number": "0787",
@@ -20159,9 +20159,9 @@
     "detailPageURL": "/us/pokedex/guzzlord",
     "weight": 1957.7,
     "weakness": [
+      "Bug",
       "Ice",
       "Fighting",
-      "Bug",
       "Dragon",
       "Fairy"
     ],
@@ -20283,8 +20283,8 @@
     "detailPageURL": "/us/pokedex/naganadel",
     "weight": 330.7,
     "weakness": [
-      "Ice",
       "Ground",
+      "Ice",
       "Psychic",
       "Dragon"
     ],
@@ -20310,8 +20310,8 @@
     "weight": 1807.8,
     "weakness": [
       "Water",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0805",
     "height": 217,
@@ -20335,8 +20335,8 @@
     "weight": 28.7,
     "weakness": [
       "Water",
-      "Ground",
       "Rock",
+      "Ground",
       "Ghost",
       "Dark"
     ],
@@ -20384,8 +20384,8 @@
     "weight": 17.6,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0808",
     "height": 8,
@@ -20408,8 +20408,8 @@
     "weight": 1763.7,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0809",
     "height": 98,
@@ -20432,10 +20432,10 @@
     "weight": 11,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0810",
     "height": 12,
@@ -20458,10 +20458,10 @@
     "weight": 30.9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0811",
     "height": 28,
@@ -20484,10 +20484,10 @@
     "weight": 198.4,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0812",
     "height": 83,
@@ -20510,8 +20510,8 @@
     "weight": 9.9,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0813",
     "height": 12,
@@ -20534,8 +20534,8 @@
     "weight": 19.8,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0814",
     "height": 24,
@@ -20558,8 +20558,8 @@
     "weight": 72.8,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0815",
     "height": 55,
@@ -20696,8 +20696,8 @@
     "weight": 4,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0821",
     "height": 8,
@@ -20721,8 +20721,8 @@
     "weight": 35.3,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0822",
     "height": 31,
@@ -20796,8 +20796,8 @@
     "weight": 43,
     "weakness": [
       "Fire",
-      "Flying",
       "Bug",
+      "Flying",
       "Rock",
       "Ghost",
       "Dark"
@@ -20825,8 +20825,8 @@
     "weight": 89.9,
     "weakness": [
       "Fire",
-      "Flying",
       "Bug",
+      "Flying",
       "Rock",
       "Ghost",
       "Dark"
@@ -20853,8 +20853,8 @@
     "detailPageURL": "/us/pokedex/nickit",
     "weight": 19.6,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0827",
@@ -20878,8 +20878,8 @@
     "detailPageURL": "/us/pokedex/thievul",
     "weight": 43.9,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0828",
@@ -20904,10 +20904,10 @@
     "weight": 4.9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0829",
     "height": 16,
@@ -20931,10 +20931,10 @@
     "weight": 5.5,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0830",
     "height": 20,
@@ -21029,8 +21029,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0834",
     "height": 39,
@@ -21098,10 +21098,10 @@
     "detailPageURL": "/us/pokedex/rolycoly",
     "weight": 26.5,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0837",
@@ -21126,9 +21126,9 @@
     "weight": 172,
     "weakness": [
       "Water",
-      "Fighting",
+      "Rock",
       "Ground",
-      "Rock"
+      "Fighting"
     ],
     "number": "0838",
     "height": 43,
@@ -21153,9 +21153,9 @@
     "weight": 684.5,
     "weakness": [
       "Water",
-      "Fighting",
+      "Rock",
       "Ground",
-      "Rock"
+      "Fighting"
     ],
     "number": "0839",
     "height": 110,
@@ -21179,10 +21179,10 @@
     "detailPageURL": "/us/pokedex/applin",
     "weight": 1.1,
     "weakness": [
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
+      "Poison",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -21208,10 +21208,10 @@
     "detailPageURL": "/us/pokedex/flapple",
     "weight": 2.2,
     "weakness": [
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
+      "Poison",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -21237,10 +21237,10 @@
     "detailPageURL": "/us/pokedex/appletun",
     "weight": 28.7,
     "weakness": [
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
+      "Poison",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -21266,8 +21266,8 @@
     "detailPageURL": "/us/pokedex/silicobra",
     "weight": 16.8,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0843",
@@ -21291,8 +21291,8 @@
     "detailPageURL": "/us/pokedex/sandaconda",
     "weight": 144.4,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice"
     ],
     "number": "0844",
@@ -21736,8 +21736,8 @@
     "detailPageURL": "/us/pokedex/obstagoon",
     "weight": 101.4,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0862",
@@ -21763,8 +21763,8 @@
     "weight": 61.7,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0863",
     "height": 31,
@@ -21862,8 +21862,8 @@
     "detailPageURL": "/us/pokedex/runerigus",
     "weight": 146.8,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice",
       "Ghost",
       "Dark"
@@ -22033,10 +22033,10 @@
     "detailPageURL": "/us/pokedex/stonjourner",
     "weight": 1146.4,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0874",
@@ -22060,8 +22060,8 @@
     "weight": 196.2,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0875",
@@ -22109,9 +22109,9 @@
     "detailPageURL": "/us/pokedex/morpeko",
     "weight": 6.6,
     "weakness": [
-      "Fighting",
-      "Ground",
       "Bug",
+      "Ground",
+      "Fighting",
       "Fairy"
     ],
     "number": "0877",
@@ -22136,8 +22136,8 @@
     "weight": 220.5,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0878",
     "height": 47,
@@ -22160,8 +22160,8 @@
     "weight": 1433,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0879",
     "height": 118,
@@ -22184,8 +22184,8 @@
     "detailPageURL": "/us/pokedex/dracozolt",
     "weight": 418.9,
     "weakness": [
-      "Ice",
       "Ground",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -22212,9 +22212,9 @@
     "weight": 330.7,
     "weakness": [
       "Fire",
-      "Fighting",
+      "Rock",
       "Ground",
-      "Rock"
+      "Fighting"
     ],
     "number": "0881",
     "height": 91,
@@ -22265,8 +22265,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Rock"
+      "Rock",
+      "Fighting"
     ],
     "number": "0883",
     "height": 79,
@@ -22290,8 +22290,8 @@
     "detailPageURL": "/us/pokedex/duraludon",
     "weight": 88.2,
     "weakness": [
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0884",
     "height": 71,
@@ -22445,8 +22445,8 @@
     "detailPageURL": "/us/pokedex/eternatus",
     "weight": 2094.4,
     "weakness": [
-      "Ice",
       "Ground",
+      "Ice",
       "Psychic",
       "Dragon"
     ],
@@ -22495,8 +22495,8 @@
     "detailPageURL": "/us/pokedex/urshifu",
     "weight": 231.5,
     "weakness": [
-      "Fighting",
       "Flying",
+      "Fighting",
       "Fairy"
     ],
     "number": "0892",
@@ -22521,11 +22521,11 @@
     "weight": 154.3,
     "weakness": [
       "Fire",
+      "Bug",
+      "Flying",
+      "Poison",
       "Ice",
       "Fighting",
-      "Poison",
-      "Flying",
-      "Bug",
       "Fairy"
     ],
     "number": "0893",
@@ -22596,8 +22596,8 @@
     "weight": 1763.7,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0896",
@@ -22644,10 +22644,10 @@
     "weight": 17,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
+      "Poison",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -22724,8 +22724,8 @@
     "detailPageURL": "/us/pokedex/ursaluna",
     "weight": 639.3,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
       "Ice",
       "Fighting"
     ],
@@ -22778,8 +22778,8 @@
     "detailPageURL": "/us/pokedex/sneasler",
     "weight": 94.8,
     "weakness": [
-      "Ground",
       "Flying",
+      "Ground",
       "Psychic"
     ],
     "number": "0903",
@@ -22828,9 +22828,9 @@
     "weight": 105.8,
     "weakness": [
       "Electric",
-      "Ice",
-      "Poison",
       "Rock",
+      "Poison",
+      "Ice",
       "Steel"
     ],
     "number": "0905",
@@ -22855,10 +22855,10 @@
     "weight": 9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0906",
     "height": 16,
@@ -22881,10 +22881,10 @@
     "weight": 26.9,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0907",
     "height": 35,
@@ -22907,11 +22907,11 @@
     "weight": 68.8,
     "weakness": [
       "Fire",
+      "Bug",
+      "Flying",
+      "Poison",
       "Ice",
       "Fighting",
-      "Poison",
-      "Flying",
-      "Bug",
       "Fairy"
     ],
     "number": "0908",
@@ -22936,8 +22936,8 @@
     "weight": 21.6,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0909",
     "height": 16,
@@ -22960,8 +22960,8 @@
     "weight": 67.7,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0910",
     "height": 39,
@@ -22984,8 +22984,8 @@
     "weight": 719.8,
     "weakness": [
       "Water",
-      "Ground",
       "Rock",
+      "Ground",
       "Ghost",
       "Dark"
     ],
@@ -23202,8 +23202,8 @@
     "weight": 38.6,
     "weakness": [
       "Fire",
-      "Flying",
       "Bug",
+      "Flying",
       "Rock",
       "Fairy"
     ],
@@ -23396,11 +23396,11 @@
     "weight": 14.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Fighting",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice",
+      "Fighting"
     ],
     "number": "0928",
     "height": 12,
@@ -23424,11 +23424,11 @@
     "weight": 26.2,
     "weakness": [
       "Fire",
-      "Ice",
-      "Fighting",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice",
+      "Fighting"
     ],
     "number": "0929",
     "height": 24,
@@ -23452,11 +23452,11 @@
     "weight": 106.3,
     "weakness": [
       "Fire",
-      "Ice",
-      "Fighting",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice",
+      "Fighting"
     ],
     "number": "0930",
     "height": 55,
@@ -23481,8 +23481,8 @@
     "weight": 5.3,
     "weakness": [
       "Electric",
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0931",
     "height": 24,
@@ -23506,10 +23506,10 @@
     "detailPageURL": "/us/pokedex/nacli",
     "weight": 35.3,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0932",
@@ -23533,10 +23533,10 @@
     "detailPageURL": "/us/pokedex/naclstack",
     "weight": 231.5,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0933",
@@ -23560,10 +23560,10 @@
     "detailPageURL": "/us/pokedex/garganacl",
     "weight": 529.1,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0934",
@@ -23587,8 +23587,8 @@
     "weight": 23.1,
     "weakness": [
       "Water",
-      "Ground",
-      "Rock"
+      "Rock",
+      "Ground"
     ],
     "number": "0935",
     "height": 24,
@@ -23611,8 +23611,8 @@
     "weight": 187.4,
     "weakness": [
       "Water",
-      "Ground",
       "Rock",
+      "Ground",
       "Ghost",
       "Dark"
     ],
@@ -23638,8 +23638,8 @@
     "weight": 136.7,
     "weakness": [
       "Water",
-      "Ground",
       "Rock",
+      "Ground",
       "Ghost",
       "Dark"
     ],
@@ -23711,8 +23711,8 @@
     "detailPageURL": "/us/pokedex/wattrel",
     "weight": 7.9,
     "weakness": [
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0940",
     "height": 16,
@@ -23736,8 +23736,8 @@
     "detailPageURL": "/us/pokedex/kilowattrel",
     "weight": 85.1,
     "weakness": [
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ],
     "number": "0941",
     "height": 55,
@@ -23761,8 +23761,8 @@
     "detailPageURL": "/us/pokedex/maschiff",
     "weight": 35.3,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0942",
@@ -23786,8 +23786,8 @@
     "detailPageURL": "/us/pokedex/mabosstiff",
     "weight": 134.5,
     "weakness": [
-      "Fighting",
       "Bug",
+      "Fighting",
       "Fairy"
     ],
     "number": "0943",
@@ -23861,8 +23861,8 @@
     "weight": 1.3,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -23888,8 +23888,8 @@
     "weight": 13.2,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -23915,9 +23915,9 @@
     "weight": 72.8,
     "weakness": [
       "Fire",
-      "Ice",
+      "Bug",
       "Flying",
-      "Bug"
+      "Ice"
     ],
     "number": "0948",
     "height": 35,
@@ -23941,9 +23941,9 @@
     "weight": 127.9,
     "weakness": [
       "Fire",
-      "Ice",
+      "Bug",
       "Flying",
-      "Bug"
+      "Ice"
     ],
     "number": "0949",
     "height": 75,
@@ -23967,10 +23967,10 @@
     "detailPageURL": "/us/pokedex/klawf",
     "weight": 174.2,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
+      "Water",
       "Ground",
+      "Fighting",
       "Steel"
     ],
     "number": "0950",
@@ -23995,10 +23995,10 @@
     "weight": 6.6,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "0951",
     "height": 12,
@@ -24021,9 +24021,9 @@
     "detailPageURL": "/us/pokedex/scovillain",
     "weight": 33.1,
     "weakness": [
-      "Poison",
       "Flying",
-      "Rock"
+      "Rock",
+      "Poison"
     ],
     "number": "0952",
     "height": 35,
@@ -24071,8 +24071,8 @@
     "weight": 7.7,
     "weakness": [
       "Fire",
-      "Flying",
       "Bug",
+      "Flying",
       "Rock",
       "Ghost",
       "Dark"
@@ -24273,8 +24273,8 @@
     "weight": 94.6,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Fairy"
     ],
     "number": "0962",
@@ -24419,8 +24419,8 @@
     "weight": 683.4,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0968",
     "height": 98,
@@ -24542,8 +24542,8 @@
     "weight": 81.6,
     "weakness": [
       "Electric",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic",
       "Fairy"
     ],
@@ -24570,8 +24570,8 @@
     "weight": 99.2,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0974",
@@ -24596,8 +24596,8 @@
     "weight": 1543.2,
     "weakness": [
       "Fire",
-      "Fighting",
       "Rock",
+      "Fighting",
       "Steel"
     ],
     "number": "0975",
@@ -24724,8 +24724,8 @@
     "weight": 491.6,
     "weakness": [
       "Water",
-      "Ice",
       "Ground",
+      "Ice",
       "Psychic"
     ],
     "number": "0980",
@@ -24799,8 +24799,8 @@
     "weight": 264.6,
     "weakness": [
       "Fire",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0983",
     "height": 79,
@@ -24823,10 +24823,10 @@
     "detailPageURL": "/us/pokedex/great-tusk",
     "weight": 705.5,
     "weakness": [
-      "Water",
       "Grass",
-      "Ice",
+      "Water",
       "Flying",
+      "Ice",
       "Psychic",
       "Fairy"
     ],
@@ -24877,11 +24877,11 @@
     "weight": 46.3,
     "weakness": [
       "Fire",
+      "Bug",
+      "Flying",
+      "Poison",
       "Ice",
       "Fighting",
-      "Poison",
-      "Flying",
-      "Bug",
       "Fairy"
     ],
     "number": "0986",
@@ -24955,10 +24955,10 @@
     "detailPageURL": "/us/pokedex/sandy-shocks",
     "weight": 132.3,
     "weakness": [
-      "Water",
       "Grass",
-      "Ice",
-      "Ground"
+      "Water",
+      "Ground",
+      "Ice"
     ],
     "number": "0989",
     "height": 91,
@@ -24983,8 +24983,8 @@
     "weakness": [
       "Fire",
       "Water",
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "0990",
     "height": 35,
@@ -25009,8 +25009,8 @@
     "weakness": [
       "Grass",
       "Electric",
-      "Fighting",
-      "Rock"
+      "Rock",
+      "Fighting"
     ],
     "number": "0991",
     "height": 24,
@@ -25059,8 +25059,8 @@
     "weight": 244.7,
     "weakness": [
       "Electric",
-      "Ice",
       "Rock",
+      "Ice",
       "Fairy"
     ],
     "number": "0993",
@@ -25085,9 +25085,9 @@
     "weight": 79.4,
     "weakness": [
       "Water",
+      "Rock",
       "Ground",
-      "Psychic",
-      "Rock"
+      "Psychic"
     ],
     "number": "0994",
     "height": 47,
@@ -25110,10 +25110,10 @@
     "detailPageURL": "/us/pokedex/iron-thorns",
     "weight": 668,
     "weakness": [
-      "Water",
       "Grass",
-      "Fighting",
-      "Ground"
+      "Water",
+      "Ground",
+      "Fighting"
     ],
     "number": "0995",
     "height": 63,
@@ -25136,8 +25136,8 @@
     "detailPageURL": "/us/pokedex/frigibax",
     "weight": 37.5,
     "weakness": [
-      "Fighting",
       "Rock",
+      "Fighting",
       "Dragon",
       "Steel",
       "Fairy"
@@ -25163,8 +25163,8 @@
     "detailPageURL": "/us/pokedex/arctibax",
     "weight": 66.1,
     "weakness": [
-      "Fighting",
       "Rock",
+      "Fighting",
       "Dragon",
       "Steel",
       "Fairy"
@@ -25190,8 +25190,8 @@
     "detailPageURL": "/us/pokedex/baxcalibur",
     "weight": 463,
     "weakness": [
-      "Fighting",
       "Rock",
+      "Fighting",
       "Dragon",
       "Steel",
       "Fairy"
@@ -25267,11 +25267,11 @@
     "weight": 163.6,
     "weakness": [
       "Fire",
+      "Bug",
+      "Flying",
+      "Poison",
       "Ice",
       "Fighting",
-      "Poison",
-      "Flying",
-      "Bug",
       "Fairy"
     ],
     "number": "1001",
@@ -25296,9 +25296,9 @@
     "weight": 335.5,
     "weakness": [
       "Fire",
-      "Fighting",
       "Bug",
       "Rock",
+      "Fighting",
       "Steel",
       "Fairy"
     ],
@@ -25323,11 +25323,11 @@
     "detailPageURL": "/us/pokedex/ting-lu",
     "weight": 1542.6,
     "weakness": [
-      "Water",
       "Grass",
+      "Water",
+      "Bug",
       "Ice",
       "Fighting",
-      "Bug",
       "Fairy"
     ],
     "number": "1003",
@@ -25352,9 +25352,9 @@
     "weight": 10.8,
     "weakness": [
       "Water",
-      "Fighting",
+      "Rock",
       "Ground",
-      "Rock"
+      "Fighting"
     ],
     "number": "1004",
     "height": 16,
@@ -25377,9 +25377,9 @@
     "detailPageURL": "/us/pokedex/roaring-moon",
     "weight": 837.8,
     "weakness": [
+      "Bug",
       "Ice",
       "Fighting",
-      "Bug",
       "Dragon",
       "Fairy"
     ],
@@ -25404,8 +25404,8 @@
     "detailPageURL": "/us/pokedex/iron-valiant",
     "weight": 77.2,
     "weakness": [
-      "Poison",
       "Flying",
+      "Poison",
       "Psychic",
       "Steel",
       "Fairy"
@@ -25431,8 +25431,8 @@
     "detailPageURL": "/us/pokedex/koraidon",
     "weight": 668,
     "weakness": [
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic",
       "Dragon",
       "Fairy"
@@ -25458,8 +25458,8 @@
     "detailPageURL": "/us/pokedex/miraidon",
     "weight": 529.1,
     "weakness": [
-      "Ice",
       "Ground",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -25509,10 +25509,10 @@
     "weight": 275.6,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
+      "Poison",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -25538,10 +25538,10 @@
     "detailPageURL": "/us/pokedex/dipplin",
     "weight": 9.7,
     "weakness": [
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
+      "Poison",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -25567,8 +25567,8 @@
     "weight": 2.4,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -25594,8 +25594,8 @@
     "weight": 4.9,
     "weakness": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Ghost",
       "Dark"
     ],
@@ -25620,8 +25620,8 @@
     "detailPageURL": "/us/pokedex/okidogi",
     "weight": 203.3,
     "weakness": [
-      "Ground",
       "Flying",
+      "Ground",
       "Psychic"
     ],
     "number": "1014",
@@ -25696,10 +25696,10 @@
     "weight": 87.7,
     "weakness": [
       "Fire",
-      "Ice",
-      "Poison",
+      "Bug",
       "Flying",
-      "Bug"
+      "Poison",
+      "Ice"
     ],
     "number": "1017",
     "height": 47,
@@ -25722,8 +25722,8 @@
     "detailPageURL": "/us/pokedex/archaludon",
     "weight": 132.3,
     "weakness": [
-      "Fighting",
-      "Ground"
+      "Ground",
+      "Fighting"
     ],
     "number": "1018",
     "height": 79,
@@ -25747,10 +25747,10 @@
     "detailPageURL": "/us/pokedex/hydrapple",
     "weight": 205,
     "weakness": [
-      "Ice",
-      "Poison",
-      "Flying",
       "Bug",
+      "Flying",
+      "Poison",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -25775,8 +25775,8 @@
     "detailPageURL": "/us/pokedex/gouging-fire",
     "weight": 1300.7,
     "weakness": [
-      "Ground",
       "Rock",
+      "Ground",
       "Dragon"
     ],
     "number": "1020",
@@ -25800,8 +25800,8 @@
     "detailPageURL": "/us/pokedex/raging-bolt",
     "weight": 1058.2,
     "weakness": [
-      "Ice",
       "Ground",
+      "Ice",
       "Dragon",
       "Fairy"
     ],
@@ -25826,10 +25826,10 @@
     "detailPageURL": "/us/pokedex/iron-boulder",
     "weight": 358.3,
     "weakness": [
-      "Water",
       "Grass",
-      "Ground",
+      "Water",
       "Bug",
+      "Ground",
       "Ghost",
       "Dark",
       "Steel"
