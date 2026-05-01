@@ -1,3 +1,21 @@
+# Fri, 01 May 2026 01:20:34 GMT
+
+## Added: 3
+
+- wouter173/scatterbug
+- cloutsocks/komala
+- BugDroi/Buzzwole
+
+## Removed: 1
+
+- Francois238/Bastiodon
+
+## Changed: 3
+
+- MattiasICP/ShellOS → mrmcpowned/shellos
+- sdan/ambipom → megagonlabs/ambipom
+- geedbee/oshawott → Nightwing000/oshawott
+
 # Wed, 15 Apr 2026 01:14:07 GMT
 
 ## Added: 4
