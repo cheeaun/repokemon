@@ -1,3 +1,17 @@
+# Fri, 15 May 2026 01:20:29 GMT
+
+## Removed: 3
+
+- shannon-lab/zapdos
+- guilherme-marques-de-sa/nincada
+- gardesk/garchomp
+
+## Changed: 3
+
+- dacresni/haunter → sj1607/Haunter
+- rahulganesamani/Chikorita → maxiiioooo/chikorita
+- guaiguadigital/lanturn → getlantern/lanturn
+
 # Fri, 01 May 2026 01:20:34 GMT
 
 ## Added: 3
