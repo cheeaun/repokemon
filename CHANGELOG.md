@@ -1,3 +1,18 @@
+# Mon, 01 Jun 2026 01:29:25 GMT
+
+## Added: 5
+
+- shannon-lab/zapdos
+- saurav-kumar-xix98/girafarig
+- gardesk/garchomp
+- saurav-kumar-xix98/bouffalant
+- saurav-kumar-xix98/arboliva
+
+## Changed: 2
+
+- theosanderson/sandslash → leotonezi/sandslash
+- cheeaun/entei → harshonyou/entei
+
 # Fri, 15 May 2026 01:20:29 GMT
 
 ## Removed: 3
