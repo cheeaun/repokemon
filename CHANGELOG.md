@@ -1,3 +1,23 @@
+# Mon, 15 Jun 2026 01:33:52 GMT
+
+## Added: 1
+
+- BugDroi/Blacephalon
+
+## Removed: 1
+
+- BugDroi/Buzzwole
+
+## Changed: 7
+
+- DaanVandenBosch/magneton → concretesolutions/magneton
+- bjweerd/Bayleef → skunksecond/bayleef
+- rezmayyy/Torterra → PranjalShridhar316/Torterra
+- mrmcpowned/shellos → skee21/ShellOS
+- literallyrounak/Snivy → sounishant/snivy
+- kjema/cosmog → suprith41/cosmog
+- lucka-me/falinks → HKLMTT/falinks
+
 # Mon, 01 Jun 2026 01:29:25 GMT
 
 ## Added: 5
