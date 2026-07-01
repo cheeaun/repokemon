@@ -1,3 +1,27 @@
+# Wed, 01 Jul 2026 01:32:23 GMT
+
+## Added: 2
+
+- carlosvignolosoto-01/Oricorio
+- TheMichelangelo/Skwovet
+
+## Removed: 1
+
+- cloutsocks/komala
+
+## Changed: 10
+
+- 5310/exeggutor → TS47Andres/Exeggutor
+- fortheusers/spinarak → pagvac/spinarak
+- RhyanLima/blaziken → Nemoxus/blaziken
+- Lacrymosaa/Sableye → justschen/sableye
+- skee21/ShellOS → cacao17168/ShellOS
+- benwayne182/giratina → Jeet-Srivastava/Giratina
+- gastrodon/ferrothorn → mayank-dev-15/ferrothorn
+- anishfathima22/axew → adithyasource/axew
+- red-wipet/Sylveon → Ultramicroscope/Sylveon
+- mas72tatan-gif/meltan → adrianagxrcia/meltan
+
 # Mon, 15 Jun 2026 01:33:52 GMT
 
 ## Added: 1
