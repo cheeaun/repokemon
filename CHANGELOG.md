@@ -1,3 +1,24 @@
+# Sat, 01 Aug 2026 01:19:27 GMT
+
+## Added: 2
+
+- alanolv/Sliggoo
+- Makabeez/iron-hands
+
+## Removed: 2
+
+- alanolv/Bergmite
+- cloutsocks/komala
+
+## Changed: 6
+
+- getlantern/lanturn → maytay-aravind/LanTurn
+- Lacrymosaa/Scizor → bstillitano/scizor
+- surajgoraya/kirlia → suprith41/kirlia
+- julietasegovia/solOSis → haniffalab/solosis
+- alanolv/reshiram → WiLLzFPS/Reshiram
+- suprith41/cosmog → echosonusharma/cosmog
+
 # Wed, 15 Jul 2026 01:14:12 GMT
 
 ## Added: 3
