@@ -1,3 +1,28 @@
+# Sat, 15 Aug 2026 00:59:37 GMT
+
+## Added: 4
+
+- Mira-morphosis/StARAPTOR
+- L1UK3/stunfisk
+- alanolv/Yveltal
+- cloutsocks/komala
+
+## Removed: 1
+
+- MasterBhuvnesh/Furfrou
+
+## Changed: 9
+
+- NhatMinh2208/electabuzz → nna774/Electabuzz
+- maytay-aravind/LanTurn → getlantern/lanturn
+- bahlo/pichu → jackeydou/Pichu
+- poketch/Slowking → Xuenqlve/slowking
+- kubabialy/latias → shodaj/latias
+- iamVici/rayquaza → tanoydev607-maker/rayquaza
+- FirezTheGreat/Arceus → 99nil/arceus
+- Nightwing000/oshawott → 23070639-boop/oshawott
+- irvingdinh/regieleki → YlanzinhoY/Regieleki
+
 # Sat, 01 Aug 2026 01:19:27 GMT
 
 ## Added: 2
