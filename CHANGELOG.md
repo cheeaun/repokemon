@@ -1,3 +1,19 @@
+# Tue, 01 Sep 2026 01:09:04 GMT
+
+## Added: 2
+
+- Nayu-u/Kingambit
+- Shibarashii/archaludon
+
+## Changed: 6
+
+- jackeydou/Pichu → yeabwang/pichu
+- AtomicScript/MetaGross → vbalasankar/metagross
+- cacao17168/ShellOS → zfan2356/shellos
+- sounishant/snivy → prashsti29/snivy
+- alanolv/Yveltal → galehrizky/Yveltal
+- adrianagxrcia/meltan → 52poke/meltan
+
 # Sat, 15 Aug 2026 00:59:37 GMT
 
 ## Added: 4
