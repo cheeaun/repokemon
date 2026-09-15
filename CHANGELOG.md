@@ -1,3 +1,22 @@
+# Tue, 15 Sep 2026 01:10:04 GMT
+
+## Added: 3
+
+- alfianpraa/weezing
+- Isenvorv/Anorith
+- Shibarashii/honchkrow
+
+## Changed: 8
+
+- TienYoung/Venusaur → gtktsc/venusaur
+- Sreejith-nair511/HeraCross → bstillitano/heracross
+- suprith41/kirlia → surajgoraya/kirlia
+- PranjalShridhar316/Torterra → isoseven/torterra
+- phoenixlegen/deino → Agora0x/deino
+- tanyiqu/Mimikyu → 3x-haust/Mimikyu
+- medeirosJose/alcremie → SidneyRoberto9/alcremie
+- azevedo-pedro/iron-crown → krex-prog/IRON-CROWN
+
 # Tue, 01 Sep 2026 01:09:04 GMT
 
 ## Added: 2
