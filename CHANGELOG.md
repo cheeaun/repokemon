@@ -1,3 +1,25 @@
+# Thu, 01 Oct 2026 01:13:34 GMT
+
+## Added: 5
+
+- nvzoll/whiscash
+- kaminarinotensai-ship-it/Cresselia
+- QubeUtils/Golurk
+- juandurante2005/kyurem
+- GBAkshaya/glimmora
+
+## Removed: 2
+
+- Shibarashii/honchkrow
+- SaltyQuetzals/Toxicroak
+
+## Changed: 4
+
+- DominicHolmes/koffing → pokepc/koffing
+- A5rocks/umbreon → agayushh/Umbreon
+- po5/celebi → ofasgard/celebi
+- krex-prog/IRON-CROWN → Player149/iron-crown
+
 # Tue, 15 Sep 2026 01:10:04 GMT
 
 ## Added: 3
