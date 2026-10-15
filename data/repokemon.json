@@ -10,10 +10,10 @@
 			"owner_name": "alibaba",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
 			"url": "https://github.com/alibaba/bulbasaur",
-			"desc": "💡 A pluggable, scalable process engine. You can use it to develop business-process, approval-process, retry-process and so on. Hope you enjoy it! 💖 可插拔的���简流程引擎，可快速实现流程、审批、业务失败重试等场景。",
+			"desc": "💡 A pluggable, scalable process engine. You can use it to develop business-process, approval-process, retry-process and so on. Hope you enjoy it! 💖 可插拔的精简流程引擎，可快速实现流程、审批、业务失败重试等场景。",
 			"lang": "Java",
-			"stars": 753,
-			"watches": 753,
+			"stars": 752,
+			"watches": 752,
 			"forks": 242
 		}
 	},
@@ -228,9 +228,9 @@
 			"url": "https://github.com/wasm-bindgen/weedle",
 			"desc": "A WebIDL Parser",
 			"lang": "WebIDL",
-			"stars": 55,
-			"watches": 55,
-			"forks": 32
+			"stars": 54,
+			"watches": 54,
+			"forks": 33
 		}
 	},
 	{
@@ -444,8 +444,8 @@
 			"url": "https://github.com/zhuifengshaonianhanlu/pikachu",
 			"desc": "一个好玩的Web安全-漏洞测试平台",
 			"lang": "PHP",
-			"stars": 4553,
-			"watches": 4553,
+			"stars": 4568,
+			"watches": 4568,
 			"forks": 800
 		}
 	},
@@ -454,17 +454,17 @@
 		"name": "Raichu",
 		"slug": "raichu",
 		"repo": {
-			"id": 445212407,
-			"name": "RAIChU",
-			"full_name": "BTheDragonMaster/RAIChU",
-			"owner_name": "BTheDragonMaster",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/47810869?v=4",
-			"url": "https://github.com/BTheDragonMaster/RAIChU",
-			"desc": "Reaction Analysis through Imaging of Chemical Units",
+			"id": 637133197,
+			"name": "Raichu",
+			"full_name": "XiaoTaoWang/Raichu",
+			"owner_name": "XiaoTaoWang",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/8737225?v=4",
+			"url": "https://github.com/XiaoTaoWang/Raichu",
+			"desc": "A cross-platform method for chromatin contact normalization",
 			"lang": "Python",
 			"stars": 17,
 			"watches": 17,
-			"forks": 6
+			"forks": 2
 		}
 	},
 	{
@@ -760,8 +760,8 @@
 			"url": "https://github.com/MateriiApps/Gloom",
 			"desc": "GitHub reimagined with Material You",
 			"lang": "Kotlin",
-			"stars": 792,
-			"watches": 792,
+			"stars": 793,
+			"watches": 793,
 			"forks": 36
 		}
 	},
@@ -927,8 +927,8 @@
 			"url": "https://github.com/SKeyerror/Psyduck",
 			"desc": "Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计",
 			"lang": "Go",
-			"stars": 4409,
-			"watches": 4409,
+			"stars": 4403,
+			"watches": 4403,
 			"forks": 511
 		}
 	},
@@ -1096,7 +1096,7 @@
 			"lang": "Elixir",
 			"stars": 44,
 			"watches": 44,
-			"forks": 31
+			"forks": 32
 		}
 	},
 	{
@@ -1192,7 +1192,20 @@
 	{
 		"id": "070",
 		"name": "Weepinbell",
-		"slug": "weepinbell"
+		"slug": "weepinbell",
+		"repo": {
+			"id": 1411374268,
+			"name": "weepinbell",
+			"full_name": "BigCoke233/weepinbell",
+			"owner_name": "BigCoke233",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/45323514?v=4",
+			"url": "https://github.com/BigCoke233/weepinbell",
+			"desc": "[Mirror] A webmention receiver written in Clojure. Please contribute on Codeberg:",
+			"lang": "Clojure",
+			"stars": 0,
+			"watches": 0,
+			"forks": 0
+		}
 	},
 	{
 		"id": "071",
@@ -1261,8 +1274,8 @@
 			"url": "https://github.com/zachlatta/geodude",
 			"desc": "A tiny command-line utility for geocoding addresses.",
 			"lang": "Go",
-			"stars": 75,
-			"watches": 75,
+			"stars": 74,
+			"watches": 74,
 			"forks": 4
 		}
 	},
@@ -1297,9 +1310,9 @@
 			"url": "https://github.com/golemcloud/golem",
 			"desc": "Golem Cloud is the agent-native platform for building AI agents and distributed applications that never lose state, never duplicate work, and never require you to build infrastructure.",
 			"lang": "Rust",
-			"stars": 1503,
-			"watches": 1503,
-			"forks": 209
+			"stars": 1513,
+			"watches": 1513,
+			"forks": 210
 		}
 	},
 	{
@@ -1459,8 +1472,8 @@
 			"url": "https://github.com/fitzgen/dodrio",
 			"desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
 			"lang": "Rust",
-			"stars": 1239,
-			"watches": 1239,
+			"stars": 1235,
+			"watches": 1235,
 			"forks": 45
 		}
 	},
@@ -1585,8 +1598,8 @@
 			"url": "https://github.com/mgrachev/gastly",
 			"desc": "👻 Create screenshots or previews of web pages",
 			"lang": "Ruby",
-			"stars": 128,
-			"watches": 128,
+			"stars": 127,
+			"watches": 127,
 			"forks": 16
 		}
 	},
@@ -1639,8 +1652,8 @@
 			"url": "https://github.com/StevenBaby/onix",
 			"desc": "Onix - 操作系统实现",
 			"lang": "C",
-			"stars": 868,
-			"watches": 868,
+			"stars": 869,
+			"watches": 869,
 			"forks": 170
 		}
 	},
@@ -1693,8 +1706,8 @@
 			"url": "https://github.com/alexherbo2/krabby",
 			"desc": "A keyboard interface to the web, inspired by Kakoune",
 			"lang": "HTML",
-			"stars": 309,
-			"watches": 309,
+			"stars": 310,
+			"watches": 310,
 			"forks": 20
 		}
 	},
@@ -1889,7 +1902,7 @@
 			"owner_name": "pokepc",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/186428333?v=4",
 			"url": "https://github.com/pokepc/koffing",
-			"desc": "Online Pokémon Showdown Team parser that converts your competitive strategies to machine-readable JSON code.",
+			"desc": "Online Pokémon Showdown Team parser and JS lib that converts your competitive strategies to machine-readable JSON code.",
 			"lang": "TypeScript",
 			"stars": 24,
 			"watches": 24,
@@ -2107,8 +2120,8 @@
 			"url": "https://github.com/megagonlabs/starmie",
 			"desc": "Resources for PVLDB 2023 submission",
 			"lang": "Python",
-			"stars": 30,
-			"watches": 30,
+			"stars": 29,
+			"watches": 29,
 			"forks": 11
 		}
 	},
@@ -2305,9 +2318,9 @@
 			"url": "https://github.com/sabrogden/Ditto",
 			"desc": "Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.",
 			"lang": "C",
-			"stars": 7237,
-			"watches": 7237,
-			"forks": 454
+			"stars": 7305,
+			"watches": 7305,
+			"forks": 462
 		}
 	},
 	{
@@ -2359,8 +2372,8 @@
 			"url": "https://github.com/fluffgfx/jolteon",
 			"desc": "💡 Babel + Electron + React + Browserify + SASS application stack. Electron Made Easy ™️",
 			"lang": "JavaScript",
-			"stars": 936,
-			"watches": 936,
+			"stars": 937,
+			"watches": 937,
 			"forks": 24
 		}
 	},
@@ -2503,8 +2516,8 @@
 			"url": "https://github.com/moonbeam-nyc/snorlax",
 			"desc": "wake and sleep Kubernetes deployments on a schedule",
 			"lang": "Go",
-			"stars": 392,
-			"watches": 392,
+			"stars": 391,
+			"watches": 391,
 			"forks": 29
 		}
 	},
@@ -2541,7 +2554,7 @@
 			"lang": "SWIG",
 			"stars": 59,
 			"watches": 59,
-			"forks": 48
+			"forks": 49
 		}
 	},
 	{
@@ -2557,8 +2570,8 @@
 			"url": "https://github.com/arfc/moltres",
 			"desc": "Repository for Moltres, a code for simulating Molten Salt Reactors",
 			"lang": "C++",
-			"stars": 84,
-			"watches": 84,
+			"stars": 85,
+			"watches": 85,
 			"forks": 48
 		}
 	},
@@ -2647,8 +2660,8 @@
 			"url": "https://github.com/fossasia/mew",
 			"desc": "Package Manager Translator",
 			"lang": "Python",
-			"stars": 1486,
-			"watches": 1486,
+			"stars": 1484,
+			"watches": 1484,
 			"forks": 28
 		}
 	},
@@ -2711,14 +2724,14 @@
 		"name": "Cyndaquil",
 		"slug": "cyndaquil",
 		"repo": {
-			"id": 818854910,
+			"id": 1418131151,
 			"name": "cyndaquil",
-			"full_name": "Cpt-Karthik/cyndaquil",
-			"owner_name": "Cpt-Karthik",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/56345709?v=4",
-			"url": "https://github.com/Cpt-Karthik/cyndaquil",
-			"desc": "Collection of components for react",
-			"lang": "JavaScript",
+			"full_name": "xiphos-0123/cyndaquil",
+			"owner_name": "xiphos-0123",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/339139195?v=4",
+			"url": "https://github.com/xiphos-0123/cyndaquil",
+			"desc": "productivity",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -2898,7 +2911,7 @@
 			"lang": "Python",
 			"stars": 2,
 			"watches": 2,
-			"forks": 11
+			"forks": 14
 		}
 	},
 	{
@@ -3094,8 +3107,8 @@
 			"url": "https://github.com/ethpandaops/xatu",
 			"desc": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
 			"lang": "Go",
-			"stars": 98,
-			"watches": 98,
+			"stars": 99,
+			"watches": 99,
 			"forks": 30
 		}
 	},
@@ -3423,8 +3436,8 @@
 			"url": "https://github.com/agayushh/Umbreon",
 			"desc": "An AI powered browser extension which can auto fill all the form entries for you and save your time ",
 			"lang": "TypeScript",
-			"stars": 6,
-			"watches": 6,
+			"stars": 7,
+			"watches": 7,
 			"forks": 0
 		}
 	},
@@ -3779,8 +3792,8 @@
 			"url": "https://github.com/blastrain/octillery",
 			"desc": "Go package for sharding databases ( Supports every ORM or raw SQL )",
 			"lang": "Go",
-			"stars": 202,
-			"watches": 202,
+			"stars": 201,
+			"watches": 201,
 			"forks": 31
 		}
 	},
@@ -3815,9 +3828,9 @@
 			"url": "https://github.com/mantinedev/mantine",
 			"desc": "A fully featured React components library",
 			"lang": "TypeScript",
-			"stars": 31787,
-			"watches": 31787,
-			"forks": 2384
+			"stars": 31832,
+			"watches": 31832,
+			"forks": 2394
 		}
 	},
 	{
@@ -3879,9 +3892,9 @@
 			"url": "https://github.com/cheeaun/phanpy",
 			"desc": "A minimalistic opinionated Mastodon web client",
 			"lang": "JavaScript",
-			"stars": 1495,
-			"watches": 1495,
-			"forks": 186
+			"stars": 1501,
+			"watches": 1501,
+			"forks": 184
 		}
 	},
 	{
@@ -4094,7 +4107,7 @@
 			"lang": "Assembly",
 			"stars": 37,
 			"watches": 37,
-			"forks": 18
+			"forks": 19
 		}
 	},
 	{
@@ -4162,10 +4175,10 @@
 			"owner_name": "lugia-ysstech",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/53849006?v=4",
 			"url": "https://github.com/lugia-ysstech/lugia",
-			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整��工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
+			"desc": "Lugia产品包括一套标准的前端组件库、一套统一的模型管理框架、一套完整���工程构建工具链，以及一套高效并且开箱即用的前端可视化开发工具。",
 			"lang": "JavaScript",
-			"stars": 452,
-			"watches": 452,
+			"stars": 451,
+			"watches": 451,
 			"forks": 54
 		}
 	},
@@ -5321,10 +5334,10 @@
 			"owner_name": "KrishBharadwaj5678",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/167067349?v=4",
 			"url": "https://github.com/KrishBharadwaj5678/Flygon",
-			"desc": "Unleash your inner dragon rider with Flygon! Select your dragon, take control with intuitive joystick navigation, and soar through your surroundings in immersive augmented reality.  ",
+			"desc": "Choose your dragon, take control, and embark on an immersive augmented reality adventure with Flygon.",
 			"lang": "ShaderLab",
-			"stars": 0,
-			"watches": 0,
+			"stars": 2,
+			"watches": 2,
 			"forks": 0
 		}
 	},
@@ -6401,7 +6414,7 @@
 			"lang": "PHP",
 			"stars": 870,
 			"watches": 870,
-			"forks": 103
+			"forks": 104
 		}
 	},
 	{
@@ -7255,7 +7268,7 @@
 			"lang": "Racket",
 			"stars": 7,
 			"watches": 7,
-			"forks": 0
+			"forks": 1
 		}
 	},
 	{
@@ -7355,10 +7368,10 @@
 		"repo": {
 			"id": 1368729716,
 			"name": "Cresselia",
-			"full_name": "kaminarinotensai-ship-it/Cresselia",
-			"owner_name": "kaminarinotensai-ship-it",
+			"full_name": "kam1n4ri/Cresselia",
+			"owner_name": "kam1n4ri",
 			"owner_avatar": "https://avatars.githubusercontent.com/u/246963823?v=4",
-			"url": "https://github.com/kaminarinotensai-ship-it/Cresselia",
+			"url": "https://github.com/kam1n4ri/Cresselia",
 			"desc": "Cresselia is a minimalistic and feature-rich epub reader ",
 			"lang": "TypeScript",
 			"stars": 0,
@@ -7394,17 +7407,17 @@
 		"name": "Darkrai",
 		"slug": "darkrai",
 		"repo": {
-			"id": 923923265,
+			"id": 1400480806,
 			"name": "Darkrai",
-			"full_name": "BrianCassriel/Darkrai",
-			"owner_name": "BrianCassriel",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/112517291?v=4",
-			"url": "https://github.com/BrianCassriel/Darkrai",
-			"desc": "Procedural Firework Animation Console App - CPSC 370 Final Project",
-			"lang": "C#",
+			"full_name": "Spidey173/Darkrai",
+			"owner_name": "Spidey173",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/186036727?v=4",
+			"url": "https://github.com/Spidey173/Darkrai",
+			"desc": "Built an AI-powered GitHub automation platform for webhook processing, secure event handling, automated code reviews, and background workflow orchestration using FastAPI, Redis, and modern backend architecture.",
+			"lang": "Python",
 			"stars": 0,
 			"watches": 0,
-			"forks": 1
+			"forks": 0
 		}
 	},
 	{
@@ -7430,17 +7443,17 @@
 		"name": "Arceus",
 		"slug": "arceus",
 		"repo": {
-			"id": 354823541,
-			"name": "arceus",
-			"full_name": "99nil/arceus",
-			"owner_name": "99nil",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/84429291?v=4",
-			"url": "https://github.com/99nil/arceus",
-			"desc": "Kubernetes(k8s) resource content builder, CRD supported. Kubernetes(k8s) 所有资源内容生成器，支持CRD。",
-			"lang": "Go",
-			"stars": 13,
-			"watches": 13,
-			"forks": 4
+			"id": 386019693,
+			"name": "Arceus",
+			"full_name": "FirezTheGreat/Arceus",
+			"owner_name": "FirezTheGreat",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/55920870?v=4",
+			"url": "https://github.com/FirezTheGreat/Arceus",
+			"desc": "Discord Bot Focused On Modmail With Mongoose Using discord.js v13",
+			"lang": "JavaScript",
+			"stars": 14,
+			"watches": 14,
+			"forks": 7
 		}
 	},
 	{
@@ -7862,8 +7875,8 @@
 			"url": "https://github.com/midas-research/audino",
 			"desc": "Open source audio annotation tool for humans",
 			"lang": "TypeScript",
-			"stars": 1147,
-			"watches": 1147,
+			"stars": 1148,
+			"watches": 1148,
 			"forks": 140
 		}
 	},
@@ -8607,7 +8620,7 @@
 			"lang": "CSS",
 			"stars": 22,
 			"watches": 22,
-			"forks": 8
+			"forks": 7
 		}
 	},
 	{
@@ -8958,13 +8971,13 @@
 		"name": "Rufflet",
 		"slug": "rufflet",
 		"repo": {
-			"id": 1134099028,
-			"name": "rufflet",
-			"full_name": "aaaiuiuiu/rufflet",
-			"owner_name": "aaaiuiuiu",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/220202853?v=4",
-			"url": "https://github.com/aaaiuiuiu/rufflet",
-			"desc": "koukousei",
+			"id": 456527824,
+			"name": "Rufflet",
+			"full_name": "Rufflet/Rufflet",
+			"owner_name": "Rufflet",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/15361093?v=4",
+			"url": "https://github.com/Rufflet/Rufflet",
+			"desc": "Config files for my GitHub profile.",
 			"lang": "TypeScript",
 			"stars": 0,
 			"watches": 0,
@@ -9207,20 +9220,7 @@
 	{
 		"id": "646",
 		"name": "Kyurem",
-		"slug": "kyurem",
-		"repo": {
-			"id": 1384090280,
-			"name": "kyurem",
-			"full_name": "juandurante2005/kyurem",
-			"owner_name": "juandurante2005",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/112489652?v=4",
-			"url": "https://github.com/juandurante2005/kyurem",
-			"desc": "Models and Analysis for the KYUREM capstone mission",
-			"lang": "Python",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "kyurem"
 	},
 	{
 		"id": "647",
@@ -9473,8 +9473,8 @@
 			"url": "https://github.com/abcboy101/vivillon",
 			"desc": "Maps of the locations for Vivillon's forms in the Nintendo 3DS games",
 			"lang": "Python",
-			"stars": 4,
-			"watches": 4,
+			"stars": 5,
+			"watches": 5,
 			"forks": 1
 		}
 	},
@@ -9703,8 +9703,8 @@
 			"url": "https://github.com/PretendoNetwork/Inkay",
 			"desc": "Wii U Pretendo Network patches (Aroma)",
 			"lang": "C++",
-			"stars": 231,
-			"watches": 231,
+			"stars": 232,
+			"watches": 232,
 			"forks": 68
 		}
 	},
@@ -9739,8 +9739,8 @@
 			"url": "https://github.com/ANSSI-FR/Binacle",
 			"desc": "Full-bin indexation of binary files",
 			"lang": "Rust",
-			"stars": 91,
-			"watches": 91,
+			"stars": 92,
+			"watches": 92,
 			"forks": 10
 		}
 	},
@@ -9772,8 +9772,8 @@
 			"url": "https://github.com/mlm-games/CLauncher",
 			"desc": "Minimal Launcher for Android. Don't open random apps without thinking and reduce your screen time.",
 			"lang": "Kotlin",
-			"stars": 47,
-			"watches": 47,
+			"stars": 48,
+			"watches": 48,
 			"forks": 4
 		}
 	},
@@ -9851,16 +9851,16 @@
 		"name": "Aurorus",
 		"slug": "aurorus",
 		"repo": {
-			"id": 1002508072,
-			"name": "aurorus",
-			"full_name": "irvingdinh/aurorus",
-			"owner_name": "irvingdinh",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/59089337?v=4",
-			"url": "https://github.com/irvingdinh/aurorus",
-			"desc": "Lorem ipsum dolor sit amet",
-			"lang": "TypeScript",
-			"stars": 0,
-			"watches": 0,
+			"id": 1349629404,
+			"name": "AuRoRus",
+			"full_name": "Noce99/AuRoRus",
+			"owner_name": "Noce99",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/25247527?v=4",
+			"url": "https://github.com/Noce99/AuRoRus",
+			"desc": "An AUtonomous ROboracer RUSt Project",
+			"lang": "Rust",
+			"stars": 8,
+			"watches": 8,
 			"forks": 0
 		}
 	},
@@ -9992,16 +9992,16 @@
 		"name": "Trevenant",
 		"slug": "trevenant",
 		"repo": {
-			"id": 582305557,
-			"name": "trevenant",
-			"full_name": "ikrishg/trevenant",
-			"owner_name": "ikrishg",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/135469703?v=4",
-			"url": "https://github.com/ikrishg/trevenant",
-			"desc": "Beautiful Opinionated Logging for Node.js ✍️",
-			"lang": "TypeScript",
-			"stars": 3,
-			"watches": 3,
+			"id": 1113512216,
+			"name": "Trevenant",
+			"full_name": "zacharybussey/Trevenant",
+			"owner_name": "zacharybussey",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/2642026?v=4",
+			"url": "https://github.com/zacharybussey/Trevenant",
+			"desc": "A Pokemon damage calculator designed for Nuzlockes",
+			"lang": "Elm",
+			"stars": 0,
+			"watches": 0,
 			"forks": 0
 		}
 	},
@@ -10348,14 +10348,14 @@
 		"name": "Grubbin",
 		"slug": "grubbin",
 		"repo": {
-			"id": 784583016,
+			"id": 1416271757,
 			"name": "grubbin",
-			"full_name": "skiz/grubbin",
-			"owner_name": "skiz",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/2969?v=4",
-			"url": "https://github.com/skiz/grubbin",
-			"desc": "Janky example of bending canvas with react.  ~Not a best practices example~",
-			"lang": "JavaScript",
+			"full_name": "airframes120/grubbin",
+			"owner_name": "airframes120",
+			"owner_avatar": "https://avatars.githubusercontent.com/u/248590419?v=4",
+			"url": "https://github.com/airframes120/grubbin",
+			"desc": "lunch WOD",
+			"lang": "HTML",
 			"stars": 0,
 			"watches": 0,
 			"forks": 0
@@ -10369,20 +10369,7 @@
 	{
 		"id": "738",
 		"name": "Vikavolt",
-		"slug": "vikavolt",
-		"repo": {
-			"id": 1138697519,
-			"name": "Vikavolt",
-			"full_name": "codyuehara/Vikavolt",
-			"owner_name": "codyuehara",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/76977946?v=4",
-			"url": "https://github.com/codyuehara/Vikavolt",
-			"desc": "Autonomous Drone",
-			"lang": "C#",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "vikavolt"
 	},
 	{
 		"id": "739",
@@ -10652,8 +10639,8 @@
 			"url": "https://github.com/dejavu1987/comfey",
 			"desc": "Comfey is a tiny data binding library inspired by React hook useState. Read more in Comfey Wiki",
 			"lang": "JavaScript",
-			"stars": 2,
-			"watches": 2,
+			"stars": 3,
+			"watches": 3,
 			"forks": 0
 		}
 	},
@@ -10749,20 +10736,7 @@
 	{
 		"id": "775",
 		"name": "Komala",
-		"slug": "komala",
-		"repo": {
-			"id": 218632918,
-			"name": "komala",
-			"full_name": "cloutsocks/komala",
-			"owner_name": "cloutsocks",
-			"owner_avatar": "https://avatars.githubusercontent.com/u/4283738?v=4",
-			"url": "https://github.com/cloutsocks/komala",
-			"desc": "Pokémon for Discord",
-			"lang": "Python",
-			"stars": 0,
-			"watches": 0,
-			"forks": 0
-		}
+		"slug": "komala"
 	},
 	{
 		"id": "776",
@@ -10881,8 +10855,8 @@
 			"url": "https://github.com/echosonusharma/cosmog",
 			"desc": "A fast, native app for managing files across any S3-compatible provider on desktop and android.",
 			"lang": "Rust",
-			"stars": 5,
-			"watches": 5,
+			"stars": 7,
+			"watches": 7,
 			"forks": 1
 		}
 	},
@@ -11078,8 +11052,8 @@
 			"url": "https://github.com/cheeaun/stakataka",
 			"desc": "A browser extension that visualizes (Service Worker) Cache Storage for web sites",
 			"lang": "JavaScript",
-			"stars": 11,
-			"watches": 11,
+			"stars": 10,
+			"watches": 10,
 			"forks": 0
 		}
 	},
@@ -11510,8 +11484,8 @@
 			"url": "https://github.com/zqxwce/appletun",
 			"desc": "A utility for creating and connecting to a local VPN for iOS devices allowing HTTP proxy without device supervision for all connections (not limited to Wi-Fi)",
 			"lang": "Python",
-			"stars": 51,
-			"watches": 51,
+			"stars": 52,
+			"watches": 52,
 			"forks": 3
 		}
 	},

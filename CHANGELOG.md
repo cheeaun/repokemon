@@ -1,3 +1,26 @@
+# Thu, 15 Oct 2026 01:08:31 GMT
+
+## Added: 1
+
+- BigCoke233/weepinbell
+
+## Removed: 3
+
+- juandurante2005/kyurem
+- codyuehara/Vikavolt
+- cloutsocks/komala
+
+## Changed: 8
+
+- BTheDragonMaster/RAIChU → XiaoTaoWang/Raichu
+- Cpt-Karthik/cyndaquil → xiphos-0123/cyndaquil
+- BrianCassriel/Darkrai → Spidey173/Darkrai
+- 99nil/arceus → FirezTheGreat/Arceus
+- aaaiuiuiu/rufflet → Rufflet/Rufflet
+- irvingdinh/aurorus → Noce99/AuRoRus
+- ikrishg/trevenant → zacharybussey/Trevenant
+- skiz/grubbin → airframes120/grubbin
+
 # Thu, 01 Oct 2026 01:13:34 GMT
 
 ## Added: 5
