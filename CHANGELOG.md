@@ -1,3 +1,21 @@
+# Sun, 01 Nov 2026 01:05:25 GMT
+
+## Added: 1
+
+- mevarx/Kyurem
+
+## Changed: 9
+
+- sj1607/Haunter → taylorbryant/haunter
+- B1ue-Dev/Articuno → rotemhacks/articuno
+- waldh4ri/ninjask → dcabatin/Ninjask
+- vbalasankar/metagross → abhiksark/metagross
+- Jeet-Srivastava/Giratina → Euler-Constant/Giratina
+- Agora0x/deino → xenshreyas/Deino
+- ptrckqn/wooloo → rarce/wooloo
+- kanlilolilo/Lechonk → wjnicol/LeChonk
+- jcalvinowens/nacli → prof-miles0/nacli
+
 # Thu, 15 Oct 2026 01:08:31 GMT
 
 ## Added: 1
