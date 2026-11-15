@@ -1,3 +1,25 @@
+# Sun, 15 Nov 2026 01:05:46 GMT
+
+## Added: 3
+
+- bryanz35/Clawitzer
+- shawnatak926/silvally
+- cloutsocks/komala
+
+## Changed: 11
+
+- pagvac/spinarak → fortheusers/spinarak
+- getlantern/lanturn → SAITANUSH7/LanTURN
+- JaiGatsby/Wynaut → andncl/wynaut
+- Huddle01/chatot → ziangit/chatot
+- Spidey173/Darkrai → Souravshukla007/Darkrai
+- 23070639-boop/oshawott → ming-kang/Oshawott
+- chimerror/galvantula → brokentari/galvantula
+- adithyasource/axew → GirardiMatheus/axew
+- GBAkshaya/glimmora → ridhigarg186-svg/Glimmora
+- Makabeez/iron-hands → hardcoredev-satck/iron-hands
+- Player149/iron-crown → daichiyutani-jpg/iron-crown
+
 # Sun, 01 Nov 2026 01:05:25 GMT
 
 ## Added: 1
